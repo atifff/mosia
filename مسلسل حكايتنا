@@ -1,6 +1,9 @@
 {
-  
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/lDhVH16JvgZz3D-oD81WDT1oe4M\"",
   "pageInfo": {
+    "totalResults": 21,
+    "resultsPerPage": 50
   },
   "snippet": [
     {
