@@ -1,0 +1,1720 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Utjowp_p_DH6pGDTRNVJ4gJxC6A\"",
+ "pageInfo": {
+  "totalResults": 38,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/ysD8NjyLOgKGEE8VILNYe_KqOlQ\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby4xOTEzQzhBQzU3MDNDNjcz",
+   "snippet": {
+    "publishedAt": "2018-05-13T10:55:05.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "Majid Kids TV - أمونة المزيونة - حلقة \"نعمة المياة\" - قناة ماجد",
+    "description": "الماء نعمةٌ كبيرة حقاً! فهل تُقِّدر أمونة هذه النعمة الغالية أم أنها تهدرها؟ وماذا قرر والدها أن يفعل حتى يجعل أمونة وإخوتها يقدرون نعمة المياة وماذا كانت النتيجة يا تُرى؟",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GLo9gJ5ToKE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GLo9gJ5ToKE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GLo9gJ5ToKE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/GLo9gJ5ToKE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/GLo9gJ5ToKE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "GLo9gJ5ToKE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/ux6rqB5KZ4SDAqT9Thbe3jrHydI\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby5BRjJDODk5REM0NjkzMUIy",
+   "snippet": {
+    "publishedAt": "2018-04-17T14:12:19.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "Majid Kids TV - أمونة المزيونة - حلقة \"وحدي في المنزل\" - قناة ماجد",
+    "description": "تُرى ماذا وجدت أمونة أثناء بحثها عن ألبوم الصور القديم لوالدها؟ وهل أحبت التغيير الكبير الذي تسبب فيه ذلك الشيء العجيب الذي وجدته في غرفة الأشياء القديمة؟ شاهدي هذه الحلقة الممتعة من \"أمونة المزيونة\" لتعرفي الإجابة!\n  www.majid.ae \n\nالتردد :\nنايل سات : أفقي ١٢٤٦٧ (HD)\nبدر ٦ : أفقي ١١٨٠٤ (SD)\n\n https://www.facebook.com/majidkidstv\nhttps://instagram.com/majidkidstv/\nhttps://twitter.com/majidkidstv\nكل الحقوق محفوظة لشركة ماجد للترفيه *",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pzgKP9DDmYA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pzgKP9DDmYA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pzgKP9DDmYA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/pzgKP9DDmYA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/pzgKP9DDmYA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "pzgKP9DDmYA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/VjSjtDu5EAnhl-zk03gELDKS9Sc\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby40QTA3NTU2RkM1QzlCMzYx",
+   "snippet": {
+    "publishedAt": "2017-04-20T13:29:34.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "كرتون أمونة - حلقة \"أنتِ أنا\" ج 2 - قناة ماجد Majid Kids TV",
+    "description": "حلقات جديدة وممتعة قريبا على قناة ماجد !\n*أمونة برعاية هيئة الصحة - أبوظبي \n  www.majid.ae \nالتردد :\nنايل سات : أفقي ١٢٤٦٧ (HD)\nبدر ٦ : أفقي ١١٨٠٤ (SD)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tuFz44JCvSc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tuFz44JCvSc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tuFz44JCvSc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/tuFz44JCvSc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/tuFz44JCvSc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "tuFz44JCvSc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/3gXevg_BwljHjkJjyObKsMWBj0c\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby45RjNFMDhGQ0Q2RkFCQTc1",
+   "snippet": {
+    "publishedAt": "2017-04-19T13:25:42.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "كرتون أمونة - حلقة \"أنتِ أنا\" - قناة ماجد  Majid Kids TV",
+    "description": "حلقات جديدة وممتعة قريبا على قناة ماجد !\n*أمونة برعاية هيئة الصحة - أبوظبي \n  www.majid.ae \nالتردد :\nنايل سات : أفقي ١٢٤٦٧ (HD)\nبدر ٦ : أفقي ١١٨٠٤ (SD)\n\n https://www.facebook.com/majidkidstv\nhttps://instagram.com/majidkidstv/\nhttps://twitter.com/majidkidstv\nكل الحقوق محفوظة لشركة ماجد للترفيه *",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/67Qe3GPUcoI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/67Qe3GPUcoI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/67Qe3GPUcoI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/67Qe3GPUcoI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/67Qe3GPUcoI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "67Qe3GPUcoI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/19Uf9dkYnM9LyR5zmidaPnj-nDk\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby42MTI4Njc2QjM1RjU1MjlG",
+   "snippet": {
+    "publishedAt": "2017-01-10T12:18:54.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "أمونة - حلقة \"مخدتي وأنا\" ج2 - قناة ماجد Majid Kids TV",
+    "description": "أمونة : طفلة عمرها ٧ سنوات ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \n  www.majid.ae \nالتردد :\nنايل سات : أفقي ١٢٤٦٧ (HD)\nبدر ٦ : أفقي ١١٨٠٤ (SD)\n\n https://www.facebook.com/majidkidstv\nhttps://instagram.com/majidkidstv/\nhttps://twitter.com/majidkidstv\nكل الحقوق محفوظة لشركة ماجد للترفيه *",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/l6FViysPteo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/l6FViysPteo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/l6FViysPteo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/l6FViysPteo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/l6FViysPteo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "l6FViysPteo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/d33EsQ9w6hNlnNmsb33eYnfHzdI\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby5CMEQ2Mjk5NTc3NDZFRUNB",
+   "snippet": {
+    "publishedAt": "2016-11-24T09:26:33.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "أمونة - حلقة أمونة الكبيرة - قناة ماجد  Majid Kids TV",
+    "description": "أمونة : طفلة عمرها ٧ سنوات ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \n !\n  www.majid.ae \n\nالتردد :\nنايل سات : أفقي ١٢٤٦٧ (HD)\nبدر ٦ : أفقي ١١٨٠٤ (SD)\n\n https://www.facebook.com/majidkidstv\nhttps://instagram.com/majidkidstv/\nhttps://twitter.com/majidkidstv\nكل الحقوق محفوظة لشركة ماجد للترفيه *",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Mvokc8aWrDU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Mvokc8aWrDU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Mvokc8aWrDU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Mvokc8aWrDU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Mvokc8aWrDU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Mvokc8aWrDU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/D0yncOMJTzIUL625wwEtwiTNjm8\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby4zRDBDOEZDOUM0MDY5NEEz",
+   "snippet": {
+    "publishedAt": "2016-11-07T10:43:32.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "أمونة - المشط السحري ج2-  قناة ماجد - Majid kids TV",
+    "description": "أمونة خطفها الفضائيون ! \nالجزء الأول :https://youtu.be/Y6bXZsZWAyw\nأمونة : طفلة  ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \n تعرف عليها بالصوت والصورة في كرتون أمونة على قناة ماجد !\nكل الحقوق محفوظة *\nwww.majid.ae",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4bxYzkBSxv8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4bxYzkBSxv8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4bxYzkBSxv8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4bxYzkBSxv8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/4bxYzkBSxv8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4bxYzkBSxv8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/2vF2FeG-nxxA-E2AcZL_3B6tXsY\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby41QUZGQTY5OTE4QTREQUU4",
+   "snippet": {
+    "publishedAt": "2016-11-06T13:21:21.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "أمونة - زر الاختفاء ج2- قناة ماجد - Majid Kids TV",
+    "description": "أمونة : طفلة عمرها ٧ سنوات ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \n !\n  www.majid.ae \n\nالتردد :\nنايل سات : أفقي ١٢٤٦٧ (HD)\nبدر ٦ : أفقي ١١٨٠٤ (SD)\n\n https://www.facebook.com/majidkidstv\nhttps://instagram.com/majidkidstv/\nhttps://twitter.com/majidkidstv\nكل الحقوق محفوظة لشركة ماجد للترفيه *",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oylxRevgGBU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oylxRevgGBU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oylxRevgGBU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/oylxRevgGBU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/oylxRevgGBU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "oylxRevgGBU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/jFHifMVMO6BNP4GUy_Ig6MGo2v4\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby43NDhFRTgwOTRERTU4Rjg3",
+   "snippet": {
+    "publishedAt": "2016-10-30T11:50:57.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "أمونة - زر الاختفاء- قناة ماجد -  Majid Kids TV",
+    "description": "أمونة : طفلة عمرها ٧ سنوات ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \n !\n  www.majid.ae \n\nالتردد :\nنايل سات : أفقي ١٢٤٦٧ (HD)\nبدر ٦ : أفقي ١١٨٠٤ (SD)\n\n https://www.facebook.com/majidkidstv\nhttps://instagram.com/majidkidstv/\nhttps://twitter.com/majidkidstv\nكل الحقوق محفوظة لشركة ماجد للترفيه *",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/OlP2pZlq_c0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/OlP2pZlq_c0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/OlP2pZlq_c0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/OlP2pZlq_c0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/OlP2pZlq_c0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "OlP2pZlq_c0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/8aqfECLKZb0tSVZemphSCdwTgFc\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby44Mjc5REFBRUE2MTdFRDU0",
+   "snippet": {
+    "publishedAt": "2016-10-16T06:57:28.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "أمونة - حلقة ذهبية - قناة ماجد - Majid Kids TV",
+    "description": "أمونة : طفلة  ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \n تعرف عليها بالصوت والصورة في كرتون أمونة على قناة ماجد !\nكل الحقوق محفوظة *\nwww.majid.ae",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NuXFOCOc9Zo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NuXFOCOc9Zo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NuXFOCOc9Zo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/NuXFOCOc9Zo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/NuXFOCOc9Zo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "NuXFOCOc9Zo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/VaNsdBuAkl0aWP_JWwTNFoAg7x0\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby4yQUE2Q0JEMTk4NTM3RTZC",
+   "snippet": {
+    "publishedAt": "2016-09-15T06:49:17.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "كرتون أمونة - حلقة الحرب ج2- قناة ماجد Majid Kids TV",
+    "description": "ما هي حقيقة الحرب ين أمونة وسيف ؟!\n شاهد الجزء الأول الآن :https://youtu.be/zcL0qGU8ohg\nأمونة : طفلة  ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \n تعرف عليها بالصوت والصورة في كرتون أمونة على قناة ماجد !\nكل الحقوق محفوظة *\nwww.majid.ae",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/r9PkmfKw5U8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/r9PkmfKw5U8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/r9PkmfKw5U8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/r9PkmfKw5U8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/r9PkmfKw5U8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "r9PkmfKw5U8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/O4ocNqm2cj9Vfx6uU6t4w7VvnGs\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby5DMkU4NTY1QUFGQTYwMDE3",
+   "snippet": {
+    "publishedAt": "2016-09-15T06:49:17.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "كرتون أمونة - حلقة الحرب ج1- قناة ماجد  Majid Kids TV",
+    "description": "ما هي حقيقة الحرب ين أمونة وسيف ؟!\nأمونة : طفلة  ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \n تعرف عليها بالصوت والصورة في كرتون أمونة على قناة ماجد !\nكل الحقوق محفوظة *\nwww.majid.ae",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zcL0qGU8ohg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zcL0qGU8ohg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zcL0qGU8ohg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/zcL0qGU8ohg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/zcL0qGU8ohg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "zcL0qGU8ohg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/iNHAyhH7VLAdjTIQFEJRhC44ido\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby5DNzE1RjZEMUZCMjA0RDBB",
+   "snippet": {
+    "publishedAt": "2016-08-31T08:00:34.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "كرتون أمونة - الكذب ج 2- قناة ماجد  Majid Kids TV",
+    "description": "الجزء الأول :\nhttps://youtu.be/RxT6EF7GaVw\nأمونة : طفلة  ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \n تعرف عليها بالصوت والصورة في كرتون أمونة على قناة ماجد !\nكل الحقوق محفوظة *\nwww.majid.ae",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4NjSLn-EjC8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4NjSLn-EjC8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4NjSLn-EjC8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4NjSLn-EjC8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/4NjSLn-EjC8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4NjSLn-EjC8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/n5g57G6xdTLSLQz0qYbjvBTvmqg\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby43MTI1NDIwOTMwQjIxMzNG",
+   "snippet": {
+    "publishedAt": "2016-08-31T08:00:34.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "كرتون أمونة - الكذب ج1 - قناة ماجد  Majid Kids TV",
+    "description": "شاهد الجزء الثاني الآن:https://youtu.be/4NjSLn-EjC8\nأمونة : طفلة  ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \n تعرف عليها بالصوت والصورة في كرتون أمونة على قناة ماجد !\nكل الحقوق محفوظة *\nwww.majid.ae",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RxT6EF7GaVw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RxT6EF7GaVw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RxT6EF7GaVw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/RxT6EF7GaVw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/RxT6EF7GaVw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "RxT6EF7GaVw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/TPPOm9qOvEWH0FK-vvCQnQsJ74o\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby45NzUwQkI1M0UxNThBMkU0",
+   "snippet": {
+    "publishedAt": "2016-08-09T05:04:07.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "أمونة - حلقة المشط السحري - قناة ماجد Majid Kids TV",
+    "description": "أمونة اختطفها الفضائيون ! \n..\nأمونة : طفلة  ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \n تعرف عليها بالصوت والصورة في كرتون أمونة على قناة ماجد !\nكل الحقوق محفوظة *\nwww.majid.ae",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Y6bXZsZWAyw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Y6bXZsZWAyw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Y6bXZsZWAyw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Y6bXZsZWAyw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Y6bXZsZWAyw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Y6bXZsZWAyw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/_F7reJICfnj-G8HlWm_KnDi1IUs\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby5DQ0MyQ0Y4Mzg0M0VGOEYw",
+   "snippet": {
+    "publishedAt": "2016-09-01T12:04:18.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "كرتون أمونة - عيد ميلاد أمونة ج 2ـ قناة ماجد  Majid Kids TV",
+    "description": "هل حصلت أمونة على هدايا في عيد ميلادها ؟\nأمونة : طفلة  ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \n تعرف عليها بالصوت والصورة في كرتون أمونة على قناة ماجد !\nكل الحقوق محفوظة *",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2sWiBAuv_7s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2sWiBAuv_7s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2sWiBAuv_7s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/2sWiBAuv_7s/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/2sWiBAuv_7s/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "2sWiBAuv_7s"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/2sywKqcYrDP7mOXnLnSyUIjXQeY\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby4zRjM0MkVCRTg0MkYyQTM0",
+   "snippet": {
+    "publishedAt": "2016-07-26T11:19:39.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "كرتون أمونة - عيد ميلاد أمونة ج1- قناة ماجد  Majid Kids TV",
+    "description": "إنه اليوم الذي تنتظره أمونة كل عام بفارغ الصبر! \nأمونة : طفلة  ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \n تعرف عليها بالصوت والصورة في كرتون أمونة على قناة ماجد !\nكل الحقوق محفوظة *",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/AQpK7JFW6ks/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/AQpK7JFW6ks/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/AQpK7JFW6ks/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/AQpK7JFW6ks/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/AQpK7JFW6ks/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "AQpK7JFW6ks"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/aEE_-DNRtnGyPjLKme72jWEAVv8\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby5GM0Q3M0MzMzY5NTJFNTdE",
+   "snippet": {
+    "publishedAt": "2016-07-26T06:12:20.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "أمونة - حلقة النميمة ج 2 - قناة ماجد -Majid Kids TV",
+    "description": "أمونة : طفلة عمرها ٧ سنوات ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \n تعرف عليها بالصوت والصورة في كرتون أمونة على قناة ماجد !\nكل الحقوق محفوظة *",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/l3p7sFPFc5Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/l3p7sFPFc5Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/l3p7sFPFc5Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/l3p7sFPFc5Y/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/l3p7sFPFc5Y/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "l3p7sFPFc5Y"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/mRBrm8B8WsaHHGQbl1jgXpaUv6g\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby4yMDhBMkNBNjRDMjQxQTg1",
+   "snippet": {
+    "publishedAt": "2016-07-14T11:46:18.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "أمونة - حلقة النميمة ج1- قناة ماجد- Majid Kids TV",
+    "description": "أمونة : طفلة عمرها ٧ سنوات ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \n تعرف عليها بالصوت والصورة في كرتون أمونة على قناة ماجد !\nكل الحقوق محفوظة *",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8MzCFjd_uVw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8MzCFjd_uVw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8MzCFjd_uVw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/8MzCFjd_uVw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/8MzCFjd_uVw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "8MzCFjd_uVw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/yFZmMTWZzXU4WBOty5I75yT9qHE\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby4zMDg5MkQ5MEVDMEM1NTg2",
+   "snippet": {
+    "publishedAt": "2016-07-12T07:24:45.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "أمونة - كيك أمونة ج2 - قناة ماجد Majid Kids TV",
+    "description": "هل ستفوز أمونة في مسابقة أفضل كيك؟!\nأمونة : طفلة عمرها ٧ سنوات ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة\n  www.majid.ae \n\nالتردد :\nنايل سات : أفقي ١٢٤٦٧ (HD)\nبدر ٦ : أفقي ١١٨٠٤ (SD)\n\n https://www.facebook.com/majidkidstv\nhttps://instagram.com/majidkidstv/\nhttps://twitter.com/majidkidstv\nكل الحقوق محفوظة لشركة ماجد للترفيه *",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JNuNh52l0HQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JNuNh52l0HQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JNuNh52l0HQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/JNuNh52l0HQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/JNuNh52l0HQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "JNuNh52l0HQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Gq5tDlQASIA20PnYzsVdZhCQyak\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby41Mzk2QTAxMTkzNDk4MDhF",
+   "snippet": {
+    "publishedAt": "2016-07-12T07:24:45.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "أمونة - كيك أمونة ج1- قناة ماجد Majid Kids TV",
+    "description": "أمونة قررت إعداد الكيك لأول مرة فكانت هذه النتيجة! \nمونة : طفلة عمرها ٧ سنوات ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \n تعرف عليها بالصوت والصورة في كرتون أمونة على قناة ماجد في حلقات جديدة ممتعة وطريفة !\n*أمونة برعاية هيئة الصحة - أبوظبي \n  www.majid.ae \n\nالتردد :\nنايل سات : أفقي ١٢٤٦٧ (HD)\nبدر ٦ : أفقي ١١٨٠٤ (SD)\n\n https://www.facebook.com/majidkidstv\nhttps://instagram.com/majidkidstv/\nhttps://twitter.com/majidkidstv\nكل الحقوق محفوظة لشركة ماجد للترفيه *",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DIC56zpFcak/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DIC56zpFcak/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DIC56zpFcak/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/DIC56zpFcak/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/DIC56zpFcak/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 20,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "DIC56zpFcak"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/OTvXKVTY4fHWZUPLJvuu-89Gx9o\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby5EQUE1NTFDRjcwMDg0NEMz",
+   "snippet": {
+    "publishedAt": "2016-07-12T07:24:45.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "أمونة - نظافة الشعر - قناة ماجد Majid Kids TV",
+    "description": "أمونة : طفلة عمرها ٧ سنوات ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \n تعرف عليها بالصوت والصورة في كرتون أمونة على قناة ماجد في حلقات جديدة ممتعة وطريفة !\n*أمونة برعاية هيئة الصحة - أبوظبي \n  www.majid.ae \n\nالتردد :\nنايل سات : أفقي ١٢٤٦٧ (HD)\nبدر ٦ : أفقي ١١٨٠٤ (SD)\n\n https://www.facebook.com/majidkidstv\nhttps://instagram.com/majidkidstv/\nhttps://twitter.com/majidkidstv\nكل الحقوق محفوظة لشركة ماجد للترفيه *",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/abNPGWIv5OI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/abNPGWIv5OI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/abNPGWIv5OI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/abNPGWIv5OI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/abNPGWIv5OI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 21,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "abNPGWIv5OI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/8wMM73P6J2SPWbCRp_XMek_ufSA\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby41QTY1Q0UxMTVCODczNThE",
+   "snippet": {
+    "publishedAt": "2016-07-12T07:24:45.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "أمونة -  نعمة الماء - قناة ماجد  Majid kids TV",
+    "description": "من المسؤول عن إهدار المياه في بيت أمونة ؟\n\nأمونة : طفلة عمرها ٧ سنوات ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \n تعرف عليها بالصوت والصورة في كرتون أمونة على قناة ماجد في حلقات جديدة ممتعة وطريفة !\n*أمونة برعاية هيئة الصحة - أبوظبي \n  www.majid.ae \n\nالتردد :\nنايل سات : أفقي ١٢٤٦٧ (HD)\nبدر ٦ : أفقي ١١٨٠٤ (SD)\n\n https://www.facebook.com/majidkidstv\nhttps://instagram.com/majidkidstv/\nhttps://twitter.com/majidkidstv\nكل الحقوق محفوظة لشركة ماجد للترفيه *",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RKBywLzlaV4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RKBywLzlaV4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RKBywLzlaV4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/RKBywLzlaV4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/RKBywLzlaV4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 22,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "RKBywLzlaV4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/ZhAWdHcGSdw54KhOmkzoskQZVYA\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby4yMUQyQTQzMjRDNzMyQTMy",
+   "snippet": {
+    "publishedAt": "2016-07-12T07:24:45.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "أمونة - إهدار المياه - قناة ماجد  Majid KidsTV",
+    "description": "روتين أمونة الصباحي يحتاج إلى تدخل فوري ! \n\nأمونة : طفلة عمرها ٧ سنوات ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \n تعرف عليها بالصوت والصورة في كرتون أمونة على قناة ماجد في حلقات جديدة ممتعة وطريفة !\n*أمونة برعاية هيئة الصحة - أبوظبي \n  www.majid.ae \n\nالتردد :\nنايل سات : أفقي ١٢٤٦٧ (HD)\nبدر ٦ : أفقي ١١٨٠٤ (SD)\n\n https://www.facebook.com/majidkidstv\nhttps://instagram.com/majidkidstv/\nhttps://twitter.com/majidkidstv\nكل الحقوق محفوظة لشركة ماجد للترفيه *",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/A1oJY46v9II/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/A1oJY46v9II/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/A1oJY46v9II/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/A1oJY46v9II/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/A1oJY46v9II/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 23,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "A1oJY46v9II"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/SOI3wnHQLYld7fpakakdJHKzsBg\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby45RTgxNDRBMzUwRjQ0MDhC",
+   "snippet": {
+    "publishedAt": "2016-07-12T07:24:45.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "أمونة - التابلت - قناة ماجد  Majid Kids TV",
+    "description": "ماذا فعل التابلت بأمونة ؟ شاهد الآن \nأمونة : طفلة عمرها ٧ سنوات ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \n تعرف عليها بالصوت والصورة في كرتون أمونة على قناة ماجد !\nكل الحقوق محفوظة *",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/o4xHzX82bQo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/o4xHzX82bQo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/o4xHzX82bQo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/o4xHzX82bQo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/o4xHzX82bQo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 24,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "o4xHzX82bQo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Vk8oywbeqG1wRXE1cChYMtGCCVw\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby5ENDU4Q0M4RDExNzM1Mjcy",
+   "snippet": {
+    "publishedAt": "2016-07-12T07:24:45.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "أمونة - البرنامج الناسخ - قناة ماجد Majid Kids TV",
+    "description": "هل ستستمع أمونة لنصائح والدتها ؟ شاهد الآن \n\nأمونة : طفلة عمرها ٧ سنوات ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \n تعرف عليها بالصوت والصورة في كرتون أمونة على قناة ماجد !\nكل الحقوق محفوظة *",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/v65_p029_uo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/v65_p029_uo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/v65_p029_uo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/v65_p029_uo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/v65_p029_uo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 25,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "v65_p029_uo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/EvBt6CFdtTIUyAExZsLTblRVdvU\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby5EMEEwRUY5M0RDRTU3NDJC",
+   "snippet": {
+    "publishedAt": "2016-02-14T13:40:04.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "كرتون أمونة - أمونة وخربوش - قناة ماجد Majid Kids TV",
+    "description": "ماذا حدث عندما أهملت أمونة نظافتها ونظافة المكان حولها ؟! \nأمونة : طفلة عمرها ٧ سنوات ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \n تعرف عليها بالصوت والصورة في كرتون أمونة على قناة ماجد كل اثنين وأربعاء في حلقات جديدة ممتعة وطريفة !\n*أمونة برعاية هيئة الصحة - أبوظبي \n  www.majid.ae \n\nالتردد :\nنايل سات : أفقي ١٢٤٦٧ (HD)\nبدر ٦ : أفقي ١١٨٠٤ (SD)\n\n https://www.facebook.com/majidkidstv\nhttps://instagram.com/majidkidstv/\nhttps://twitter.com/majidkidstv\nكل الحقوق محفوظة لشركة ماجد للترفيه *",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/17NQ4xXO_3M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/17NQ4xXO_3M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/17NQ4xXO_3M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/17NQ4xXO_3M/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/17NQ4xXO_3M/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 26,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "17NQ4xXO_3M"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/bARtxRbeFGEWOO_neGG8gBc1aNk\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby40NzZCMERDMjVEN0RFRThB",
+   "snippet": {
+    "publishedAt": "2016-02-14T05:49:39.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "كرتون أمونة - حلقة النظافة - قناة ماجد Majid Kids TV",
+    "description": "ماذا حدث عندما أهملت أمونة نظافتها ونظافة المكان حولها ؟! \n\nأمونة : طفلة عمرها ٧ سنوات ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \n تعرف عليها بالصوت والصورة في كرتون أمونة على قناة ماجد كل اثنين وأربعاء في حلقات جديدة ممتعة وطريفة !\n*أمونة برعاية هيئة الصحة - أبوظبي \n  www.majid.ae \n\nالتردد :\nنايل سات : أفقي ١٢٤٦٧ (HD)\nبدر ٦ : أفقي ١١٨٠٤ (SD)\n\n https://www.facebook.com/majidkidstv\nhttps://instagram.com/majidkidstv/\nhttps://twitter.com/majidkidstv\nكل الحقوق محفوظة لشركة ماجد للترفيه *",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kLVFcMFNG5o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kLVFcMFNG5o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kLVFcMFNG5o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/kLVFcMFNG5o/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/kLVFcMFNG5o/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 27,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "kLVFcMFNG5o"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/eA7TDjteItmY2Xz_HSYsCeLdz4M\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2015-12-22T13:14:23.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "كرتون أمونة - أمونة تنتصر على الرجل الآلي - قناة ماجد Majid Kids TV",
+    "description": "أمونة اكتشفت أن الانتصار على الشر لا يحتاج إلى قوة خارقة ..\nأمونة : طفلة عمرها ٧ سنوات ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \n تعرف عليها بالصوت والصورة في كرتون أمونة على قناة ماجد كل اثنين وأربعاء في حلقات جديدة ممتعة وطريفة !\n  www.majid.ae \n\nالتردد :\nنايل سات : أفقي ١٢٤٦٧ (HD)\nبدر ٦ : أفقي ١١٨٠٤ (SD)\n\n https://www.facebook.com/majidkidstv\nhttps://instagram.com/majidkidstv/\nhttps://twitter.com/majidkidstv\nكل الحقوق محفوظة لشركة ماجد للترفيه *",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/iYZj8XlGV8E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/iYZj8XlGV8E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/iYZj8XlGV8E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/iYZj8XlGV8E/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/iYZj8XlGV8E/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 28,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "iYZj8XlGV8E"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/mBCtMbl5SlCF-S4ajGJOOulHsD8\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2015-12-13T06:07:18.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "كرتون أمونة -  قوة خارقة - قناة ماجد Majid Kids TV",
+    "description": "أمونة تريد امتلاك قوة خارقة تساعدها في حل واجبات المدرسة فهل ستحصل عليها ؟\nأمونة : طفلة عمرها ٧ سنوات ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \n تعرف عليها بالصوت والصورة في كرتون أمونة على قناة ماجد كل اثنين وأربعاء في حلقات جديدة ممتعة وطريفة !\n  www.majid.ae \n\nالتردد :\nنايل سات : أفقي ١٢٤٦٧ (HD)\nبدر ٦ : أفقي ١١٨٠٤ (SD)\n\n https://www.facebook.com/majidkidstv\nhttps://instagram.com/majidkidstv/\nhttps://twitter.com/majidkidstv\nكل الحقوق محفوظة لشركة ماجد للترفيه *",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kGyB4B3XimM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kGyB4B3XimM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kGyB4B3XimM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/kGyB4B3XimM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/kGyB4B3XimM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 29,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "kGyB4B3XimM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/qYg07mF5ehNpzMbTwOAqHPwMJ9I\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2015-11-05T14:00:11.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "أمونة  تكافح الجراثيم - قناة ماجد Majid Kids Tv",
+    "description": "ماذا حدث لأمونة عندما قررت أن تعالج نفسها بالطب البديل ؟! \nأمونة : طفلة عمرها ٧ سنوات ذكية و متفوقة لكن شقية .. تعرف عليها بالصوت والصورة في كرتون أمونة على قناة ماجد كل أثنين وخميس في الساعة الخامسة والنصف بتوقيت الإمارات في حلقات جديدة ممتعة وطريفة والإعادة طوال الأسبوع !\nالحلقة الأولى : \nhttps://youtu.be/sGjpgBGdRvQ",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RzDABgIqo18/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RzDABgIqo18/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RzDABgIqo18/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/RzDABgIqo18/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/RzDABgIqo18/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 30,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "RzDABgIqo18"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/5ct2r7Q72TemRW5fpsYoVVvjQlw\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby45ODRDNTg0QjA4NkFBNkQy",
+   "snippet": {
+    "publishedAt": "2016-05-22T09:31:30.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "أمونة - نصف فصل أمونة غائب - قناة ماجد Majid Kids Tv",
+    "description": "لماذا غابوا التلاميذ عن المدرسة هذا اليوم ؟  \nأمونة : طفلة عمرها ٧ سنوات ذكية و متفوقة لكن شقية .. تعرف عليها بالصوت والصورة في كرتون أمونة على قناة ماجد كل  أثنين وأربعاء في حلقات جديدة ممتعة وطريفة والإعادة طوال الأسبوع !\nالحلقة الأولى : \nhttps://youtu.be/sGjpgBGdRvQ",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nLaHye6HmaM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nLaHye6HmaM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nLaHye6HmaM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/nLaHye6HmaM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/nLaHye6HmaM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 31,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "nLaHye6HmaM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/dHQ58IX8sBOn3VFrhqM5zlvAn60\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby41MzJCQjBCNDIyRkJDN0VD",
+   "snippet": {
+    "publishedAt": "2015-11-03T18:03:33.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "أمونة- سقوط الأسنان في ثقافات الشعوب - قناة ماجد -Majid Kids TV",
+    "description": "فيديو من حلقة \" السن اللبني \" أمونة   وصديقاتها يتحدثون عن سقوط الأسنان في ثقافات الشعوب المختلفة \n\nأمونة : طفلة عمرها ٧ سنوات ذكية و متفوقة لكن شقية .. تعرف عليها بالصوت والصورة في كرتون أمونة على قناة ماجد كل اثنين وأربعاء في حلقات جديدة ممتعة وطريفة والإعادة طوال الأسبوع !\nالحلقة الأولى : \nhttps://youtu.be/sGjpgBGdRvQ",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sxdmabFFBno/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sxdmabFFBno/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sxdmabFFBno/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/sxdmabFFBno/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/sxdmabFFBno/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 32,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "sxdmabFFBno"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/MBnsa3f_KpZ-KyzEeZOgk_f3YAE\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2015-11-02T07:48:44.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "كرتون أمونة -  أمونة تشكو من سنها  - قناة ماجد Majid Kids Tv",
+    "description": "أمونة تجد صعوبة في تناول الطعام  بسبب  سنها اللبني \nأمونة : طفلة عمرها ٧ سنوات ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \nتعرف عليها بالصوت والصورة في كرتون أمونة على قناة ماجد كل اثنين وأربعاء في حلقات جديدة ممتعة وطريفة  على قناة ماجد",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/p-fEkP_xPBA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/p-fEkP_xPBA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/p-fEkP_xPBA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/p-fEkP_xPBA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/p-fEkP_xPBA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 33,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "p-fEkP_xPBA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/uzgYizJa7iFbTHxzRde-u1LiaIM\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2015-11-02T07:48:44.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "كرتون أمونة - قناة ماجد - السن اللبني الجزء الثالث -Majid Kids Tv",
+    "description": "ماذا حدث لسن أمونة اللبني ؟ \nشاهد الجزء الثاني  من الحلقة الآن ! \nأمونة : طفلة عمرها ٧ سنوات ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \n تعرف عليها بالصوت والصورة في كرتون أمونة على قناة ماجد كل اثنين وأربعاء في حلقات جديدة ممتعة وطريفة !",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8G7TsVCRua8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8G7TsVCRua8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8G7TsVCRua8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/8G7TsVCRua8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/8G7TsVCRua8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 34,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "8G7TsVCRua8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/ugCWS2VazqhDRQWTwtFZHSpv4PQ\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2015-11-01T12:29:17.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "كرتون أمونة - قناة ماجد - السن اللبني- الجزء الثاني  Majid Kids Tv",
+    "description": "الحلقة الرابعة من كرتون أمونة على قناة ماجد \nأمونة : طفلة عمرها ٧ سنوات ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \nتعرف عليها بالصوت والصورة في كرتون أمونة على قناة ماجد كل اثنين و أربعاء في حلقات جديدة ممتعة وطريفة !\nwww.majid.ae \n\n\nالتردد :\nنايل سات : أفقي ١٢٤٦٧ (HD)\nبدر ٦ : أفقي ١١٨٠٤ (SD)\n\nhttps://www.facebook.com/majidkidstv\nhttps://instagram.com/majidkidstv/\nhttps://twitter.com/majidkidstv\nكل الحقوق محفوظة لشركة ماجد للترفيه *",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LZ1IBwaGV6g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LZ1IBwaGV6g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LZ1IBwaGV6g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/LZ1IBwaGV6g/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/LZ1IBwaGV6g/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 35,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "LZ1IBwaGV6g"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/v28bsPFHF58YSbFY7w1H4bD1TX0\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2015-11-01T12:29:17.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "كرتون أمونة على قناة ماجد- الحلقة الأولى   Majid Kids Tv",
+    "description": "الحلقة الأولى كاملة من كرتون أمونة الذي يُعرض على قناة ماجد بعنوان \" أخر يوم مدرسة \" \nأمونة : طفلة عمرها ٧ سنوات ذكية و متفوقة لكن شقية ..حريصة دائما على أن تكون نجمة الأسرة والمدرسة لخفة دمها وشخصيتها القيادية المميزة \n !\n  www.majid.ae \n\nالتردد :\nنايل سات : أفقي ١٢٤٦٧ (HD)\nبدر ٦ : أفقي ١١٨٠٤ (SD)\n\n https://www.facebook.com/majidkidstv\nhttps://instagram.com/majidkidstv/\nhttps://twitter.com/majidkidstv\nكل الحقوق محفوظة لشركة ماجد للترفيه *",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sGjpgBGdRvQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sGjpgBGdRvQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sGjpgBGdRvQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/sGjpgBGdRvQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/sGjpgBGdRvQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 36,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "sGjpgBGdRvQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Q58lPSwrjIZoaqUmz_gDda6bC1c\"",
+   "id": "UEw3bTR4S19JQzRNV016M08xbkMyTzNMand5YzB5bm9Gby41MjE1MkI0OTQ2QzJGNzNG",
+   "snippet": {
+    "publishedAt": "2015-11-01T12:29:17.000Z",
+    "channelId": "UCrvTAKeiHkB-ZTKxVBtk48A",
+    "title": "أمونة المزيونة برومو على قناة ماجد   Majid Tv",
+    "description": "أمونة : طفلة عمرها ٧ سنوات ذكية و متفوقة لكن شقية  .. تعرف عليها   بالصوت والصورة في كرتون أمونة على قناة ماجد كل أثنين وأربعاء  أي حلقات جديدة ممتعة وطريفة  والإعادة طوال الأسبوع !\nالحلقة الأولى : \nhttps://youtu.be/sGjpgBGdRvQ",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UywELkT57Go/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UywELkT57Go/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UywELkT57Go/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/UywELkT57Go/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/UywELkT57Go/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Majid Kids TV",
+    "playlistId": "PL7m4xK_IC4MWMz3O1nC2O3Ljwyc0ynoFo",
+    "position": 37,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "UywELkT57Go"
+    }
+   }
+  }
+ ]
+}
