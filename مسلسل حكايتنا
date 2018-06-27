@@ -5,20 +5,23 @@
     "totalResults": 21,
     "resultsPerPage": 50
   },
-  "snippet": [
+  "items": [
     {
       "snippet": {
-        "title": "سلطان قلبي الحلقة 1",
+        "title": "سلطان قلبي الحلقة 2",
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "8mdcaG7bqh0"
+          "videoId": "jr1aYydkudk"
         }
 
       }
     },
     {
+      
+      
       "snippet": {
         "title": "سلطان قلبي الحلقة 2",
+       
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "jr1aYydkudk"
