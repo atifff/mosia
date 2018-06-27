@@ -1,7 +1,7 @@
 {
   "parmiter": [
     {
-      "urlap": "org.archive.kurtunbialearabi",
+      "urlap": "org.archive.examplevideo",
       "b1": "5337188446",
       "b3": "9388114096",
       "i1": "8701718383",
@@ -75,7 +75,7 @@
     },
     {
       "user": "مدرسة البنات ",
-      "photo": "https://www.katkoute.com/watch/social-thumb.php?vid=52e895ffd",
+      "photo": "https://i.ytimg.com/vi/bb7cEopQhWo/maxresdefault.jpg",
       "viul": "https://raw.githubusercontent.com/atifff/mosika/master/مدرسة%20البنات"
     },
     {
@@ -88,6 +88,5 @@
       "photo": "https://www.stardima.com/home/upload/08-2016/article/stardima_KHALFAN-LOGO-1.jpg",
       "viul": "https://raw.githubusercontent.com/atifff/mosika/master/النقيب%20خلفان"
     }
-    
   ]
 }
