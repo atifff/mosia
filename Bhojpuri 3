@@ -1,0 +1,2026 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/x7V6kShYFVGDR-qbf7RDcoAXl6c\"",
+ "nextPageToken": "CDIQAA",
+ "pageInfo": {
+  "totalResults": 271,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/IkCVDFoH8B_U1rZwztOD8WihoCw\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC5DN0Y5ODNGRkJDMEIwNDZB",
+   "snippet": {
+    "publishedAt": "2016-09-23T16:31:17.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Khole Di Kevadiya Bhail Bhor - BHOJPURI HOT SONG | DINESH LAL YADAV ,AAMRAPALI DUBEY",
+    "description": "Song : Khole Di Kevadiya Bhail Bhor\nSinger : Kalpana, Rajnish\nLyrics : Shyam Dehati\nMusic  : Rajesh Rajnish\nMovie : MOKAMA 0 Km\nProducer : Sujit Tiwari \nStarcast : Dinesh Lal Yadav (Nirahua), Aamrapali Dubey, Sushil Singh, Anjana Singh, Sanjay Pandey, Manoj Tiger, Prakash Jais\nSET YOUR CALLER TUNE\nFor Reliance: SMS CT  8544029 to 51234\nFor Airtel: Dial 5432115867239 and follow instructions\nFor Vodafone: Dial 5378544029 and follow instructions\nFor Idea: Dial 567898544029 and follow instructions\nFor BSNL East : SMS BT  8544029 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  8544029 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 8544029 to 12800\nFor TATA Docomo: Dial 5432118544029 and follow instructions\nPresenter : CPI MOVIES \nDirector : Santosh Mishra\nMusic Director: Rajesh - Rajnish\nMusic On : Worldwide Records / CPI \nhttps://www.facebook.com/WorldwideRecordsbhojpuri\nhttp://gaana.com/album/mokama-0-km\n\nFor latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on \nYoutube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UXXo5iWYAEA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UXXo5iWYAEA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UXXo5iWYAEA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/UXXo5iWYAEA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "UXXo5iWYAEA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/x9ZnXo-311NFIU9lkmkSvyQiqig\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC5BRDAwMkFENUFBQkZFMDg1",
+   "snippet": {
+    "publishedAt": "2016-09-17T12:13:58.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Sautiniya Ke Chakkar Mein | BHOJPURI HOT SONG | Aamrapali Dubey,Anjana Singh",
+    "description": "Song : Sautiniya Ke Chakkar Mein\nSinger : Kalpana, Indu Sonali\nLyrics : Shyam Dehati\nMusic  : Rajesh Rajnish\nMovie : MOKAMA 0 Km\nProducer : Sujit Tiwari \nStarcast : Dinesh Lal Yadav (Nirahua), Aamrapali Dubey, Sushil Singh, Anjana Singh, Sanjay Pandey, Manoj Tiger, Prakash Jais\nSET YOUR CALLER TUNE\nFor Reliance: SMS CT  8544027 to 51234\nFor Airtel: Dial 5432115867257 and follow instructions\nFor Vodafone: Dial 5378544027 and follow instructions\nFor Idea: Dial 567898544027 and follow instructions\nFor BSNL East : SMS BT  8544027 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  8544027 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 8544027 to 12800\nFor TATA Docomo: Dial 5432118544027 and follow instructions\nPresenter : CPI MOVIES \nDirector : Santosh Mishra\nMusic Director: Rajesh - Rajnish\nMusic On : Worldwide Records / CPI \nhttps://www.facebook.com/WorldwideRecordsbhojpuri\nhttp://gaana.com/album/mokama-0-km\n\nFor latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on \nYoutube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/z9vlWXk_oE8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/z9vlWXk_oE8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/z9vlWXk_oE8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/z9vlWXk_oE8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "z9vlWXk_oE8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/zS2Mg8vE3IneER8ejzaszIL8A_g\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC44QzRDRDAyQTFFQzhENzMz",
+   "snippet": {
+    "publishedAt": "2016-07-07T19:00:52.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Sakhi Salai Rinch Se Kholela - BHOJPURI HOT SONG | Khesari Lal Yadav, Akshara Singh",
+    "description": "Song : Sakhi Salai Rinch Se Kholela\nSinger : Khesari Lal Yadav\nLyrics :Pawan Pandey\nMusic Director: Avinash Jha (Ghungroo)\nMovie : SAJAN CHALE SASURAL 2\nBanner: Purvanchal Talkies\nStarcast : Khesari Lal Yadav, Smrity Sinha, Akshara Singh, Anup Arora,Kiran Yadav, Maya Yadav & Others.\nProducer : Vikas Kumar Singh\nDirector : Premanshu Singh \nWriter    : Manoj K. Kushwaha\nMusic On : Worldwide Records/Purvanchal Talkies  \nhttps://www.facebook.com/WorldwideRecordsbhojpuri\nSET YOUR CALLER TUNE\nFor Reliance: SMS CT 8080145 to 51234\nFor Airtel: Dial 5432115590239 and follow instructions\nFor Vodafone: Dial 5378080145 and follow instructions\nFor Idea: Dial 567898080145 and follow instructions\nFor BSNL East : SMS BT  8080145 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT 8080145 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 8080145 to 12800\nFor TATA Docomo: Dial 5432118080145 and follow instructions\nFor latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sUvNezbh3Cw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sUvNezbh3Cw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sUvNezbh3Cw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/sUvNezbh3Cw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "sUvNezbh3Cw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/WOqJCvlMaicvA74Uv_oneo3PvR8\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC44NEJEQTI3OTgwREEwMkMw",
+   "snippet": {
+    "publishedAt": "2016-01-25T18:53:35.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Sorry Sorry | BHOJPURI HOT SONG | PAWAN SINGH, KAJAL RAGHWANI",
+    "description": "For Latest Bhojpuri Full Movies Click : http://bit.ly/294NNYk\nFor Latest Hot Bhojpuri Songs Videos : http://bit.ly/294NNYk\n\nSong : Sorry Sorry\nSinger : Pawan Singh\nLyrics : Azad Singh\nMusic  : Madhukar Anand\nMovie  : “BHOJPURIYA RAJA”\nBanner : Vasundhara Motion Pictures Pvt. Ltd.\nProducer: Sudhir Singh\nCo-Producer: Sandeep Singh\nDirector   : Sujeet Kumar Singh\nStar Cast  : Pawan Singh, Kajal Raghwani, Umesh Singh, Brijesh Tripathi\nMusic Director : Madhukar Anand\nWriter : Veeru Thakur\nEditor : Deepak Jaul\nMusic Label :  Worldwide Records / Aadi Shakti Audio \nhttps://www.facebook.com/WorldwideRecordsBhojpuri\nbuy and download music\nAmazon - https://goo.gl/sLLQHQ\niTunes - https://goo.gl/jA6P77\n\nSET YOUR CALLER TUNE\nFor Reliance: Dial 595030528 and follow instructions\nFor Airtel: Dial 5432115193243 and follow instructions\nFor Vodafone: Dial 5377121236 and follow instructions\nFor Idea: Dial 567897121236 and follow instructions\nFor BSNL East : SMS BT  7121236 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  7121236 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh\nFor TATA Indicom: SMS 7121236 to 12800\nFor TATA Docomo: Dial 5432117121236 and follow instructions",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/skaKitbOxrA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/skaKitbOxrA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/skaKitbOxrA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/skaKitbOxrA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "skaKitbOxrA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/n8NuSX4tZUCQIrxfRM3TtlRyiz0\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC4yRDBGQTZGNkIwQjRCRDI1",
+   "snippet": {
+    "publishedAt": "2016-06-12T03:31:57.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "SUPER HIT SONG | Jad Ke Jogad Kake Ja - Dinesh Lal Yadav, Aamrapali Dubey | BHOJPURI FULL SONG",
+    "description": "Song : Jad Ke Jogad Kake Ja\nMovie  : AASHIK AAWARA (Bhojpuri )\nProducer : Prem Rai\nSET YOUR CALLER TUNE\nFor Reliance: Dial 595030305 and follow instructions\nFor Airtel: Dial 5432115173014 and follow instructions\nFor Vodafone: Dial 5377062677 and follow instructions\nFor Idea: Dial 567897062677 and follow instructions\nFor BSNL East : SMS BT  7062677 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  7062677 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh\nFor TATA Indicom: SMS 7062677 to 12800\nFor TATA Docomo: Dial 5432117062677 and follow instructions\nSinger : Indu Sonali, Supporting Voice - Rajneesh\nLyrics : Shyam Dehati\nbuy and download music\nAmazon - https://goo.gl/ARV6of\niTunes - https://goo.gl/KYKQmS\nhttp://gaana.com/album/aashik-aawara-bhojpuri\nMusic Director : Rajesh-Rajneesh\nBanner : Shreyash Films\nPresenter: Shreyash Films\nDirector : Satish Jain\nStar Cast: Dinesh Lal Yadav, Aamrapali Dubey, Kajal Raghwani, Susheel Singh, Sanjay Pandey, Ranjeet Singh\nAction  : R.P. Yadav\nMusic On : Worldwide Records/ Aadi Shakti Audio \nhttps://www.facebook.com/WorldwideRecordsbhojpuri\n\nBhojpuri For latest Bhojpuri Movies and Songs, don't forget to\n\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\n\nFollow us on Facebook: https://goo.gl/FCiyor\n\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gUyoJR3aYtU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gUyoJR3aYtU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gUyoJR3aYtU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/gUyoJR3aYtU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "gUyoJR3aYtU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/ncqWS_Tm7zyv_Xn5fuOYPiUeeqU\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC41ODI2RjhGOTVBODI2NDE5",
+   "snippet": {
+    "publishedAt": "2015-09-26T09:48:17.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Aawa Na Choli Mein Rang Dalwala|KajalRaghwani, AksharaSingh,SmritySinha,PawanSingh,Khesari lalYadav",
+    "description": "Movie : Pratigya 2 (Bhojpuri Film)\nSong Name : Aawa Na Choli Mein Rang Dalwala\nSinger : Pawan Singh, Mohan Rathore, Indu Sonali\nLyricist : Vinay Bihari\nMusic Director : Vinay Bihari\nDirector : Sushil Kumar Upadhyay\nProducer: Sanjay Yadav, Harsh Tiwari, Abhishek Tiwari\nPresenter : C. P. I. Movies - Sujit Tiwari\nBanner : Jai Maa Aaskamini Films\nStar Cast : Pawan Singh, Khesari lal Yadav, Anil Samart, Kajal Raghwani, Akshara Singh, Smrity Sinha.\nMusic On : Worldwide records / CPI MUSIC\nhttps://www.facebook.com/WorldwideRecordsBhojpuri\nhttp://gaana.com/album/pratigya-2\nSET YOUR CALLER TUNE\nFor Reliance: Dial 595024784 and follow instructions\nFor Airtel: Dial 5432114800357 and follow instructions\nFor Vodafone: Dial 5376319850 and follow instructions\nFor Idea: Dial 567896319850 and follow instructions\nFor BSNL East : SMS BT 6319850 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT 6319850 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 6319850 to 12800\nFor TATA Docomo: Dial 5432116319850 and follow instructions \n\nFor latest Bhojpuri Movies and Songs, don't forget to\n\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\n\nFollow us on Facebook: https://goo.gl/FCiyor\n\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/35jhSAviND4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/35jhSAviND4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/35jhSAviND4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/35jhSAviND4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "35jhSAviND4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/w6LCMrkHwNtR8jxS5eJyLaE6F7s\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC4wOEE0NEE4QTk1RTc0MUJB",
+   "snippet": {
+    "publishedAt": "2015-12-22T13:57:05.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Dhodi Ke Uper Baa Aagi Ke Gola - BHOJPURI HOT SONG",
+    "description": "Song : Dhodi Ke Uper Baa Aagi Ke Gola\nSinger : Indu Sonali\nLyrics : Munna Dubey\nFilm Name : Laga Deb Jaan Ki Bazi\nStarcast  : Vinay Rana, Kajal Singh, Avinash Shahi, Payal Pandey, Bipin , Singh, Heera Yadav, Vishnu Shankar Belu\nProducer  : V. Singh\nCo – Producer : Pawan Mandal\nDirector : Mithilesh Avinash\nMusic Director : Chhote Baba\nMusic Label : Aadi Shakti Audio / Worldwide Records\nhttps://www.facebook.com/WorldwideRecordsBhojpuri For latest Bhojpuri Movies and Songs, don't forget to\nSET YOUR CALLER TUNE\nFor Reliance: Dial 595027479 and follow instructions\nFor Airtel: Dial 5432114955804 and follow instructions\nFor Vodafone: Dial 5376499489 and follow instructions\nFor Idea: Dial 567896499489 and follow instructions\nFor BSNL East : SMS BT  6499489 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  6499489 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 6499489 to 12800\nFor TATA Docomo: Dial 5432116499489 and follow instructions\n\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\n\nFollow us on Facebook: https://goo.gl/FCiyor\n\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5VED76Csa4I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5VED76Csa4I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5VED76Csa4I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/5VED76Csa4I/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "5VED76Csa4I"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/GQSAhvm3PgBA8FwnBfERdZbfhpk\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC4zRTkwOENEMUFBRTMwM0Ey",
+   "snippet": {
+    "publishedAt": "2016-08-23T20:23:07.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Table Pe Lavel Mili | Full Song | BHOJPURI HOT SONG | DINESH LAL YADAV ,AAMRAPALI DUBEY",
+    "description": "Song : Table Pe Lavel Mili\nSinger : Dinesh Lal Yadav ,Kalpana,Lyrics : Shyam Dehati .Music : Om Jha\nProducer: Naser Jamal\nSet Your Caller Tune\nFor Reliance: Dial 595032418 and follow instructions\nFor Airtel: Dial 5432115426733 and follow instructions\nFor Vodafone: Dial 5377757508 and follow instructions\nFor Idea: Dial 567897757508 and follow instructions\nFor BSNL East : SMS BT  7757508 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT 7757508 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 7757508 to 12800\nFor TATA Docomo: Dial 5432117757508 and follow instructions\nMovie : NIRAHUA CHALAL SASURAL 2\nStar Cast: Dinesh Lal Yadav, Aamrapali Dubey, Awadhesh Mishra,Sushil Singh,Manoj Tiger, Anoop Arora,Prakash Jais,Maya Yadav, Kiran Yadav,Shakila Majeed,Subodh Seth,Gopal Rai\nBanner : Muskkan Movies India Pvt. Ltd.\nDirector: Premanshu Singh\nMusic Director: Om Jha\nMusic On : Worldwide Records/ Aadi Shakti Audio \nhttps://www.facebook.com/WorldwideRecordsbhojpuri\n\nFor latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on \nYoutube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0RIEDXAOC9E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0RIEDXAOC9E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0RIEDXAOC9E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/0RIEDXAOC9E/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "0RIEDXAOC9E"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/FoDU2U97uxKdWXh73H_0rn2M8h4\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC40RUZEQzk3MjlCNjM1MEQw",
+   "snippet": {
+    "publishedAt": "2016-04-09T19:26:11.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Bhigi Barsaat Me  | FULL SONG | BHOJPURI HOT SONG | BARSAAT",
+    "description": "Song : Bhigi Barsaat Me\nSinger : Avinash Jha, Khusboo Jain\nLyrics ; Vicky Guldasta\nMovie: BARSAAT (Bhojpuri Colour)\nStarcast: Ranjit Singh, Rakesh Mishra, Neha Shree Singh, Apurva Bit,Krishna Kumar, Bharat Dabholkar,Maya Yadav, Vinod Mishra,Vijay Singh, Mukesh Pandey\nProducer: Ranjit Singh, Guddu G, Paal\nCo-producer: Nanhe Pandey\nBanner: Ranjit Singh Entertainment & Kiran Pictures House\nPresenter: Deepak Shah\nDirector: Mohan Azad\nMusic Director: Avinash Jha (Ghunghru Ji)\nMusic On: Worldwide records -Aadi Shakti Audio\nhttps://www.facebook.com/WorldwideRecordsBhojpuri \nhttp://gaana.com/album/barsaat-bhojpuri\n\nFor latest Bhojpuri Movies and Songs, don't forget to\n\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\n\nFollow us on Facebook: https://goo.gl/FCiyor\n\nFollow us on Google: https://goo.gl/Lsnh5N\nSET YOUR CALLER TUNE After 24.10.2015\nFor Reliance: Dial 595029421 and follow instructions\nFor Airtel: Dial 5432115064589 and follow instructions\nFor Vodafone: Dial 5376754991 and follow instructions\nFor Idea: Dial 567896754991 and follow instructions\nFor BSNL East : SMS BT  6754991 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  6754991 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 6754991 to 12800\nFor TATA Docomo: Dial 5432116754991 and follow instructions",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ihVFtOD-6nM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ihVFtOD-6nM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ihVFtOD-6nM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ihVFtOD-6nM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ihVFtOD-6nM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/2vsWEgEUccBWpdL0wLaP116PlOE\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC5BOUY1N0EyNkY3QzlGOEM3",
+   "snippet": {
+    "publishedAt": "2015-10-31T04:06:11.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Kaha Bitawla Na - BHOJPURI HOT SONG | Viraaj Bhatt, Madhuri Mishra",
+    "description": "Song Name : Kaha Bitawla Na\nSinger : Indu Sonali\nLyrics : Durgavati Tiwari\nMovie: KHAKHI VARDIWALA (Bhojpuri)\nStarcast : Viraaj Bhatt, Madhuri Mishra, Manoj Tiger, Sanjay Pandey\nProducer : Shankar Dayal Gautam \nCo-producer: Maya Gautam&AvinashGautam\nDirector: Meraj Khan \nMusic Director : Anuj Tiwari\nMusic On : Worldwide records /Aadi Shakti Audio\nSET YOUR CALLER TUNE\nFor Reliance: Dial 595029248 and follow instructions\nFor Airtel: Dial 5432115049274 and follow instructions\nFor Vodafone: Dial 5376717857 and follow instructions\nFor Idea: Dial 567896717857 and follow instructions\nFor BSNL East : SMS BT  6717857 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  6717857 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 6717857 to 12800\nFor TATA Docomo: Dial 5432116717857 and follow instructions\n\nhttps://www.facebook.com/WorldwideRecordsBhojpuri \nFor latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uYiQO5_wUqA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uYiQO5_wUqA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uYiQO5_wUqA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/uYiQO5_wUqA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "uYiQO5_wUqA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/0RlQ6a-N76QR7JK66ombWwQCfjU\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC45RjgyODEyNEJEREM5Nzkx",
+   "snippet": {
+    "publishedAt": "2016-03-25T13:09:34.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Showroom Se Aail Badu Naya Tu Nikal Ke - FULL SONG | PAWAN SINGH,ANARA GUPTA | BHOJPURI HOT SONG",
+    "description": "Song : Showroom Se Aail Badu Naya Tu Nikal Ke\nSinger : Pawan Singh\nLyrics : Javed Akhtar\nMusic : Madhukar Anand\nMovie : NEHLE PE DEHLA   \nStar cast: Pawan Singh, Tannu, Susheel Singh, Awadhesh Mishra,Anara Gupta \nProducer: Dhirendra Chaubey\nCo-producer: Rohan Chaubey & palav Chaubey\nPresenter: Maa Kela Devi Films   \nDirector: Arvind Chaubey  \nMusic Director: Rajesh-Rajneesh\nMusic On : Worldwide records -Aadi Shakti Audio\nhttps://www.facebook.com/WorldwideRecordsBhojpuri\nSET YOUR CALLER TUNE\nFor Reliance: Dial 595028540 and follow instructions\nFor Airtel: Dial 5432115010461 and follow instructions\nFor Vodafone: Dial 5376636238 and follow instructions\nFor Idea: Dial 567896636238 and follow instructions\nFor BSNL East : SMS BT  6636238 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  6636238 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 6636238 to 12800\nFor TATA Docomo: Dial 5432116636238 and follow instructions \nhttp://gaana.com/album/nehle-pe-dehla\n\nFor latest Bhojpuri Movies and Songs, don't forget to\n\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\n\nFollow us on Facebook: https://goo.gl/FCiyor\n\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8BZEKyCIe4M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8BZEKyCIe4M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8BZEKyCIe4M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/8BZEKyCIe4M/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "8BZEKyCIe4M"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/smBBT6VZDwBf5q5WBkM3ExiEU4Q\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC41NkI3NEIxMUMxQkJGMTY3",
+   "snippet": {
+    "publishedAt": "2016-03-12T11:18:47.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Karela Man Pat Jayi | DINESH LAL YADAV ,AAMRAPALI DUBEY | BHOJPURI HOT SONG",
+    "description": "For Latest Bhojpuri Full Movies Click : http://bit.ly/294NNYk\nFor Latest Hot Bhojpuri Songs Videos : http://bit.ly/294NNYk\n\nSong : Karela Man Pat Jayi\nMovie  : AASHIK AAWARA (Bhojpuri )\nProducer : Prem Rai\nSinger : Dinesh Lal Yadav, Kalpana\nLyrics : Pyare Lal Yadav\nbuy and download music\nAmazon - https://goo.gl/ARV6of\niTunes - https://goo.gl/KYKQmS\nhttp://gaana.com/album/aashik-aawara-bhojpuri\nMusic Director : Rajesh-Rajneesh\nSET YOUR CALLER TUNE\nFor Reliance: Dial 595030307 and follow instructions\nFor Airtel: Dial 5432115173081 and follow instructions\nFor Vodafone: Dial 5377062679 and follow instructions\nFor Idea: Dial 567897062679 and follow instructions\nFor BSNL East : SMS BT  7062679 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT 7062679 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 7062679 to 12800\nFor TATA Docomo: Dial 5432117062679 and follow instructions\nBanner : Shreyash Films\nPresenter: Shreyash Films\nDirector : Satish Jain\nStar Cast: Dinesh Lal Yadav, Aamrapali Dubey, Kajal Raghwani, Susheel Singh, Sanjay Pandey, Ranjeet Singh\nAction  : R.P. Yadav\nMusic On : Worldwide Records/ Aadi Shakti Audio \nhttps://www.facebook.com/WorldwideRecordsbhojpuri\nBhojpuri For latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TQ-Az9qV2lk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TQ-Az9qV2lk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TQ-Az9qV2lk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/TQ-Az9qV2lk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "TQ-Az9qV2lk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/PP0a0caBDc2TA61EFD_X1Yfbk1Y\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC5FRjIwODg5RjRFMzgwNzQ2",
+   "snippet": {
+    "publishedAt": "2016-06-07T01:30:52.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Duniya Jaye Chahae Bhad Me - DINESH LAL YADAV,AAMRAPALI DUBEY| FULL BHOJPURI HOT SONG",
+    "description": "Song : Duniya Jaye Chahae Bhad Me\nMovie  : AASHIK AAWARA (Bhojpuri )\nProducer : Prem Rai\nSinger : Dinesh Lal Yadav ,Kalpana\nSET YOUR CALLER TUNE\nFor Reliance: Dial 595030303 and follow instructions\nFor Airtel: Dial 5432115172989 and follow instructions\nFor Vodafone: Dial 5377062676 and follow instructions\nFor Idea: Dial 567897062676 and follow instructions\nFor BSNL East : SMS BT  7062676 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT 7062676 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 7062676 to 12800\nFor TATA Docomo: Dial 5432117062676 and follow instructions\nLyrics : Shyam Dehati\nbuy and download music\nAmazon - https://goo.gl/ARV6of\niTunes - https://goo.gl/KYKQmS\nhttp://gaana.com/album/aashik-aawara-bhojpuri\nMusic Director : Rajesh-Rajneesh\nBanner : Shreyash Films\nPresenter: Shreyash Films\nDirector : Satish Jain\nStar Cast: Dinesh Lal Yadav, Aamrapali Dubey, Kajal Raghwani, Susheel Singh, Sanjay Pandey, Ranjeet Singh\nAction  : R.P. Yadav\nMusic On : Worldwide Records/ Aadi Shakti Audio \nhttps://www.facebook.com/WorldwideRecordsbhojpuri\nBhojpuri For latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/OL9bGGOd8yo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/OL9bGGOd8yo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/OL9bGGOd8yo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/OL9bGGOd8yo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "OL9bGGOd8yo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/TvGcA-HHV0NQ76OaTh6HrOhULRQ\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC41NEM3RjdGQ0FDRjkwNUQ5",
+   "snippet": {
+    "publishedAt": "2015-02-28T15:19:44.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Hum Haeen Piya Ji Ke Patar Tiriywa | Bhojpuri Hit Song |  Patna Se Pakistan",
+    "description": "For Latest Bhojpuri Full Movies Click : http://bit.ly/294NNYk\nFor Latest Hot Bhojpuri Songs Videos : http://bit.ly/294NNYk\n\nMovie : Patna Se Pakistan\nSong Name : Hum Haeen Piya Ji Ke Patar Tiriywa\nSinger : Kalpna, Dinesh Lal Yadav\nLyricist : Pyare Lal Yadav\nMusic Director : Rajesh - Rajnish\nDirector :  Santosh Mishra\nProducer: Ananjay Raghuraj\nPresenter : Aadi Shakti Entertainment Pvt Ltd. & Trimurti Entertainment Media\nBanner : Ananya Craft & Visions\nStar Cast : Dinesh Lal Yadav, Kajal Raghwani, Amrapali Dubey, Sushil Singh, Ashok Samarth\nMusic On  : Aadi Shakti Audio - Worldwide Records Bhojpuri (div)\nhttps://www.facebook.com/WorldwideRecordsBhojpuri\nDownload Caller Tune On Your Mobile\nFor Airtel  : Dial 5432114684546 and follow instructions\nFor Vodafone  :Dial 5376108415 and follow instructions\nReliance  :Dial 595023090 and follow instructions\nTATA Docomo : Dial 5432116108415 and follow instructions\nTATA Indicom :SMS 6108415 to 12800 and follow instructions\nIdea   :SMS 6108415 to 56789 and follow instructions\nBSNL East & South :SMS BT space 6108415 to 56700 and follow instructions\nhttp://gaana.com/album/patna-se-pakistan\nhttps://itunes.apple.com/in/album/patna-se-pakistan-original/id971812612 For latest Bhojpuri Movies and Songs, don't forget to\n\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\n\nFollow us on Facebook: https://goo.gl/FCiyor\n\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/VvqJGrQPacQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/VvqJGrQPacQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/VvqJGrQPacQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/VvqJGrQPacQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/VvqJGrQPacQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "VvqJGrQPacQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/5Q0hMB0cs_PtFROsTPJVp3DBaKk\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC5BNEYxQjY2RTFEQ0ZEMjcw",
+   "snippet": {
+    "publishedAt": "2016-10-22T07:20:46.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Sarso Ke Sagiya - BHOJPURI HOT SONG | Khesari Lal Yadav, Kajal Raghwani",
+    "description": "Song : Sarso Ke Sagiya\nMovie : MEHANDI LAGA KE RAKHNA \nSinger : Khesari Lal Yadav, Priyanka Singh\nLyrics : Pyare Lal Yadav\nMusic  : Madhukar Anand\nMovie: MEHANDI LAGA KE RAKHNA \nStar Cast: Khesari Lal Yadav, Kajal Raghwani, Ritu Singh, Avdhesh Mishra,Param hans Singh,Sanjay Pandey,Anand Mohan,Karan Pandey,Sanjay mahanand \nProducer: Ananjay Raghuraj\nCo- Producer - Dhiraj Singh & Sanjay Jaiswal \nBanner : Ananya Craft and Visions \nPresenter: Deepak Shah & Om Sai Ram Entertainment\nDirector: Rajnish Mishra \nMusic Director : Rajnish Mishra\nLyrics : Pyare Lal yadav,Shyam Dehati\nMusic On : Worldwide Records/Aadi Shakti Audio\nSET YOUR CALLER TUNE\nFor Reliance: SMS CT  8751823 to 51234\nFor Airtel: Dial 5432115978903 and follow instructions\nFor Vodafone: Dial 5378751823 and follow instructions\nFor Idea: Dial 567898751823 and follow instructions\nFor BSNL East : SMS BT  8751823 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  8751823 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 8751823 to 12800\nFor TATA Docomo: Dial 5432118751823 and follow instructions\nhttps://www.facebook.com/WorldwideRecordsBhojpuri\nFor latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-O0MYdfgpes/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-O0MYdfgpes/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-O0MYdfgpes/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-O0MYdfgpes/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/-O0MYdfgpes/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-O0MYdfgpes"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/TBlQbiTJ_FCVJAPg6zKm51uMfFE\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC5DOTNDNjAwMzFFNUY5NzYy",
+   "snippet": {
+    "publishedAt": "2015-12-25T06:53:11.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Dushman Banal zamana - Khesari lal Yadav,Rani Chatterjee | BHOJPURI HOT SONG",
+    "description": "Song - Dushman Banal zamana\nSinger - Khesari Lal Yadav\nLyrics - Pyarelal Yadav\nMovie - JAANAM (Bhojpuri Film)\nStarcast - Khesari lal Yadav, Viraj Bhatt, Rani Chatterjee, Poonam Dubey\nBanner   - A. S. Pictures Entertainment\nPresents - Aadi Shakti Entertainment Pvt. Ltd. & Worldwide Records Ltd.\nProducer - Durga Prasad Majumdar & Anuj Kumar\nCo-Producer - Mahesh Upadhyay\nDirector - Ajay Kumar Jha\nCinematography - Pramod Pandey\nWriter -  Arvind Tiwari\nAction  - Heera Yadav\nChoreographer - Kanu Mukherjee, Ram Devan, Anthony, Sanjay Kove\nLyrics - Pyarelal Yadav, Azaad Singh, Arvind Tiwari\nMusic Director - Avinash Jha (Ghungroo)\nMusic Label :  Worldwide Records / Aadi Shakti Audio \nhttps://www.facebook.com/WorldwideRecordsBhojpuri\nSET YOUR CALLER TUNE\nFor Reliance: Dial 595027393 and follow instructions\nFor Airtel: Dial 5432114957289 and follow instructions\nFor Vodafone: Dial 5376498050 and follow instructions\nFor Idea: Dial 567896498050 and follow instructions\nFor BSNL East : SMS BT  6498050 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  6498050 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 6498050 to 12800\nFor TATA Docomo: Dial 5432116498050 and follow instructions\n\nFor latest Bhojpuri Movies and Songs, don't forget to\n\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\n\nFollow us on Facebook: https://goo.gl/FCiyor\n\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dZ6JExWgH30/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dZ6JExWgH30/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dZ6JExWgH30/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/dZ6JExWgH30/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "dZ6JExWgH30"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/d752RM_wfV59Ue8WXC-_ByvU-GA\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC5BOUNEMEI0OUY1OEEwQzdC",
+   "snippet": {
+    "publishedAt": "2015-11-23T19:36:11.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Gir Gail Odani Ganna Ke | FULL SONG | Pawan Singh, Kajal Raghwani | BHOJPURI HOT SONG",
+    "description": "Movie : Pratigya 2 (Bhojpuri Film)\nSong Name : Gir Gail Odani Ganna Ke Khet Mein\nSinger : Pawan Singh, Kalpana\nLyricist : Vinay Bihari\nMusic Director : Vinay Bihari\nDirector :  Sushil Kumar Upadhyay\nProducer: Sanjay Yadav, Harsh Tiwari, Abhishek Tiwari\nPresenter : C. P. I. Movies - Sujit Tiwari\nBanner : Jai Maa Aaskamini Films\nStar Cast : Pawan Singh, Khesari lal Yadav, Anil Samart ,Kajal Raghwani, Akshara Singh, Smrity  Sinha.\nMusic On : CPI / Worldwide Records\nhttps://www.facebook.com/WorldwideRecordsBhojpuri\nhttp://gaana.com/album/pratigya-2\nSET YOUR CALLER TUNE\nFor Reliance: Dial 595024778 and follow instructions\nFor Airtel: Dial 5432114800359 and follow instructions\nFor Vodafone: Dial 5376319849 and follow instructions\nFor Idea: Dial 567896319849 and follow instructions\nFor BSNL East : SMS BT 6319849 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  6319849 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 6319849 to 12800\nFor TATA Docomo: Dial 5432116319849 and follow instructions\n For latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ibyqOeYSQK4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ibyqOeYSQK4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ibyqOeYSQK4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ibyqOeYSQK4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ibyqOeYSQK4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/JgpCtRtrwAQhq5MN2oMXMbR2zBg\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC5FNUM4ODc1QzNCMTU5QjNF",
+   "snippet": {
+    "publishedAt": "2016-11-22T18:36:10.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Laga Ke Fair Lovely - BHOJPURI HOT SONG | Khesari Lal Yadav, Ritu Singh",
+    "description": "Song : Laga Ke Fair Lovely\nMovie : MEHANDI LAGA KE RAKHNA \nSinger : Khesari Lal Yadav, Khushboo Jain\nLyrics : Shyam Dehati\nMusic  : Rajnish Mishra\nMovie: MEHANDI LAGA KE RAKHNA \nStar Cast: Khesari Lal Yadav, Kajal Raghwani, Ritu Singh, Avdhesh Mishra,Param hans Singh,Sanjay Pandey,Anand Mohan,Karan Pandey,Sanjay mahanand \nProducer: Ananjay Raghuraj\nCo- Producer - Dhiraj Singh & Sanjay Jaiswal \nBanner : Ananya Craft and Visions \nPresenter: Deepak Shah & Om Sai Ram Entertainment\nDirector: Rajnish Mishra \nMusic Director : Rajnish Mishra\nLyrics : Pyare Lal yadav,Shyam Dehati\nMusic On : Worldwide Records/Aadi Shakti Audio\nSET YOUR CALLER TUNE\nFor Reliance: SMS CT  8748030 to 51234\nFor Vodafone: Dial 5378748030 and follow instructions\nFor Airtel: Dial 5432115975199 and follow instructions\nFor Idea: Dial 567898748030 and follow instructions\nFor BSNL East : SMS BT  8748030 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  8748030 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 8748030 to 12800\nFor TATA Docomo: Dial 5432118748030 and follow instructions\nhttps://www.facebook.com/WorldwideRecordsBhojpuri\nFor latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/F8XD4VdAHjQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/F8XD4VdAHjQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/F8XD4VdAHjQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/F8XD4VdAHjQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "F8XD4VdAHjQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/zfaaMjqQ-jngmiOZXtHgpFlrd9I\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC5FMzRCNjVFQTUzRTczNEQ1",
+   "snippet": {
+    "publishedAt": "2016-04-14T19:16:42.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Lachke Kamariya | FULL SONG | BHOJPURI HOT SONG | PAWAN SINGH,TANUSHREE",
+    "description": "Song : Lachke Kamariya\nSinger - Madhukar Anand Khushboo Jain\nLyrics - Kavi Pyarelal\nMusic - Madhukar Anand\nFilm Name: MUQABALA (Bhojpuri)   RELEASING ON 18 Th Oct 2015\nStarcast : Pawan Singh, Tanushree, Pakhi Hegde, Awdhesh Mishra, Gopal Roy, Deepak Sinha\nProducer : Sujit Tiwari\nPresenter: CPI Movies \nDirector : Jagdish Sharma  \nMusic Director : Vinay Bihari\nChoreographers: Kanu Mukharji, Anthoni, Sanjay Korve, Dilip Mistry\nExecutive Producer: Indrajeet Sharma \nEditor : Gurjant Singh\nCinematography : Mahendra Boricha\nAction : Sakil Shaikh\nMusic On : Worldwide records /CPI MUSIC\nhttps://www.facebook.com/WorldwideRecordsBhojpuri \nFor latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N\nSET YOUR CALLER TUNE\nFor Reliance: Dial 595029388 and follow instructions\nFor Airtel: Dial 5432115061619 and follow instructions\nFor Vodafone: Dial 5376744016 and follow instructions\nFor Idea: Dial 567896744016 and follow instructions\nFor BSNL East : SMS BT  6744016 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  6744016 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 6744016 to 12800\nFor TATA Docomo: Dial 5432116744016 and follow instructions",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Cz42gm1NtZA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Cz42gm1NtZA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Cz42gm1NtZA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Cz42gm1NtZA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Cz42gm1NtZA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/dE9SYWsl6jjp0TCL7AgIt3ZG4sY\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC5DM0UwMkNDRTIwQUNDMjE2",
+   "snippet": {
+    "publishedAt": "2015-03-14T14:55:03.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Tan Tan Kare | Bhojpuri Hot Song | Saathiya - Khesari Lal Yadav & Akshara Singh",
+    "description": "For Latest Bhojpuri Full Movies Click : http://bit.ly/294NNYk\nFor Latest Hot Bhojpuri Songs Videos : http://bit.ly/294NNYk\n\nMovie : Saathiya\nSong Name : Tan Tan Kare\nSinger : Khesari Lal Yadav, Alka Pahadiya\nLyricist :Pyare Lal Yadav\nMusic Director : Ghunghuroo\nPresenter   : Aadi Shakti Entertainment & Navbhyu Multimedia\nBanner     : A.S. Pictures & Maheshwara Productions\nProducer    : Anuj Kumar, Ganesh Pendela\nCo Producer: Mahesh Upadhyay & Laxmi Narayana Pendela\nDirector     : Praveen Kumar Guduri\nAssociate Director: Harish Gupta \nChoreographer: KanuMukharjee, Sanjay Korve, Ram Devan\nStar Cast : Khesari Lal Yadav, Akshara Singh\nWriter  : Arbind Tiwari\nAction  : Hira Yadav\nMusic On  : Aadi Shakti Audio - Worldwide Records Bhojpuri (div)\nhttps://www.facebook.com/WorldwideRecordsBhojpuri\n\nSET YOUR CALLER TUNE\nFor Reliance: Dial 595023370 and follow instructions\nFor Airtel: Dial 5432114717739 and follow instructions\nFor Vodafone: Dial 5376170793 and follow instructions\nFor Idea: Dial 567896170793 and follow instructions\nFor BSNL East : SMS BT  6170793 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  6170793 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 6170793 to 12800\nFor TATA Docomo: Dial 5432116170793 and follow instructions\n\n For latest Bhojpuri Movies and Songs, don't forget to\n\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\n\nFollow us on Facebook: https://goo.gl/FCiyor\n\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vy5SHG153NE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vy5SHG153NE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vy5SHG153NE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/vy5SHG153NE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/vy5SHG153NE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "vy5SHG153NE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/RR8c-oLOuujavRNLC2yVReZlj80\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC5DMTAzN0FDQTlEQzZBRTNF",
+   "snippet": {
+    "publishedAt": "2016-07-09T12:29:47.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Tohar Dhodi Ba Phulaha Katori Niyan - BHOJPURI HOT SONG | Khesari Lal Yadav, Akshara Singh",
+    "description": "Song : Tohar Dhodi Ba Phulaha Katori Niyan\nSinger : Khesari Lal Yadav\nLyrics :Shyam Dehati\nMusic Director: Avinash Jha (Ghungroo)\nMovie : SAJAN CHALE SASURAL 2\nBanner: Purvanchal Talkies\nStarcast : Khesari Lal Yadav, Smrity Sinha, Akshara Singh, Anup Arora,Kiran Yadav, Maya Yadav & Others.\nProducer : Vikas Kumar Singh\nDirector : Premanshu Singh \nWriter    : Manoj K. Kushwaha\nMusic On : Worldwide Records/Purvanchal Talkies  \nhttps://www.facebook.com/WorldwideRecordsbhojpuri\nSET YOUR CALLER TUNE\nFor Reliance: SMS CT 8080150 to 51234\nFor Airtel: Dial 5432115590258 and follow instructions\nFor Vodafone: Dial 5378080150 and follow instructions\nFor Idea: Dial 567898080150 and follow instructions\nFor BSNL East : SMS BT  8080150 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT 8080150 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 8080150 to 12800\nFor TATA Docomo: Dial 5432118080150 and follow instructions\nFor latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/VvRoc04o5iQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/VvRoc04o5iQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/VvRoc04o5iQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/VvRoc04o5iQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 20,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "VvRoc04o5iQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/70-71JWh61WwYM1u8lAlahGhEKA\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC40QUQ5MEY1QTZCMzdFNkNC",
+   "snippet": {
+    "publishedAt": "2015-03-07T15:57:35.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Mai Re Mai Re Bathata Kamariya | BHOJPURI HOT SONG |  Patna Se Pakistan",
+    "description": "For Latest Bhojpuri Full Movies Click : http://bit.ly/294NNYk\nFor Latest Hot Bhojpuri Songs Videos : http://bit.ly/294NNYk\n\nMovie : Patna Se Pakistan\nSong Name : Mai Re Mai Re Bathata Kamariya\nSinger : Kalpna, Rajnish Mishra\nLyricist : Pyare Lal Yadav\nMusic Director : Rajesh - Rajnish\nDirector :  Santosh Mishra\nProducer: Ananjay Raghuraj\nBanner : Ananya Craft & Visions\nPresenter : Aadi Shakti Entertainment Pvt Ltd. & Trimurti Entertainment Media\nStar Cast : Dinesh Lal Yadav, Kajal Raghwani, Amrapali Dubey, Sushil Singh, Ashok Samarth\nMusic On  : Aadi Shakti Audio - Worldwide Records Bhojpuri (div)\nhttps://www.facebook.com/WorldwideRecordsBhojpuri\n\nDownload Caller Tune On Your Mobile\nFor Airtel  : Dial 5432114684543 and follow instructions\nFor Vodafone :Dial 5376108418 and follow instructions\nReliance  :Dial 595023093 and follow instructions\nTATA Docomo : Dial 5432116108418 and follow instructions\nTATA Indicom :SMS 6108418 to 12800 and follow instructions\nIdea   :SMS 6108418 to 56789 and follow instructions\nBSNL East & South :SMS BT space 6108418 to 56700 and follow instructions\nhttp://gaana.com/album/patna-se-pakistan\nhttps://itunes.apple.com/in/album/patna-se-pakistan-original/id971812612 For latest Bhojpuri Movies and Songs, don't forget to\n\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\n\nFollow us on Facebook: https://goo.gl/FCiyor\n\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4Yunqsndw-8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4Yunqsndw-8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4Yunqsndw-8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4Yunqsndw-8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 21,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4Yunqsndw-8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/KGGWyUitefKRI09XiHmk-Hlja6I\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC40QkU3RjBCMjgzQUIzNjg2",
+   "snippet": {
+    "publishedAt": "2015-02-23T06:23:01.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Mood Kara Garam Chod Ab Saram | Pagal Premi | Bhojpuri Hit Songs",
+    "description": "For Latest Bhojpuri Full Movies Click : http://bit.ly/294NNYk\nFor Latest Hot Bhojpuri Songs Videos : http://bit.ly/294NNYk\n\nEnjoy the super hit song \"Mood Kara Garam Chod Ab Saram\" from movie Pagal Premi.\n\nSong: - Mood Kara Garam Chod Ab Saram\nFilm: - Pagal Premi\nStarcast :- Vinay Anand, Sangeeta Tiwari, Ajit Anand,Shree Kankani, Anup Arora, Jaiprakash Singh, Sunita Singh, Paritosh Tripathi, Suman Kumari and Sanjay Pandey\nSingers: -Khushboo Jain, Manoj Mishra\nMusic Director: - Rajesh Gupta\nLyrics Writer: - Phaneendra Rao\nMovie Director: - Ajay Kumar\nProducer: - Navin Kumar Singh\nBanner: - Savita Shree Productions\nMusic Label: - Worldwide Records\nLanguage: - Bhojpuri\nGenre: - Regional Film\nCRBT CODE:\nReliance: SMS CT space 5027292 to 51234 \nReliance Dial Code: 595007551\nVodafone:   SM0053 CT space 2739198 to 56789 or Dial 5372739198\nFor Airtel: Dial 5432111115179\nIdea:  SMS DT space 2739198 to 55456. \nBSNL East: SMS BT space 2739198 to 56700\nBSNL South: SMS BT space 2739198 to 56700\nLoop Customers SMS SET 0530002727 to 55666\nTATA Indicom : SMS WT828246 to 12800\nTATA Docomo: SET 924149 to 543211 or Dial 543211924149\nUninor : SMS CT 0528507 to 52211\nFor Rediff: SMS ST space 81491 to 57333 For latest Bhojpuri Movies and Songs, don't forget to\n\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\n\nFollow us on Facebook: https://goo.gl/FCiyor\n\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/d2KEV_lrzRE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/d2KEV_lrzRE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/d2KEV_lrzRE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 22,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "d2KEV_lrzRE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/waf5GZqnujwIkV4ZLPQIs45GRsQ\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC42OTk4MDYzN0M4MTU5NzU3",
+   "snippet": {
+    "publishedAt": "2016-07-17T06:12:30.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Saqi Sharab Pi Ke - BHOJPURI HOT SONG | SAJAN CHALE SASURAL 2 | Khesari Lal Yadav, Kalpana",
+    "description": "Song : Saqi Sharab Pi Ke\nSinger : Khesari Lal Yadav, Kalpana\nLyrics : Shyam Dehati\nMusic Director: Avinash Jha (Ghungroo)\nMovie : SAJAN CHALE SASURAL 2\nBanner: Purvanchal Talkies\nStarcast : Khesari Lal Yadav, Smrity Sinha, Akshara Singh, Anup Arora,Kiran Yadav, Maya Yadav & Others.\nProducer : Vikas Kumar Singh\nDirector : Premanshu Singh \nWriter    : Manoj K. Kushwaha\nMusic On : Worldwide Records/Purvanchal Talkies  \nhttps://www.facebook.com/WorldwideRecordsbhojpuri\nSET YOUR CALLER TUNE\nFor Reliance: SMS CT  8080151 to 51234\nFor Airtel: Dial 5432115590259 and follow instructions\nFor Vodafone: Dial 5378080151 and follow instructions\nFor Idea: Dial 567898080151 and follow instructions\nFor BSNL East : SMS BT  8080151 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT 8080151 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 8080151 to 12800\nFor TATA Docomo: Dial 5432118080151 and follow instructions\nFor latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/a1j6UbkK_1k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/a1j6UbkK_1k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/a1j6UbkK_1k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/a1j6UbkK_1k/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 23,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "a1j6UbkK_1k"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/smMM5By5aEqaYlB2Mas-RWuci5w\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC5BODc5NkUyMTAwN0IwRkY4",
+   "snippet": {
+    "publishedAt": "2016-03-10T20:11:34.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Akhiyan Me Kawan Jadu | FULL SONG | अखियाँ मे कवन जादू | PAWAN SINGH, TANU SHREE | BHOJPURI HOT SONG",
+    "description": "Song : Akhiyan Me Kawan Jadu (अखियाँ मे कवन जादू)\nSinger - Pawan Singh\nSET YOUR CALLER TUNE \nFor Reliance: Dial 595029384 and follow instructions\nFor Airtel: Dial 5432115061404 and follow instructions\nFor Vodafone: Dial 5376743916 and follow instructions\nFor Idea: Dial 567896743916 and follow instructions\nFor BSNL East : SMS BT  6743916 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  6743916 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 6743916 to 12800\nFor TATA Docomo: Dial 5432116743916 and follow instructions\nLyrics - Vinay Bihari\nMusic - Vinay Bihari\nFilm Name: MUQABALA (Bhojpuri)   RELEASING ON 18 Th Oct 2015\nStarcast : Pawan Singh, Tanushree, Pakhi Hegde, Awdhesh Mishra, Gopal Roy, Deepak Sinha\nProducer : Sujit Tiwari\nPresenter: CPI Movies \nDirector : Jagdish Sharma  \nMusic Director : Vinay Bihari\nChoreographers: Kanu Mukharji, Anthoni, Sanjay Korve, Dilip Mistry\nExecutive Producer: Indrajeet Sharma \nEditor : Gurjant Singh\nCinematography : Mahendra Boricha\nAction : Sakil Shaikh\nMusic On : Worldwide records /CPI MUSIC\nhttps://www.facebook.com/WorldwideRecordsBhojpuri \nFor latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N\nhttp://gaana.com/album/muqabala",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/t86wQvsmeYw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/t86wQvsmeYw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/t86wQvsmeYw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/t86wQvsmeYw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 24,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "t86wQvsmeYw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Y02r8ujMhbnIUoZN5VBCJSa9xas\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC40MEE4MzM5MDQwOUEyQUZB",
+   "snippet": {
+    "publishedAt": "2016-02-04T15:49:44.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Kholi Jani Saari - BHOJPURI HOT SONG | FULL SONG",
+    "description": "Song : Kholi Jani Sadi\nSinger : Rakesh Mishra, Indu Sonali\nLyrics ; Azad Singh\nMovie: BARSAAT (Bhojpuri Colour)\nStarcast: Ranjit Singh, Rakesh Mishra, Neha Shree Singh, Apurva Bit,Krishna Kumar, Bharat Dabholkar,Maya Yadav, Vinod Mishra,Vijay Singh, Mukesh Pandey\nProducer: Ranjit Singh, Guddu G, Paal\nCo-producer: Nanhe Pandey\nBanner: Ranjit Singh Entertainment & Kiran Pictures House\nPresenter: Deepak Shah\nDirector: Mohan Azad\nMusic Director: Avinash Jha (Ghunghru Ji)\nMusic On: Worldwide records -Aadi Shakti Audio\nhttps://www.facebook.com/WorldwideRecordsBhojpuri \nhttp://gaana.com/album/barsaat-bhojpuri\n\nFor latest Bhojpuri Movies and Songs, don't forget to\n\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\n\nFollow us on Facebook: https://goo.gl/FCiyor\n\nFollow us on Google: https://goo.gl/Lsnh5N\n\nSET YOUR CALLER TUNE \nFor Reliance: Dial 595029423 and follow instructions\nFor Airtel: Dial 5432115064575 and follow instructions\nFor Vodafone: Dial 5376755356 and follow instructions\nFor Idea: Dial 567896755356 and follow instructions\nFor BSNL East : SMS BT  6755356 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  6755356 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 6755356 to 12800\nFor TATA Docomo: Dial 5432116755356 and follow instructions",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jLLoMphM21A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jLLoMphM21A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jLLoMphM21A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/jLLoMphM21A/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/jLLoMphM21A/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 25,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "jLLoMphM21A"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/GSzo8vIsS-OJy-rNSfHvhC7PYW8\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC5FNzRDNDIwRDUwRDE4QUI1",
+   "snippet": {
+    "publishedAt": "2015-11-05T13:43:12.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Chand Na Sunar Lagela | Full Song - BHOJPURI HOT SONG | PAWAN SINGH, KAJAL RAGHWANI",
+    "description": "Song Name : Chand Na Sunar Lagela  - FULL SONG\nSinger : Pawan Singh\nLyricist : Vinay Bihari\nMusic Director : Vinay Bihari\nMovie : Pratigya 2 \nDirector :  Sushil Kumar Upadhyay\nProducer: Sanjay Yadav, Harsh Tiwari, Abhishek Tiwari\nPresenter : C. P. I. Movies - Sujit Tiwari\nBanner : Jai Maa Aaskamini Films\nStar Cast : Pawan Singh, Khesari lal Yadav, Anil Samart ,Kajal Raghwani, Akshara Singh, Smrity  Sinha.\nMusic On : Worldwide Records / CPI\nhttps://www.facebook.com/WorldwideRecordsBhojpuri\nhttp://gaana.com/album/pratigya-2\nSET YOUR CALLER TUNE\nFor Reliance: Dial 595024777 and follow instructions\nFor Airtel: Dial 5432114800361 and follow instructions\nFor Vodafone: Dial 5376320214 and follow instructions\nFor Idea: Dial 567896320214 and follow instructions\nFor BSNL East : SMS BT 6320214 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT 6320214 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 6320214 to 12800\nFor TATA Docomo: Dial 5432116320214 and follow instructions For latest Bhojpuri Movies and Songs, don't forget to\n\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\n\nFollow us on Facebook: https://goo.gl/FCiyor\n\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uVbIwsRvF68/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uVbIwsRvF68/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uVbIwsRvF68/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/uVbIwsRvF68/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 26,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "uVbIwsRvF68"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/hrRyXt-aqeriiMQ-aeeveu0NVkI\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC4wMjJBNDBBNjdEMTg4Q0Y2",
+   "snippet": {
+    "publishedAt": "2016-08-09T19:28:21.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Samaan Chunmuniya - FULL SONG | DINESH LAL YADAV, AAMRAPALI DUBEY BHOJPURI HOT SONG",
+    "description": "Song : Samaan Chunmuniya\nSinger : Indu Sonali, Om Jha,Lyrics : Pyare Lal Yadav .Music : Om Jha\nProducer: Naser Jamal\nSet Your Caller Tune\nFor Reliance: Dial 595032425 and follow instructions\nFor Airtel: Dial 5432115426638 and follow instructions\nFor Vodafone: Dial 5377757504 and follow instructions\nFor Idea: Dial 567897757504 and follow instructions\nFor BSNL East : SMS BT 7757504 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT 7757504 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 7757504 to 12800\nFor TATA Docomo: Dial 5432117757504 and follow instructions\nMovie : NIRAHUA CHALAL SASURAL 2\nStar Cast: Dinesh Lal Yadav, Aamrapali Dubey, Awadhesh Mishra,Sushil Singh,Manoj Tiger, Anoop Arora,Prakash Jais,Maya Yadav, Kiran Yadav,Shakila Majeed,Subodh Seth,Gopal Rai\nBanner : Muskkan Movies India Pvt. Ltd.\nDirector: Premanshu Singh\nMusic Director: Om Jha\nMusic On : Worldwide Records/ Aadi Shakti Audio \nhttps://www.facebook.com/WorldwideRecordsbhojpuri\n\nFor latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on \nYoutube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vShSuDdpg3A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vShSuDdpg3A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vShSuDdpg3A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/vShSuDdpg3A/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 27,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "vShSuDdpg3A"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/QBBPXmIoUKmEE2Ji3RjgjCd4gcY\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC5BNEY4RDc0MzMyNDAyQjAx",
+   "snippet": {
+    "publishedAt": "2015-08-27T14:49:05.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Chadar Me Gadar | Pawan Singh, Kavya Singh | Hot Bhojpuri Song | Sangram | HD",
+    "description": "Song : Chadar Me Gadar\nSinger :  Pawan Singh,Khushboo Jain\nLyrics  : Zahid Akhtar\nMusic Director : Aman Shlok\nFilm Name: SANGRAM (Bhojpuri)   \nStarcast : Pawan Singh, Viraj Bhat, Awdhesh Mishra, Kavya Singh, Amar Jyoti\nProducer : Sujit Tiwari\nPresenter: CPI Movies \nDirector : Jagdish Sharma  \nMusic Director : Aman Shlok\nChoreographers: Kanu Mukharji, Anthoni, Sanjay Korve, Dilip Mistry\nExecutive Producer: Indrajeet Sharma \nEditor : Gurjant Singh\nCinematography : Firoj Saikh\nAction : Heera Yadav\nMusic On : Worldwide records /CPI MUSIC\nhttps://www.facebook.com/WorldwideRecordsBhojpuri\n\nSET YOUR CALLER TUNE\nFor Reliance: Dial 595027798  and follow instructions\nFor Airtel: Dial  5432114973026 and follow instructions\nFor Vodafone: Dial 5376560535 and follow instructions\nFor Idea : Dial 567896560535 and follow instructions\nFor BSNL East : SMS BT  6560535to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  6560535 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 6560535 to 12800\nFor TATA Docomo : Dial 5432116560535 and follow instructions For latest Bhojpuri Movies and Songs, don't forget to\n\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\n\nFollow us on Facebook: https://goo.gl/FCiyor\n\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/up0YKehHxlo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/up0YKehHxlo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/up0YKehHxlo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/up0YKehHxlo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 28,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "up0YKehHxlo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/dQC4tB3P0VbI7z-o4om27DC306Y\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC5FRDk1QjRGODIxREU4QzZC",
+   "snippet": {
+    "publishedAt": "2016-08-26T20:23:16.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Humne Jise Dil Hai Diya - BHOJPURI HOT SONG | Vishal Singh, Sampada",
+    "description": "Song : Humne Jise Dil Hai Diya\nSet Your Caller Tune\nFor Reliance: Dial 595032403 and follow instructions\nFor Airtel: Dial 5432115424088 and follow instructions\nFor Vodafone: Dial 5377750865 and follow instructions\nFor Idea: Dial 567897750865 and follow instructions\nFor BSNL East : SMS BT  7750865 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  7750865 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 7750865 to 12800\nFor TATA Docomo: Dial 5432117750865 and follow instructions\n\nSinger : Khushboo Jain ,Alok Kumar\nLyrics : Pawan Pandey\nMovie : LE AAIB DULHANIYA PAKISTAN SE\nStar Cast : Vishal Singh, Tanushree Chatterjee ,Sampada,Ayaz Khan,Awdhesh Mishra\nProducer: Ramdhari Singh\nBanner  : Radha Ramdhari Production\nDirector: Ramakant Prasad\nMusic Director: Ramakant Prasad\nWriter  : Sanjay Suhana \nLanguage: Bhojpuri\nMusic On : Worldwide Records/ Aadi Shakti Audio \nhttps://www.facebook.com/WorldwideRecordsbhojpuri\n\nFor latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on \nYoutube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5Raef2q7Q90/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5Raef2q7Q90/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5Raef2q7Q90/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/5Raef2q7Q90/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 29,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "5Raef2q7Q90"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/tsISbMFsj5CT--gfNCs4gMj0TW4\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC41NTA1NjcwODc4RTQxRjRC",
+   "snippet": {
+    "publishedAt": "2016-10-25T19:31:02.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Kawna Devta Ke Garhal Sawarl - BHOJPURI HOT SONG | Khesari Lal Yadav, Kajal Raghwani",
+    "description": "Song : Kawna Devta Ke Garhal Sawarl\nMovie : MEHANDI LAGA KE RAKHNA \nSinger : Khesari Lal Yadav\nLyrics : Shyam Dehati\nMusic  : Rajnish Mishra\nMovie: MEHANDI LAGA KE RAKHNA \nStar Cast: Khesari Lal Yadav, Kajal Raghwani, Ritu Singh, Avdhesh Mishra,Param hans Singh,Sanjay Pandey,Anand Mohan,Karan Pandey,Sanjay mahanand \nProducer: Ananjay Raghuraj\nCo- Producer - Dhiraj Singh & Sanjay Jaiswal \nBanner : Ananya Craft and Visions \nPresenter: Deepak Shah & Om Sai Ram Entertainment\nDirector: Rajnish Mishra \nMusic Director : Rajnish Mishra\nLyrics : Pyare Lal yadav,Shyam Dehati\nMusic On : Worldwide Records/Aadi Shakti Audio\nSET YOUR CALLER TUNE\nFor Reliance: SMS CT  8748026 to 51234\nFor Airtel: Dial 5432115975215 and follow instructions\nFor Vodafone: Dial 5378748026 and follow instructions\nFor Idea: Dial 567898748026 and follow instructions\nFor BSNL East : SMS BT 8748026 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  8748026 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 8748026 to 12800\nFor TATA Docomo: Dial 5432118748026 and follow instructions\nhttps://www.facebook.com/WorldwideRecordsBhojpuri\nFor latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TxXcilaLDg4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TxXcilaLDg4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TxXcilaLDg4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/TxXcilaLDg4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 30,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "TxXcilaLDg4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/BOAftJHSRgMQvTDBwHFauw2wzLQ\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC5GQzY2NjMwQzk5QkYwRTM0",
+   "snippet": {
+    "publishedAt": "2015-10-22T18:48:49.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Control Tani Kar Na Ta Khol Deb - BHOJPURI HOT SONG",
+    "description": "Song : Control Tani Kar Na Ta Khol Deb\nSinger : Alok, Priyanka\nLyrics : Azad Singh\nMovie : NEHLE PE DEHLA   \nStar cast: Pawan Singh, Tannu, Susheel Singh, Awadhesh Mishra,Anara Gupta \nProducer: Dhirendra Chaubey\nCo-producer: Rohan Chaubey & palav Chaubey\nPresenter: Maa Kela Devi Films   \nDirector: Arvind Chaubey  \nMusic Director: Rajesh-Rajneesh\nMusic On : Worldwide records -Aadi Shakti Audio\nhttps://www.facebook.com/WorldwideRecordsBhojpuri\nSET YOUR CALLER TUNE\nFor Reliance: Dial 595028536 and follow instructions\nFor Airtel: Dial 5432115010259 and follow instructions\nFor Vodafone: Dial 5376636236 and follow instructions\nFor Idea: Dial 567896636236 and follow instructions\nFor BSNL East : SMS BT  6636236 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  6636236 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 6636236 to 12800\nFor TATA Docomo: Dial 5432116636236 and follow instructions\n\nFor latest Bhojpuri Movies and Songs, don't forget to\n\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\n\nFollow us on Facebook: https://goo.gl/FCiyor\n\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SjwYzsiyBgw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SjwYzsiyBgw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SjwYzsiyBgw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/SjwYzsiyBgw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 31,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "SjwYzsiyBgw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/b6nF22gs_ZMUUELxvVfPN4u9oCo\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC5FNDgyRjU5ODVFMTBBN0VG",
+   "snippet": {
+    "publishedAt": "2015-10-21T14:42:53.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "I Love You Rani | आइ लव यू रानी | Khesari Lal Yadav & Akshara Singh | Bhojpuri Hot Song | FULL SONG",
+    "description": "Movie : Saathiya\nSong Name : I Love You Rani (  आइ लव यू रानी)\nSinger : Khesari Lal Yadav, Indu Sonali\nLyricist :Zahid Akhtar   \nMusic Director : Ghunghuroo\nPresenter   : Aadi Shakti Entertainment & Navbhyu Multimedia\nBanner     : A.S. Pictures & Maheshwara Productions\nProducer    : Anuj Kumar, Ganesh Pendela\nCo Producer: Mahesh Upadhyay & Laxmi Narayana Pendela\nDirector     : Praveen Kumar Guduri\nAssociate Director: Harish Gupta \nChoreographer: KanuMukharjee, Sanjay Korve, Ram Devan\nStar Cast : Khesari Lal Yadav, Akshara Singh\nWriter  : Arbind Tiwari\nAction  : Hira Yadav\nMusic On  : Aadi Shakti Audio - Worldwide Records Bhojpuri (div)\nhttps://www.facebook.com/WorldwideRecordsBhojpuri\nhttps://www.facebook.com/Akshara-singh-212811558802407/\nSET YOUR CALLER TUNE\nFor Reliance: Dial 595023368 and follow instructions\nFor Airtel: Dial 5432114717730 and follow instructions\nFor Vodafone: Dial 5376170744 and follow instructions\nFor Idea: Dial 567896170744 and follow instructions\nFor BSNL East : SMS BT  6170744 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  6170744 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 6170744 to 12800\nFor TATA Docomo: Dial 5432116170744 and follow instructions",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FN5YsoZME4E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FN5YsoZME4E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FN5YsoZME4E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/FN5YsoZME4E/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 32,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "FN5YsoZME4E"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/7GHt1L6eHPbBr_xPsuBhXgG7Jd8\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC4yQUYyOTAwNjkwNDE5QjlE",
+   "snippet": {
+    "publishedAt": "2015-07-24T15:18:59.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Bhooiyan Giraye Dihala Joran Ae Kulboran Saiyan | Poonam Dubey | Hot Bhojpuri Song | HD",
+    "description": "Song : Bhooiyan Giraye Dihala Joran Ae Kulboran Saiyan\nSinger : Kalpana\nLyrics : Shyam Dehati\nMusic  : Vinay Binayak\nmovie  : JAB PYAAR KIYA TOH DARNA KYA \nBanner: AADI SHAKTI ENTERTAINMENT PRESENTS,NOVEAU MUTIMEDIA & KUMARI MAI MOVIES.\nProducer: Durga Prasad Majumdar and Krishan Khadaria.\nDirector: Ramaknat Prasad.\nWriter  : Santosh Mishra.\nMusic Director: Durga-Natraj.\nStarcast: Rakesh Mishra,Kajal Raghwani,Rajan Singh,Poonam Dubey,Shah Pardesi\nMusic On : Aadi Shakti Audio / Worldwide Records\nhttps://www.facebook.com/WorldwideRecordsBhojpuri For latest Bhojpuri Movies and Songs, don't forget to\n\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\n\nFollow us on Facebook: https://goo.gl/FCiyor\n\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DVZFgiv7fbg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DVZFgiv7fbg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DVZFgiv7fbg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/DVZFgiv7fbg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 33,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "DVZFgiv7fbg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/__5WH0IJkhLg-bs5hi37xUZqfw4\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC5DQzQxMzBBQjZBMUE2MDgz",
+   "snippet": {
+    "publishedAt": "2016-04-15T09:20:48.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Dushman Banal Zamana - FULL SONG | Khesari lal Yadav,Rani Chatterjee | BHOJPURI HOT SONG",
+    "description": "Song - Dushman Banal zamana\nSinger - Khesari Lal Yadav\nSET YOUR CALLER TUNE\nFor Reliance: Dial 595027393 and follow instructions\nFor Airtel: Dial 5432114957289 and follow instructions\nFor Vodafone: Dial 5376498050 and follow instructions\nFor Idea: Dial 567896498050 and follow instructions\nFor BSNL East : SMS BT  6498050 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  6498050 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 6498050 to 12800\nFor TATA Docomo: Dial 5432116498050 and follow instructions\nLyrics - Pyarelal Yadav\nMovie - JAANAM (Bhojpuri Film)\nStarcast - Khesari lal Yadav, Viraj Bhatt, Rani Chatterjee, Poonam Dubey\nBanner   - A. S. Pictures Entertainment\nPresents - Aadi Shakti Entertainment Pvt. Ltd. & Worldwide Records Ltd.\nProducer - Durga Prasad Majumdar & Anuj Kumar\nCo-Producer - Mahesh Upadhyay\nDirector - Ajay Kumar Jha\nCinematography - Pramod Pandey\nWriter -  Arvind Tiwari\nAction  - Heera Yadav\nChoreographer - Kanu Mukherjee, Ram Devan, Anthony, Sanjay Kove\nLyrics - Pyarelal Yadav, Azaad Singh, Arvind Tiwari\nMusic Director - Avinash Jha (Ghungroo)\nMusic Label :  Worldwide Records / Aadi Shakti Audio \nhttps://www.facebook.com/WorldwideRecordsBhojpuri\n\nFor latest Bhojpuri Movies and Songs, don't forget to\n\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\n\nFollow us on Facebook: https://goo.gl/FCiyor\n\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8R-kSNAYcsY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8R-kSNAYcsY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8R-kSNAYcsY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/8R-kSNAYcsY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 34,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "8R-kSNAYcsY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/vhvvGBMPTsYUaYhGutLgxHvG76M\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC5EODk5RTI0RkMzQ0M2NTA0",
+   "snippet": {
+    "publishedAt": "2016-06-10T07:20:33.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Kurti Khol Di Ke Khol Di Salwar E Piya - BHOJPURI HOT SONG",
+    "description": "Song : Kurti Khol Di Ke Khol Di Salwar E Piya\nSinger :  Indu Sonali\nSET YOUR CALLER TUNE\nFor Reliance: Dial 595027800 and follow instructions\nFor Airtel: Dial  5432114973863 and follow instructions\nFor Vodafone: Dial 5376560536 and follow instructions\nFor Idea : Dial 567896560536 and follow instructions\nFor BSNL East : SMS BT  6560536 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  6560536 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 6560536 to 12800\nFor TATA Docomo : Dial 5432116560536 and follow instructions \nLyrics  : Vinay Bihari\nMusic Director : Aman Shlok\nFilm Name: SANGRAM (Bhojpuri)   \nStarcast : Pawan Singh, Viraj Bhat, Awdhesh Mishra, Kavya Singh, Amar Jyoti\nProducer : Sujit Tiwari\nPresenter: CPI Movies \nDirector : Jagdish Sharma  \nMusic Director : Aman Shlok\nChoreographers: Kanu Mukharji, Anthoni, Sanjay Korve, Dilip Mistry\nExecutive Producer: Indrajeet Sharma \nEditor : Gurjant Singh\nCinematography : Firoj Saikh\nAction : Heera Yadav\nMusic On : Worldwide records /CPI MUSIC\nhttps://www.facebook.com/WorldwideRecordsBhojpuri\n\nFor latest Bhojpuri Movies and Songs, don't forget to\n\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\n\nFollow us on Facebook: https://goo.gl/FCiyor\n\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Pubp4HlheZQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Pubp4HlheZQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Pubp4HlheZQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Pubp4HlheZQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 35,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Pubp4HlheZQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/O2NDY3EdEd7riorTjVSfKzGZmDI\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC4wNzVFQUYyOUU3MUFCN0E4",
+   "snippet": {
+    "publishedAt": "2016-02-08T18:38:39.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Aso Ke Lagan Mein - FULL SONG - Khesari Lal Yadav, Akshara Singh |  BHOJPURI HOT SONG",
+    "description": "Movie : Saathiya\nSong Name : Aso Ke Lagan Mein\nSinger : Khesari Lal Yadav\nLyricist : Pyare Lal Yadav  \nMusic Director : Ghunghuroo\nPresenter   : Aadi Shakti Entertainment & Navbhyu Multimedia\nBanner     : A.S. Pictures & Maheshwara Productions\nProducer    : Anuj Kumar, Ganesh Pendela\nCo Producer: Mahesh Upadhyay & Laxmi Narayana Pendela\nDirector     : Praveen Kumar Guduri\nAssociate Director: Harish Gupta \nChoreographer: KanuMukharjee, Sanjay Korve, Ram Devan\nStar Cast : Khesari Lal Yadav, Akshara Singh\nWriter  : Arbind Tiwari\nAction  : Hira Yadav\nMusic On  : Aadi Shakti Audio - Worldwide Records Bhojpuri (div)\nhttps://www.facebook.com/WorldwideRecords\nBhojpuri For latest Bhojpuri Movies and Songs, don't forget to\n\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\n\nFollow us on Facebook: https://goo.gl/FCiyor\n\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PeNFbEZnYZs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PeNFbEZnYZs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PeNFbEZnYZs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/PeNFbEZnYZs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 36,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "PeNFbEZnYZs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/en_pC5L6WYFZkEmRiGOBObYgaeA\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC40N0VCMzcxQTEyREU1NDND",
+   "snippet": {
+    "publishedAt": "2015-03-03T20:24:45.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Dabe Paon Aiha Nazariya Bachake | BHOJPURI HOT SONG |  Patna Se Pakistan",
+    "description": "Movie : Patna Se Pakistan\nSong Name : Dabe Paon Aiha Nazariya Bachake (Female)\nSinger : Kalpna\nLyricist : Pyare Lal Yadav\nMusic Director : Rajesh - Rajnish\nDirector :  Santosh Mishra\nProducer: Ananjay Raghuraj\nPresenter : Aadi Shakti Entertainment Pvt Ltd. & Trimurti Entertainment Media\nBanner : Ananya Craft & Visions\nStar Cast : Dinesh Lal Yadav, Kajal Raghwani, Amrapali Dubey, Sushil Singh, Ashok Samarth\nMusic On  : Aadi Shakti Audio - Worldwide Records Bhojpuri (div)\nhttps://www.facebook.com/WorldwideRecordsBhojpuri\nDownload Caller Tune On Your Mobile\nFor Airtel  : Dial 5432114684483 and follow instructions\nFor Vodafone  :Dial 5376108435 and follow instructions\nReliance  :Dial 595023088 and follow instructions\nTATA Docomo  : Dial 5432116108435 and follow instructions\nTATA Indicom  :SMS 6108435 to 12800 and follow instructions\nIdea   :SMS 6108435 to 56789 and follow instructions\nBSNL East & South :SMS BT space 6108435 to 56700and follow instructions\nhttp://gaana.com/album/patna-se-pakistan\nhttps://itunes.apple.com/in/album/patna-se-pakistan-original/id971812612 For latest Bhojpuri Movies and Songs, don't forget to\n\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\n\nFollow us on Facebook: https://goo.gl/FCiyor\n\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UYAXNi44F40/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UYAXNi44F40/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UYAXNi44F40/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/UYAXNi44F40/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 37,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "UYAXNi44F40"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/UO-I4tGWxB9tTYWseOGVyCoRpvA\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC5FNDUyQjI4QzZEODc2QjBC",
+   "snippet": {
+    "publishedAt": "2016-08-26T20:01:47.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Chaddar Hili Ki Na Jaan - BHOJPURI HOT SONG | DINESH LAL YADAV ,AAMRAPALI DUBEY - FULL SONG",
+    "description": "Song : Chaddar Hili Ki Na Jaan\nSinger : Kalpana,Om Jha. Lyrics : Pyare Lal Yadav ,Om Jha .Music : Om Jha\nProducer: Naser Jamal\nSet Your Caller Tune\nFor Reliance: Dial 595032417 and follow instructions\nFor Airtel: Dial 5432115426697 and follow instructions\nFor Vodafone: Dial 5377757500 and follow instructions\nFor Idea: Dial 567897757500 and follow instructions\nFor BSNL East : SMS BT  7757500 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  7757500 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 7757500 to 12800\nFor TATA Docomo: Dial 5432117757500 and follow instructions\n\nMovie : NIRAHUA CHALAL SASURAL 2\nStar Cast: Dinesh Lal Yadav, Aamrapali Dubey, Awadhesh Mishra,Sushil Singh,Manoj Tiger, Anoop Arora,Prakash Jais,Maya Yadav, Kiran Yadav,Shakila Majeed,Subodh Seth,Gopal Rai\nBanner : Muskkan Movies India Pvt. Ltd.\nDirector: Premanshu Singh\nMusic Director: Om Jha\nMusic On : Worldwide Records/ Aadi Shakti Audio \nhttps://www.facebook.com/WorldwideRecordsbhojpuri\n\nFor latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on \nYoutube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ejYOZbv6GzY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ejYOZbv6GzY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ejYOZbv6GzY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ejYOZbv6GzY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 38,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ejYOZbv6GzY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/WP-buSqG_yF8bcKSAesiVp_Cyzg\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC43ODUxQUQzOEI2RDEwM0FG",
+   "snippet": {
+    "publishedAt": "2016-01-22T15:23:53.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Goriya Chaal Tohar Matwali | PAWAN SINGH, KAJAL RAGHWANI | BHOJPURIYA RAJA | - BHOJPURI HOT SONG",
+    "description": "For Latest Bhojpuri Full Movies Click : http://bit.ly/294NNYk\nFor Latest Hot Bhojpuri Songs Videos : http://bit.ly/294NNYk\n\nSong : Goriya Chaal Tohar Matwali\nSinger : Pawan Singh, Priyanka Singh\nLyrics : Pyare Lal Yadav\nMusic  : Madhukar Anand\nMovie  : “BHOJPURIYA RAJA”\nBanner : Vasundhara Motion Pictures Pvt. Ltd.\nProducer: Sudhir Singh\nCo-Producer: Sandeep Singh\nDirector   : Sujeet Kumar Singh\nStar Cast  : Pawan Singh, Kajal Raghwani, Umesh Singh, Brijesh Tripathi\nMusic Director : Madhukar Anand\nWriter : Veeru Thakur\nEditor : Deepak Jaul\nMusic Label :  Worldwide Records / Aadi Shakti Audio \nhttps://www.facebook.com/WorldwideRecordsBhojpuri\nbuy and download music\nAmazon - https://goo.gl/sLLQHQ\niTunes - https://goo.gl/jA6P77\nSET YOUR CALLER TUNE\nFor Reliance: Dial 595030523 and follow instructions\nFor Airtel: Dial 5432115193205 and follow instructions\nFor Vodafone: Dial 5377121176 and follow instructions\nFor Idea: Dial 567897121176 and follow instructions\nFor BSNL East : SMS BT  7121176 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  7121176 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh\nFor TATA Indicom: SMS 7121176 to 12800\nFor TATA Docomo: Dial 5432117121176 and follow instructions",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/syo9p19vb-k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/syo9p19vb-k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/syo9p19vb-k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/syo9p19vb-k/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 39,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "syo9p19vb-k"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/3nczGhEeyKtz2PBXx0bIwvGNgNU\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC4xNjFBQzY0OEY1QzAxNjJE",
+   "snippet": {
+    "publishedAt": "2016-02-12T20:12:52.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Pasijhata - BHOJPURI HOT SONG | Rani Chatterjee",
+    "description": "Song - Pasijhata\nSinger -  Alka Pahadiya\nhttp://gaana.com/album/hum-se-badhkar...\nMovie : HUM SE BADHKAR KAUN\nStar Cast : Rani Chatterjee, Anjana Singh, Awadhesh Mishra, Sushil Singh,Anara Gupta, Sweety Chhabra, Apurva Bit, Gunjan Pant,Seema Singh, Manoj Tiger.\nProducer : Dhiraj Pramhans Singh\nPresenter: Munna Lal Shah\nDirector : Iqbal Baksh\nLyrics : Sagar Pardesi \nMusic Director: Chhote Baba\nMusic Label :  Worldwide Records / Aadi Shakti Audio \nhttps://www.facebook.com/WorldwideRecordsBhojpuri",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gmFtb1cu0K8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gmFtb1cu0K8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gmFtb1cu0K8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/gmFtb1cu0K8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 40,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "gmFtb1cu0K8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/siTEGKzHrlycmGtRochFVT3vrbc\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC5FMTRBMDgyN0ZFQjY4Mzkw",
+   "snippet": {
+    "publishedAt": "2016-01-08T11:12:37.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Chhalakata Hamro Jawaniya - BHOJPURI HOT SONG | PAWAN SINGH, KAJAL RAGHWANI",
+    "description": "For Latest Bhojpuri Full Movies Click : http://bit.ly/294NNYk\nFor Latest Hot Bhojpuri Songs Videos : http://bit.ly/294NNYk\n\nSong : Chhalakata Hamro Jawaniya\nSinger : Pawan Singh, Priyanka Singh\nLyrics : Azad Singh\nMusic  : Madhukar Anand\nMovie  : “BHOJPURIYA RAJA”\nBanner : Vasundhara Motion Pictures Pvt. Ltd.\nProducer: Sudhir Singh\nCo-Producer: Sandeep Singh\nDirector   : Sujeet Kumar Singh\nStar Cast  : Pawan Singh, Kajal Raghwani, Umesh Singh, Brijesh Tripathi\nMusic Director : Madhukar Anand\nWriter : Veeru Thakur\nEditor : Deepak Jaul\nMusic Label :  Worldwide Records / Aadi Shakti Audio \nhttps://www.facebook.com/WorldwideRecordsBhojpuri\nSET YOUR CALLER TUNE\nFor Reliance: Dial 595030521 and follow instructions\nFor Airtel: Dial 5432115193245 and follow instructions\nFor Vodafone: Dial 5377121175 and follow instructions\nFor Idea: Dial 567897121175 and follow instructions\nFor BSNL East : SMS BT  7121175 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  7121175 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh\nFor TATA Indicom: SMS 7121175 to 12800\nFor TATA Docomo: Dial 5432117121175 and follow instructions",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/39VzUADluas/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/39VzUADluas/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/39VzUADluas/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/39VzUADluas/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 41,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "39VzUADluas"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/jRRqPhm0tBZiXxOFzSE7Pyarc0A\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC44MjZDNDYzQjgwQzkzQzkz",
+   "snippet": {
+    "publishedAt": "2015-03-25T19:30:10.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Anguri Se Na Chuve Paibu | BHOJPURI HOT SONG | Saathiya",
+    "description": "Movie : Saathiya\nSong Name : Anguri Se Na Chuve Paibu\nSinger : Indu Sonali, Alka Pahadiya\nLyricist :Pyare Lal Yadav\nMusic Director : Ghunghuroo\nPresenter   : Aadi Shakti Entertainment & Navbhyu Multimedia\nBanner     : A.S. Pictures & Maheshwara Productions\nProducer    : Anuj Kumar, Ganesh Pendela\nCo Producer: Mahesh Upadhyay & Laxmi Narayana Pendela\nDirector     : Praveen Kumar Guduri\nAssociate Director: Harish Gupta \nChoreographer: KanuMukharjee, Sanjay Korve, Ram Devan\nStar Cast : Khesari Lal Yadav, Akshara Singh\nWriter  : Arbind Tiwari\nAction  : Hira Yadav\nMusic On  : Aadi Shakti Audio - Worldwide Records Bhojpuri (div)\nhttps://www.facebook.com/WorldwideRecordsBhojpuri\n\nSET YOUR CALLER TUNE\nFor Reliance: Dial 595023369 and follow instructions\nFor Airtel: Dial 5432114717727 and follow instructions\nFor Vodafone: Dial 5376170745 and follow instructions\nFor Idea: Dial 567896170745 and follow instructions\nFor BSNL East : SMS BT  6170745 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  6170745 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 6170745 to 12800\nFor TATA Docomo: Dial 5432116170745 and follow instructions\n\n\n For latest Bhojpuri Movies and Songs, don't forget to\n\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\n\nFollow us on Facebook: https://goo.gl/FCiyor\n\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/a-9ZYDxhUi4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/a-9ZYDxhUi4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/a-9ZYDxhUi4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/a-9ZYDxhUi4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 42,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "a-9ZYDxhUi4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/h_z16dcBM8pP8mSBw2-h8vjAyC8\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC41RTFEM0JFNjc4MDNBMzA5",
+   "snippet": {
+    "publishedAt": "2015-05-30T10:00:52.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Gir Gail Odani Ganna Ke Khet Mein | Pawan Singh, Kajal Raghwani | Bhojpuri Song | Pratigya 2 | HD",
+    "description": "Movie : Pratigya 2 (Bhojpuri Film)\nSong Name : Gir Gail Odani Ganna Ke Khet Mein\nSinger : Pawan Singh, Kalpana\nLyricist : Vinay Bihari\nMusic Director : Vinay Bihari\nDirector :  Sushil Kumar Upadhyay\nProducer: Sanjay Yadav, Harsh Tiwari, Abhishek Tiwari\nPresenter : C. P. I. Movies - Sujit Tiwari\nBanner : Jai Maa Aaskamini Films\nStar Cast : Pawan Singh, Khesari lal Yadav, Anil Samart ,Kajal Raghwani, Akshara Singh, Smrity  Sinha.\nMusic On : Aadi Shakti Audio / Worldwide Records\nhttps://www.facebook.com/WorldwideRecordsBhojpuri\nhttp://gaana.com/album/pratigya-2\nSET YOUR CALLER TUNE\nFor Reliance: Dial 595024778 and follow instructions\nFor Airtel: Dial 5432114800359 and follow instructions\nFor Vodafone: Dial 5376319849 and follow instructions\nFor Idea: Dial 567896319849 and follow instructions\nFor BSNL East : SMS BT 6319849 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  6319849 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 6319849 to 12800\nFor TATA Docomo: Dial 5432116319849 and follow instructions For latest Bhojpuri Movies and Songs, don't forget to\n\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\n\nFollow us on Facebook: https://goo.gl/FCiyor\n\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QdH-FnJEmfY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QdH-FnJEmfY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QdH-FnJEmfY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/QdH-FnJEmfY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 43,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "QdH-FnJEmfY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Vb5I9hqrSP9kCICCQ_A6S_P44uE\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC4yRkI2ODMzMTcwQTRGMTdC",
+   "snippet": {
+    "publishedAt": "2016-09-28T03:39:49.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Pichhla Janam Ke Bhatar - BHOJPURI HOT SONG | DINESH LAL YADAV ,AAMRAPALI DUBEY | MOKAMA 0 Km",
+    "description": "Song : Pichhla Janam Ke Bhatar\nSinger : Dinesh Lal Yadav, Kalpana\nLyrics : Sumit Chandravanshi\nMusic  : Rajesh Rajnish\nMovie : MOKAMA 0 Km\nProducer : Sujit Tiwari \nStarcast : Dinesh Lal Yadav (Nirahua), Aamrapali Dubey, Sushil Singh, Anjana Singh, Sanjay Pandey, Manoj Tiger, Prakash Jais\nSET YOUR CALLER TUNE\nFor Reliance: SMS CT  8544031 to 51234\nFor Airtel: Dial 5432115867190 and follow instructions\nFor Vodafone: Dial 5378544031 and follow instructions\nFor Idea: Dial 567898544031 and follow instructions\nFor BSNL East : SMS BT  8544031 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  8544031 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 8544031 to 12800\nFor TATA Docomo: Dial 5432118544031 and follow instructions\nPresenter : CPI MOVIES \nDirector : Santosh Mishra\nMusic Director: Rajesh - Rajnish\nMusic On : Worldwide Records / CPI \nhttps://www.facebook.com/WorldwideRecordsbhojpuri\nhttp://gaana.com/album/mokama-0-km\n\nFor latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on \nYoutube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/AbkbwaQZiVo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/AbkbwaQZiVo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/AbkbwaQZiVo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/AbkbwaQZiVo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 44,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "AbkbwaQZiVo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/oEZi-Go_lrWBjWwmwQq1PPw7jGI\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC43MDZDRDAzQTY4MTg4RUNB",
+   "snippet": {
+    "publishedAt": "2016-06-19T07:30:36.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Papa Se Permisan - BHOJPURI HOT SONG | HOT VIDEO",
+    "description": "Song :Papa Se Permisan\nSinger : Ritesh, Mamta\nSET YOUR CALLER TUNE\nFor Reliance: Dial 595030318 and follow instructions\nFor Airtel: Dial 5432115178923 and follow instructions\nFor Vodafone: Dial 5377063475 and follow instructions\nFor Idea: Dial 567897063475 and follow instructions\nFor BSNL East : SMS BT  7063475 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT 7063475 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 7063475 to 12800\nFor TATA Docomo: Dial 5432117063475 and follow instructions\nLyrics : Vibhakar Pandey\nMusic  : Chhote Baba\nMovie : Balma Biharwala 2\nStarcast : Pakhi Hegde, Arvind Akela (Kallu) Priya Sharma,Archana Tiwari, Ritesh Pandey, Anil Samrat etc.\nProducer : Ritesh Kumar Thakur \nPresenter: Deoghar Entertainment\nDirector : Vishnu Shankar (Belu)   \nMusic Director: Chhote Baba\nhttp://gaana.com/album/balma-biharwala-2\nMusic Label :  Worldwide Records / Aadi Shakti Audio \nhttps://www.facebook.com/WorldwideRecordsBhojpuri\n\nBhojpuri For latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0sPs3qxQxHc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0sPs3qxQxHc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0sPs3qxQxHc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/0sPs3qxQxHc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 45,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "0sPs3qxQxHc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/nWVo--JxcrlEsqxbCZHoELUZeQg\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC43NjBBRkNFNTM1ODdDMDgw",
+   "snippet": {
+    "publishedAt": "2016-09-28T19:48:40.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Satal Satal Salwar Pahir Ke - BHOJPURI HOT SONG | DINESH LAL YADAV ,AAMRAPALI DUBEY | MOKAMA 0 Km",
+    "description": "Song : Satal Satal Salwar Pahir Ke\nSinger : Mohan Rathod\nLyrics : Shyam Dehati\nMusic  : Rajesh Rajnish\nMovie : MOKAMA 0 Km\nProducer : Sujit Tiwari \nStarcast : Dinesh Lal Yadav (Nirahua), Aamrapali Dubey, Sushil Singh, Anjana Singh, Sanjay Pandey, Manoj Tiger, Prakash Jais\nSET YOUR CALLER TUNE\nFor Reliance: SMS CT  8544025 to 51234\nFor Airtel: Dial 5432115867258 and follow instructions\nFor Vodafone: Dial 5378544025 and follow instructions\nFor Idea: Dial 567898544025 and follow instructions\nFor BSNL East : SMS BT  8544025 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  8544025 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 8544025 to 12800\nFor TATA Docomo: Dial 5432118544025 and follow instructions\nPresenter : CPI MOVIES \nDirector : Santosh Mishra\nMusic Director: Rajesh - Rajnish\nMusic On : Worldwide Records / CPI \nhttps://www.facebook.com/WorldwideRecordsbhojpuri\nhttp://gaana.com/album/mokama-0-km\n\nFor latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on \nYoutube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1Dd8TtHvKWE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1Dd8TtHvKWE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1Dd8TtHvKWE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1Dd8TtHvKWE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 46,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1Dd8TtHvKWE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/T9EiBIXIjZ6uT3WMq3tjxwt-TT8\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC4yRjhERkY5NDUyQUYyMjY1",
+   "snippet": {
+    "publishedAt": "2016-06-04T11:45:51.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Tu Cheez Badu Naya Naya - BHOJPURI HOT SONG | PAWAN SINGH",
+    "description": "Song : Tu Cheez Badu Naya Naya\nSinger :  Pawan Singh,Khushboo Jain\nSET YOUR CALLER TUNE\nFor Reliance: Dial 595027806 and follow instructions\nFor Airtel: Dial  5432114973004 and follow instructions\nFor Vodafone: Dial 5376560576 and follow instructions\nFor Idea : Dial 567896560576 and follow instructions\nFor BSNL East : SMS BT  6560576 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  6560576 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 6560576 to 12800\nFor TATA Docomo : Dial 5432116560576 and follow instructions\nLyrics  : Shekhar Madhur\nMusic Director : Aman Shlok\nFilm Name: SANGRAM (Bhojpuri)   \nStarcast : Pawan Singh, Viraj Bhat, Awdhesh Mishra, Kavya Singh, Amar Jyoti\nProducer : Sujit Tiwari\nPresenter: CPI Movies \nDirector : Jagdish Sharma  \nMusic Director : Aman Shlok\nChoreographers: Kanu Mukharji, Anthoni, Sanjay Korve, Dilip Mistry\nExecutive Producer: Indrajeet Sharma \nEditor : Gurjant Singh\nCinematography : Firoj Saikh\nAction : Heera Yadav\nMusic On : Worldwide records /CPI MUSIC\nhttps://www.facebook.com/WorldwideRecordsBhojpuri\n For latest Bhojpuri Movies and Songs, don't forget to\n\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\n\nFollow us on Facebook: https://goo.gl/FCiyor\n\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kmF1uY-tHjw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kmF1uY-tHjw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kmF1uY-tHjw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/kmF1uY-tHjw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 47,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "kmF1uY-tHjw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/ZXZi3GNCs9wEslYKmRvWJ7m-nCI\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC5BMDc2MTU5OTE1QjUwNTk0",
+   "snippet": {
+    "publishedAt": "2016-04-29T11:05:02.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Nirahua Ke Chakkar Mein - BHOJPURI HOT SONG | DINESH LAL YADAV ,AAMRAPALI DUBEY",
+    "description": "Song : Nirahua Ke Chakkar Mein\nSinger : Om Jha,Lyrics : Pyare Lal Yadav,Music : Om Jha\nProducer: Naser Jamal\nFor Reliance: Dial 595032423 and follow instructions\nFor Airtel: Dial 5432115426745 and follow instructions\nFor Vodafone: Dial 5377757507 and follow instructions\nFor Idea: Dial 567897757507 and follow instructions\nFor BSNL East : SMS BT  7757507 to 56700. For West Bengal, Kolkata, Bihar, Jharkhand, Orissa, Assam & NE\nFor BSNL South: SMS BT  7757507 to 56700. For Chennai, Tamil Naidu, Karnataka, Kerala & Andhra Pradesh \nFor TATA Indicom: SMS 7757507 to 12800\nFor TATA Docomo: Dial 5432117757507 and follow instructions\n\nMovie : NIRAHUA CHALAL SASURAL 2\nStar Cast: Dinesh Lal Yadav, Aamrapali Dubey, Awadhesh Mishra,Sushil Singh,Manoj Tiger, Anoop Arora,Prakash Jais,Maya Yadav, Kiran Yadav,Shakila Majeed,Subodh Seth,Gopal Rai\nBanner : Muskkan Movies India Pvt. Ltd.\nDirector: Premanshu Singh\nMusic Director: Om Jha\nMusic On : Worldwide Records/ Aadi Shakti Audio \nhttps://www.facebook.com/WorldwideRecordsbhojpuri\n\nFor latest Bhojpuri Movies and Songs, don't forget to\nSubscribe to us on \nYoutube: http://goo.gl/wbTmz7\nFollow us on Facebook: https://goo.gl/FCiyor\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3lOB4Rh-mSI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3lOB4Rh-mSI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3lOB4Rh-mSI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/3lOB4Rh-mSI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 48,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "3lOB4Rh-mSI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/fFbyztni8Q0inyG8CN_Ot5I7lP4\"",
+   "id": "UExKM002QW9WUi1nYW85d2cweXF0WGpzZjY4RU5TYWkzeC5GOUJEOERGNDg1N0QyNDA3",
+   "snippet": {
+    "publishedAt": "2015-02-23T06:23:41.000Z",
+    "channelId": "UCbomPUMyPHCgrqD5iYnzj1A",
+    "title": "Pagal Premi | Official Trailer | Vinay Anand | Sangeeta Tiwari | Ajit Anand",
+    "description": "For Latest Bhojpuri Full Movies Click : http://bit.ly/294NNYk\nFor Latest Hot Bhojpuri Songs Videos : http://bit.ly/294NNYk\n\nMovie :- Pagal Premi\nStarcast: Vinay Anand, Sangeeta Tiwari, Ajit Anand,Shree Kankani, Anup Arora, Jaiprakash Singh, Sunita Singh, Paritosh Tripathi, Suman Kumari and Sanjay Pandey\nSinger: - Mamta Raut, Indu Sonali, Palak, Manoj Mishra, Khushboo Jain & Alok Kumar\nLyrics: - Krishna Bedardi, Rajesh Mishra & Phaneendra Rao\nMusic :- Rajesh Gupta\nProducer: Navin Kumar Singh\nDirector: Ajay Kumar\nBanner: Savita Shree Productions\nMusic On: Worldwide Records\nLanguage: Bhojpuri For latest Bhojpuri Movies and Songs, don't forget to\n\nSubscribe to us on Youtube: http://goo.gl/wbTmz7\n\nFollow us on Facebook: https://goo.gl/FCiyor\n\nFollow us on Google: https://goo.gl/Lsnh5N",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/OUizOkzCoKQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/OUizOkzCoKQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/OUizOkzCoKQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/OUizOkzCoKQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Worldwide Records Bhojpuri",
+    "playlistId": "PLJ3M6AoVR-gao9wg0yqtXjsf68ENSai3x",
+    "position": 49,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "OUizOkzCoKQ"
+    }
+   }
+  }
+ ]
+}
