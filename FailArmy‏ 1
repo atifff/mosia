@@ -1,0 +1,2143 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/aBNg0hFuLhXFXH1unycYEbj-q88\"",
+ "nextPageToken": "CDIQAA",
+ "pageInfo": {
+  "totalResults": 117,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Rc3R1eVM9pzyAZOEXkmuY37EfyI\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi5DQjg2RDQyMEVGQkZFOEVF",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:48.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best Fails of the Month March 2015 || FailArmy",
+    "description": "7 Million subscribers! Shout out to FailArmy Nation, you guys are the best! We're starting a second channel to reward you guys w/ giveaways and other stuff. Check it out: http://bit.ly/ChannelUpdate3\n\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!\n\nOriginal Links:\nSkate Nutshot https://www.youtube.com/watch?v=QGqPcgLyR34\nTrollmeister https://www.youtube.com/watch?v=dM6ErtSBX98\nKarate Kick Fail https://www.youtube.com/watch?v=2nWeuy6XMms\nMoto Fail https://www.youtube.com/watch?v=QMZXN9Omd00\nMudslide https://www.youtube.com/watch?v=G2CERej-oxQ\nBike Fail https://www.youtube.com/watch?v=_vtSoTjnoGI\nWO Fail https://www.youtube.com/watch?v=WsSVF5_TqlE\nLittle Girl Fail https://www.youtube.com/watch?v=zvkHHqXxm_s\nLog Fail https://www.youtube.com/watch?v=PegYfLz4Rjo\nKite Fail https://www.youtube.com/watch?v=TufeaHx9Am8\nSnowboard Fail https://www.youtube.com/watch?v=srt1UGGTBsU\nShotgun Fail https://www.youtube.com/watch?v=WdWb09Na99Q\nSurf Fail https://www.youtube.com/watch?v=2el2Ugcwxn8\nSki mess https://www.youtube.com/watch?v=QDlEy8pkMlI\nGymnastics High Bar https://www.youtube.com/watch?v=Ib54ccjkaJU\nGolfing Fail https://www.youtube.com/watch?v=dYFmjFIg0K0\nDB Fail https://www.youtube.com/watch?v=3VeD1qrFthA\nStroller Fail https://www.youtube.com/watch?v=3jFnkwecl0I\nCatching a Gem https://www.youtube.com/watch?v=4i_GFrlaStQ\nBike Fail https://www.youtube.com/watch?v=L6MoX6KkveM\nLanding mess https://www.youtube.com/watch?v=t2tWod8kibE\nFilm Shooting Fail https://www.youtube.com/watch?v=CCfMOUxfC5w\nTrampoline https://www.youtube.com/watch?v=O3MQlpcPRzg\nCat Fail https://www.youtube.com/watch?v=XO19SHVNwLo\nATV mess https://www.youtube.com/watch?v=C7qT64erM80\nBike Fail https://www.youtube.com/watch?v=ZlcUQWPWsSk\nNear Miss https://www.youtube.com/watch?v=ef732v96DGg\nFail https://www.youtube.com/watch?v=g6cCqk0VwQ8\nMy friend fell to the music https://www.youtube.com/watch?v=AVLtA9tR6FU\nBackflip Fail https://www.youtube.com/watch?v=xwCM4aA4x4s\nKitten Fail https://www.youtube.com/watch?v=5tS0a7WPTws\nATV mess https://www.youtube.com/watch?v=e46wux1fEfk\nFaceplant https://www.youtube.com/watch?v=VsXA7GX6EL8\nDash mess https://www.youtube.com/watch?v=o_l8GJlJhTQ\nDB POV Fail https://www.youtube.com/watch?v=DXAvro6kPHA\nGolfing Fail https://www.youtube.com/watch?v=dYFmjFIg0K0\nCheerleader Fail https://www.youtube.com/watch?v=3d4haWSU5rA\nPond Hock https://www.youtube.com/watch?v=suHAZ2Nfkd8\nDaniel screams in virtual reality https://www.youtube.com/watch?v=WETwwKbleks\nCaught Dancing https://www.youtube.com/watch?v=wEkDgxcWCZg",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qN67urEmyWw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qN67urEmyWw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qN67urEmyWw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/qN67urEmyWw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/qN67urEmyWw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "qN67urEmyWw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/397I8EMRmzZ8iVfcwyq64f848FI\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi4yM0EyQ0U1M0I2RkIwNTQ0",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:48.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Ultimate Basketball Fails Compilation || March Badness by FailArmy",
+    "description": "Is your bracket busted? Do you hate march madness? Does any of this make sense? Either way we've collected some of our best basketball fails for your viewing pleasure. Bad dunks, broken baskets and bad ballers, let us know which made you laugh the most in the comments, and SALUTE!\n\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/V8JHObN7Kus/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/V8JHObN7Kus/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/V8JHObN7Kus/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/V8JHObN7Kus/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/V8JHObN7Kus/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "V8JHObN7Kus"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/se_M5R84g0tsKq-HpXtmHf0NFxQ\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi5ERENFNTk4Q0Q2MTZDMTA5",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:48.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best Fails of the Week 3 March 2015 || FailArmy",
+    "description": "Its Friday. Time to sit back, relax and watch some of the most epic fails brought to you this week for the FailArmy Nation. Let us know what your thoughts are below. Comments on the best videos and as always, SALUTE!\n\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!\n\nOriginal Links:\nHeadbanger https://www.youtube.com/watch?v=HqoWQUNWQ90\nSledding Fail https://www.youtube.com/watch?v=xtXXYjDmeUU\nPo Po https://www.youtube.com/watch?v=2mrPUAcP_-o\nMom Fail https://instagram.com/p/n9a-mxzC1j/\nBad friends https://www.youtube.com/watch?v=sO6X7Ch4Zag\nTree Jump https://www.youtube.com/watch?v=eMjBRHTYTEk\nBarbell https://www.youtube.com/watch?v=owfzu2Li8gI\nSki Fail http://www.newschoolers.com/watch/759000.0/Hilarious-backflip-attempt?c=13&o=8&t=6\nBike Fail https://www.youtube.com/watch?v=YBWHUGNBIY0\nGhost Busters https://www.youtube.com/watch?v=k6-IHGDJr_s\nMTB Fail https://www.youtube.com/watch?v=dnkRbvyaeP0\nGoing to the Pub https://www.youtube.com/watch?v=0X73JB-rXKM\nSki mess http://www.newschoolers.com/watch/759649.0/Smash-Sumone?c=13&o=8&t=6\nIce Bucket Fail \nFront Flip Fail https://www.youtube.com/watch?v=e02bGI8bVe4\nFaceplant https://www.youtube.com/watch?v=zi1k9DMhtuI\nPulled Over https://www.youtube.com/watch?v=igGmLZGsrnk\nJet Pack Fail https://www.youtube.com/watch?v=MtFDM72FOPU\nSki Drop https://www.youtube.com/watch?v=RmbD1mnP4Ak\nDouble Backflip Fail https://www.youtube.com/watch?v=BNf2zHox7FI\nShopping https://www.youtube.com/watch?v=nXiVSJgKWOU\nBaby Shocked https://www.youtube.com/watch?v=CadG5rL6WDo\nGirl Fail https://www.youtube.com/watch?v=vd1kKXFvsxI\nSki Fail https://www.youtube.com/watch?v=Nz-y6BK0eEU\nBike fail 11 https://www.youtube.com/watch?v=GKDkvUVqvh8\nSpider-Man fails at parkour https://www.youtube.com/watch?v=JC1Zr4m4uz4\nlit Fishing https://www.youtube.com/watch?v=uRmYNsON2fw\nMTB Fail https://www.youtube.com/watch?v=C8Np5mBI6XA\nCrazy Horse Fail https://www.youtube.com/watch?v=Vqbk-EoB7o4\nPlaygrounds https://www.youtube.com/watch?v=hqWkkCKAMQ4\nTaken Out https://www.youtube.com/watch?v=c5Fnmqpv4jM\nSkydive Fail https://www.youtube.com/watch?v=yxUUkyf9JOE\nBackflip Fail https://www.youtube.com/watch?v=T1fVVnMoBDU\nA Series of Trampoline-Related Events https://www.youtube.com/watch?v=GvlQRUsuUhE\nKarate Fail https://www.youtube.com/watch?v=3icXKKJawfo",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/03CbfPnKS5Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/03CbfPnKS5Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/03CbfPnKS5Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/03CbfPnKS5Q/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/03CbfPnKS5Q/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "03CbfPnKS5Q"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/YVvi10tc0zKrHC6jKYqaU3WJi-k\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi41RDUzRjJFQ0Y0MUI3NzU1",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:48.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Private video",
+    "description": "This video is private.",
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "9WgPFeK5Cn0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/vZSi2T4zFisU_sxsUq8XlSC4rsw\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi5FRjdGNDMzN0I2RTI3MDlG",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:48.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best Fails of the Week 2 March 2015 || FailArmy",
+    "description": "We made it to Friday, and so did this week's biggest Failures. 2-3 clips this week had us laughing our asses off. Which one got you the most? Let us know down below. Thanks for stopping in, and as always, Salute!\n\nEnjoy the best fails of the week!\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!\n\nOriginal Links:\nJump Fail https://www.youtube.com/watch?v=gM8VwTENf8s\nRollerskating Fail https://www.youtube.com/watch?v=7g0faxUYbN4\nChairs https://www.youtube.com/watch?v=i_2vR901a9A\nBouncing Fail https://www.youtube.com/watch?v=COUg5aoQZew\nStair Fails https://www.youtube.com/watch?v=XQeQUYmrDHU\nHigh Bar Fail https://www.youtube.com/watch?v=4Z3ZUbw879U\nBongos https://www.youtube.com/watch?v=L3feZ6rUN14\nWO Fail https://www.youtube.com/watch?v=FpJHDqp2C1w\nClose Call https://www.youtube.com/watch?v=wwsRLGhtP2w\nHandspring Fail https://www.youtube.com/watch?v=cDwjJfH2qzo\nTank mess https://www.youtube.com/watch?v=K7_5PLqruX8\nKid Fail https://www.youtube.com/watch?v=wHZu2shGYSI\nHonda Moto mess https://www.youtube.com/watch?v=cihG-w7OEHM\nPower Lines https://www.youtube.com/watch?v=OJ_mqvKThD4\nBike Fail 6 https://www.youtube.com/watch?v=g7h-1_ePiXM\nAngry Kid https://www.youtube.com/watch?v=n_W1bVrn65k\nBike Fail 3 https://www.youtube.com/watch?v=8FYDHfftcNs\nSledding Fail https://www.youtube.com/watch?v=K1OcfOkIZ08\nHit and Run https://www.youtube.com/watch?v=6qguQe4ZA0Q\nFountain Fail https://www.youtube.com/watch?v=9g6qMzqyiyc\nSkate Fail https://www.youtube.com/watch?v=-YYD2KLmiQw\nTreadmill Fail https://www.youtube.com/watch?v=Xg_GYgpk8k4\nGiraffe Thief https://www.youtube.com/watch?v=q9q-sgSG23A\nPOV Fail https://www.youtube.com/watch?v=OqafGzAAHuY\nSprayed https://www.youtube.com/watch?v=PA_e_tgW_VI\nEscalator Fail https://www.youtube.com/watch?v=NLPc_5_96GY\nBar Breaks https://www.youtube.com/watch?v=GJc-scOx92Y\nTeens On Train https://www.youtube.com/watch?v=qN6xuF9X6Y0\nDrone Fail https://www.youtube.com/watch?v=hrCQ4OrSW1w\nWo Fail https://www.youtube.com/watch?v=IDbWjqoKyA8\nSledding Fail 2 https://www.youtube.com/watch?v=yzrbBFKLtWw\nCooking Fail https://www.youtube.com/watch?v=uRZY9foQwrA\nRedneck Sledding https://www.youtube.com/watch?v=UbqpayDui8I\nWater Bottle trick https://www.facebook.com/video.php?v=10203766631507760&pnref=story\nhey papi www.youtube.com/watch?v=jkWnEGuVX74",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IGgmuwGNITI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IGgmuwGNITI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IGgmuwGNITI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/IGgmuwGNITI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/IGgmuwGNITI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "IGgmuwGNITI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/DlAvAKlt_fQABNxliF0OWBIkQFM\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi41ODIyMTgwQzA4NjJCQkZC",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:48.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Man Vs. Nature  || A FailArmy Tree Fails Compilation",
+    "description": "Man battled nature and the results are in... the trees win. Watch some of the funniest, most epic tree fails from the FailArmy library. In fact since so many trees gave life and limb in this compilation, we're thinking about donating to a charity for them. Let us know which one in the comments, enjoy the video and as always, Salute!\n\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2J6bEcos7xU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2J6bEcos7xU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2J6bEcos7xU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/2J6bEcos7xU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/2J6bEcos7xU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "2J6bEcos7xU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/M53gcDIJMu7OjiBw7gITJIfQuwE\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi5CNEYyNTVBNDdGMDI1MDNC",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:48.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best Fails of the Week 1 March 2015 || FailArmy",
+    "description": "March is here and we've packed 6.5 minutes of the best fails so far in one convenient Fail Compilation. Check out the funniest fails the internet has to offer and shout out to all the loyal FailArmy subscribers. Enjoy the video and Salute!\n\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!\n\nOriginal Links:\nPaintball Fail https://www.youtube.com/watch?v=Av9tim8lHl0\nPlaypark Fail https://www.youtube.com/watch?v=WdgGgrRw5uA\nRiver Crossing https://www.youtube.com/watch?v=gHDlwJ6st4I\nWatermobile https://www.youtube.com/watch?v=8nazS7oyhnE\nMTB mess https://www.youtube.com/watch?v=R_Dqv5ZDbRk\nHorse Fail https://www.youtube.com/watch?v=skqy2KwPqOo\nDirt Biker https://instagram.com/p/zRq8OGTb1B/\nATV Fail https://www.youtube.com/watch?v=_xBpRDPzwl8\nCat Fail https://instagram.com/p/xz42oSyDMh/\nBikini Fail https://www.youtube.com/watch?v=NvxqAKgPfT0\nKid Launch https://www.youtube.com/watch?v=nM_WiiGqT74\nImpreza Fail https://www.youtube.com/watch?v=M_0avfiAaZg\nSkate mess https://www.youtube.com/watch?v=2N3zllI8USQ\nSlipping https://www.youtube.com/watch?v=1FWWhmSSZYA\nGirl Fail https://www.youtube.com/watch?v=0bn8DVEaxXo\nSki Fail https://www.youtube.com/watch?v=_6l4w6vm8gk&feature=youtu.be\nWood Board Fail https://www.youtube.com/watch?v=iq1XBIpB10A\nMTB Fail https://www.youtube.com/watch?v=5z3WwIaG3-k\nFireworks Fail https://www.youtube.com/watch?v=PEsRVg-27o4\nWater FP https://www.youtube.com/watch?v=oX9CHkQAAog\nSalmon Ladder https://www.youtube.com/watch?v=lpeGNkf8cUU\nMTB Fail https://www.youtube.com/watch?v=Ld9edL4GROs\nSkate Fail https://www.youtube.com/watch?v=aBetD1hGtFE\nSki Lift Fail https://www.youtube.com/watch?v=t99nsAU3Xfc\nWater Slide Dog https://www.youtube.com/watch?v=RtOUBXDcrB0\nParent Fail https://www.youtube.com/watch?v=sju8tufQlzQ\nSki POV mess http://www.newschoolers.com/watch/755234.0/I-almost-caught-him?c=13&o=8&t=6\nYou're Not Serious https://www.youtube.com/watch?v=R8g731iIBno\nSkate Fail Win https://www.youtube.com/watch?v=SyPR_VBd0Ck&feature=youtu.be\nBench Press Fail https://www.youtube.com/watch?v=q3s7InkKDDo\nSki Faceplant http://www.newschoolers.com/watch/753880.1/Get-Rek\nFerrt Falls https://www.youtube.com/watch?v=rkeazz3aMQs\nPiggybacks https://www.youtube.com/watch?v=v8o4TH2jL0k\nPocket Bike Fail https://www.youtube.com/watch?v=CPwq3s1j3oc\nSnow Flip Fail https://www.youtube.com/watch?v=MGGDG9HFnT4\nHurdle Fails https://www.youtube.com/watch?v=RKQ-cikjyxc\nGuitar Spin https://www.youtube.com/watch?v=AvUSeu2QlQg\nHorse Fail https://www.facebook.com/video.php?v=395004114012826\nGreat White Buffalo https://www.youtube.com/watch?v=srLjIZK2y_8\nSki Fail https://www.youtube.com/watch?v=YhUtuj4SC50",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/s6BQQghBwlY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/s6BQQghBwlY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/s6BQQghBwlY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/s6BQQghBwlY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/s6BQQghBwlY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "s6BQQghBwlY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/VXlFSOk5c4wQYfuj2tUI1agiB4c\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi5EMUJFNzRCNDRFQjE5RjM4",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:48.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Stupid People Fails Compilation || FailArmy's Darwin Awards",
+    "description": "Charles Robert Darwin was an English naturalist and geologist, best known for his contributions to evolutionary theory. Unfortunately for him, here at FailArmy we celebrate de-evolution. Here are our favorite, funniest fails from people who seem to be proving his theory of evolution wrong.. Let us know your thoughts in the comments and as always, Salute!\n\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aD_Gp083b2U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aD_Gp083b2U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aD_Gp083b2U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/aD_Gp083b2U/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/aD_Gp083b2U/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "aD_Gp083b2U"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/WarorK4CXO7oK480OaBgnOIz-24\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi44QjNCNkRENjNFQTBEMUND",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:48.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best Fails of the Month February 2015 || FailArmy",
+    "description": "February brought blizzards, llamas on the loose and some epic fails. We're kicking it old school with this compilation bringing a good mix of dumbassery and some hardcore hits. Check out the most hilarious fails in this month's fails of the month, and let us know your thoughts in the comments. Salute!\n\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!\n\nOriginal Links:\nSelfie Wave mess https://www.youtube.com/watch?v=9-4BDYeQ8SE\nEquestrian Fail https://www.youtube.com/watch?v=NbNyDSAloIA\nBed Prank https://www.facebook.com/video.php?v=10153411554139460\nGirl Fail https://www.youtube.com/watch?v=Iv3E9etcw1A\nClassroom Failure https://www.youtube.com/watch?v=BbupU2J0YZg\nKid Fail https://www.youtube.com/watch?v=pzwj3Skt1yw\nBarbie Jeep https://www.youtube.com/watch?v=GtP1jGGa-tA\nJawbreaker Parkour https://www.youtube.com/watch?v=9wnEHPRZFnc\nProposal Fail https://www.youtube.com/watch?v=czTe618_0eU\nHead Smack https://www.youtube.com/watch?v=k009w9-jFpg\nSki Fail 2 https://www.youtube.com/watch?v=E6a0GViilE4\nGo Kart mess https://www.youtube.com/watch?v=a9pkiQL1NSw\nClassroom Fail https://www.youtube.com/watch?v=n-SqH8qDiQE\nMoto Intersection mess https://www.youtube.com/watch?v=MNIArEWrGog\nSnowboarding Fail https://www.youtube.com/watch?v=fIJbSvQ0dwU\nMMA  https://www.youtube.com/watch?v=c7NQ9kIZYFU\nSki Fail 2 https://www.youtube.com/watch?v=aq2S0koiV5w\nNerdist https://www.youtube.com/watch?v=fVtwuWcTX0k\nParkour Fail \nMTB Fail https://www.youtube.com/watch?v=zpp-aBDqa4Y\nWorkout Fail https://www.youtube.com/watch?v=P8GjQB6FXY8\nWater Fail https://www.youtube.com/watch?v=cwrVubWq50s\nTrike Fail https://www.youtube.com/watch?v=S4Fb8a48ML0\nRail Slide Fail 10 https://www.youtube.com/watch?v=mAzVK7Qeltc\nScooter Butter https://www.youtube.com/watch?v=8GLNaiOGgS8\nMoto mess https://www.youtube.com/watch?v=CYGf7w5kZOU\nScotch Bonnet Challenge https://www.youtube.com/watch?v=T5Fmo2wl66k\nRail Slide Fail 9 https://www.youtube.com/watch?v=SMD1VKiZkLw\nBike Fail https://www.youtube.com/watch?v=Ps5klieWZcs\nSki Fail https://www.youtube.com/watch?v=xZoQb3D1TXs\nQuadcopter Fail https://www.youtube.com/watch?v=MlhbmvTNqf4\nCat Fail https://www.youtube.com/watch?v=0LC3SXj18x0\nBackflip mess https://www.youtube.com/watch?v=6PQ_ybVaxoQ\nDashcam Fail https://www.youtube.com/watch?v=QSdI-4PtQ4Y\nSnowboarding Fail 8 https://www.youtube.com/watch?v=8gm0UqnPhnc\nAussie dog attacks helicopter https://www.youtube.com/watch?v=anjWUhVHOtM\nSnowboard Fail https://www.youtube.com/watch?v=u06acGlZah8\nSand Surfing https://www.youtube.com/watch?v=JkBwu-NQ9zo\nbaking soda experiment https://www.youtube.com/watch?v=VRoYCpjMPyk\nSlackline Fail https://www.youtube.com/watch?v=Ukny-1V0z_U",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UL6-VQw0e8c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UL6-VQw0e8c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UL6-VQw0e8c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/UL6-VQw0e8c/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/UL6-VQw0e8c/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "UL6-VQw0e8c"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/48Vvn4DPUUhj6jnAOocHiXxksLc\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi5GNzk2RTlDQTNCQzJCQzJG",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:48.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Ultimate Parkour Fails Compilation || FailArmy",
+    "description": "The only equipment you need for parkour is a camera for a friend to hold HORIZONTALLY while he films your failures. Seriously, we probably get parkour submissions 3rd most behind skateboard and bike fails. The good news is we've collected our funniest parkour fails and put them together for a compilation. Let us know your thoughts in the comments and as always, Salute!\n\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZEs9zmF-Fwk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZEs9zmF-Fwk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZEs9zmF-Fwk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ZEs9zmF-Fwk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ZEs9zmF-Fwk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ZEs9zmF-Fwk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/FUluIPrKvKn3M7_Wg7-Qj2nHC50\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi43ODA2MDVCQzY5QzZDMjUw",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:48.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best Fails of the Week 3 February 2015 || FailArmy",
+    "description": "What's up FailArmy Soldiers? We're halfway through a short month, but the fails have been funny as hell. This week the tables turn for biggest asshole pet with a new contender added to the mix. We also get a little shout out by a fan through a FailArmy hat. Want one? Get it here: http://bit.ly/HatFailArmy. Remember to comment below and as always, Salute!\n\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!\n\nOriginal Links: \nMariachi Fail https://www.youtube.com/watch?v=oNNEBOs0DmM\nCar mess https://www.youtube.com/watch?v=Jy_-Pv-Ev3I\nYoyo head fail https://www.youtube.com/watch?v=qMgZe6G7wGA\nSkate Fail https://www.youtube.com/watch?v=4hJibzeYsNs\nPing Pong Throw https://www.youtube.com/watch?v=ApgrBSXnK5A\nBike Fail \nJet Ski Fail https://www.youtube.com/watch?v=mHnAAsqFlPI\nJetski Fail jukinvideo.com/cms/index.php?S=0&D=cp&C=content_publish&M=entry_form&channel_id=8&entry_id=66783\nBike fail 2 \nFetch Fail https://www.youtube.com/watch?v=vZkwJbi-tUk\nKid Faceplant https://www.youtube.com/watch?v=Je-mohkwlsE\nSnow Fail https://www.youtube.com/watch?v=DzzvM5-6o_k\nHigh Bar Fail https://www.youtube.com/watch?v=7MmhW2nRnMQ\nTattoos https://www.youtube.com/watch?v=T8oQwsSyQCU\nPOV Sledding Fail \nTire BF https://www.youtube.com/watch?v=-fv8HXuTreQ\nSkate Fail 2 \nStupid Cat https://www.youtube.com/watch?v=-UNFhQi3ZhQ\nATV Fail https://www.youtube.com/watch?v=MQ5_nxP5CgY\nSki Fail https://www.youtube.com/watch?v=OZRW8g_wh_g\nScared Potless https://www.youtube.com/watch?v=d3lU1mAROCw\nSnowboarding https://www.youtube.com/watch?v=77w2OSTTvzE\nMonkey go crazy https://www.youtube.com/watch?v=Ne7ICtlC-FM\nEpic bro fail 4 https://www.youtube.com/watch?v=Mdtthabdh1s\nChute Ski Fail https://www.youtube.com/watch?v=rhrAUfceM7E\nCat Fail https://www.youtube.com/watch?v=bjELKh6-p5I\nRolerblading Fail https://www.youtube.com/watch?v=tzrRCeoWq3c\nHandstand Fail https://www.youtube.com/watch?v=kMUxc9LTGM8\nSki Nutshot \nGym Fail https://www.youtube.com/watch?v=gnzg9bsMwm4\nKid Fail https://www.youtube.com/watch?v=w8SizarJb4Q\nBird Flies into Window https://www.youtube.com/watch?v=MlgEipq8V7Y\nFree Run head fail https://www.youtube.com/watch?v=bgBcxpfvWOo\nSkater Fail 3 https://www.youtube.com/watch?v=33TpSDEAnIA\nRib Crack https://www.youtube.com/watch?v=yINU8XYOtjM\nBruins Backflip https://www.youtube.com/watch?v=67jj_wq5MZ0\nSlide Selfie https://www.youtube.com/watch?v=X7GFacn9HAg\nSkater FAil 2 https://www.youtube.com/watch?v=yxoMlqTrKuw\nDrone mess https://www.youtube.com/watch?v=KvfdsB_QRLA\nScare Chandelier \nFail head fail https://www.youtube.com/watch?v=8VenllYSuUg\nCat Fail https://www.youtube.com/watch?v=798TTsjf9v0",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/I8N7bKzE1GY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/I8N7bKzE1GY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/I8N7bKzE1GY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/I8N7bKzE1GY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/I8N7bKzE1GY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "I8N7bKzE1GY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/fkI21_PCejjnwACWrn3fegjfYB0\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi40OTQ5QjlEMDgzN0FBNUIw",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:48.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best POV and Camera Fails Compilation | Poor Cameraman || FailArmy",
+    "description": "The tables have turned and nobody is safe. Usually the people behind the camera get to laugh at the misfortune of others but not this time... Watch some of our favorite Poor Camera Guy fails and the next time you record your friends making bad decisions, watch out! Let us know your thoughts in the comments and as always, Salute!\n\nGet 10% off a Lootcrate subscription. Details here: http://bit.ly/FailArmyLootcrate promocode: FAILARMY\n\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZRuMVyz7z1g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZRuMVyz7z1g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZRuMVyz7z1g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ZRuMVyz7z1g/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ZRuMVyz7z1g/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ZRuMVyz7z1g"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/aPIUl-lA8AuCgMDOF0k7wSgtXEo\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi5CQzUwREI3MzkxQjdBM0E0",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:48.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Private video",
+    "description": "This video is private.",
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "aqlS0qx52Wc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/6U32Vrpgu1CrvRNK3N0ML5-NmUc\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi4yOTZGRTNEQ0ZGNUM5RDgw",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:48.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Couple Fails Compilation: Failed Valentines || FailArmy",
+    "description": "In honor of the sappiest day of the year, we've compiled all our our funniest couple fails together. Whether you have a significant other, a pillow, or just your imagination, share a laugh by watching this compilation with the one you love most. Let us know your thoughts below and Salute!\n\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!\n\nOriginal Links:\nBikini Bottoms https://www.youtube.com/watch?v=NqZiq1Oc_1Y\nFlower Smack https://www.youtube.com/watch?v=dURtXvkD_w0\nMarriage Proposal Fail http://youtu.be/vCY6Tw_I0F8\nWheelchair Down Stairs http://youtu.be/DamlmlI3bo0\nSnorkeler Husband Falls Off Deck into Water http://youtu.be/jg_Dnzpp44I\nPoor little Michael https://www.youtube.com/watch?v=za0r40EHyP0\nDancer Loses Skirt http://youtu.be/Tl7Npqjy2JE\nRollover http://youtu.be/33C5rL3hfWs\nRolling Humans https://www.youtube.com/watch?v=RBromBS8j7g\nJet Ski Instructor https://www.youtube.com/watch?v=X3CpHUm-CgE\nSelfie Almost Struck by Lightning http://youtu.be/JVDdAobUiJI\nCouple Making Out Chair Breaks https://www.youtube.com/watch?v=DwHwN3Sj_To\nClown gets kicked https://www.youtube.com/watch?v=wxnH28mx12o\n \nCouple Ski mess https://www.youtube.com/watch?v=fcqzb0DDsV4\nTwo guys Dance lovey https://www.youtube.com/watch?v=NTEzIU233aY\nnight ride\nGirlfriend Colonoscopy \nDance Flip https://www.youtube.com/watch?v=2X80UbGhe6Y\nCorn n Lita Pool https://www.youtube.com/watch?v=Cbvwlq7X1HE\nDirty Dancing Fail http://www.youtube.com/watch?v=301LOnpAwqA\n Wrestling Girl Wins       https://www.youtube.com/watch?v=0IOlziFOVh0\nPranking His Girlfriend https://www.youtube.com/watch?v=RPf8VCl1u0w\nNot in the Mood https://www.youtube.com/watch?v=JVsHNkWrkt8\nSwing Dance https://www.youtube.com/watch?v=6s42rbFVUuw\nJealous Little Girl https://www.youtube.com/watch?v=dvh8JvqU8o8\nBack of Car https://www.youtube.com/watch?v=TJltRm6Xmvo\nDancing On Boyfriend \nPromposal Fail https://www.youtube.com/watch?v=QLDeFldesRo\nCOuple Crashes into Boar https://www.youtube.com/watch?v=Hg3YmaMgTWw\nGuy Humprs Rugger Chicken https://www.youtube.com/watch?v=82GnSj2OToU\n \nLongboarders Hold Hands http://www.youtube.com/watch?v=0toCcW8dM_s\nForever Alone https://www.youtube.com/watch?v=fTnmVhkMmFQ",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/OY7dwMihcdE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/OY7dwMihcdE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/OY7dwMihcdE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/OY7dwMihcdE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/OY7dwMihcdE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "OY7dwMihcdE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/zIbzYs5u6XxGJ5derp3OUL06lV0\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi4zNDIxRUJGQThFRTg1QzAy",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:48.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best Fails of the Week 1 February 2015 || FailArmy",
+    "description": "What's up FailArmy? Its time for another episode featuring the funniest fails on the internet. Got a Fail video? Remember to SUBMIT YOUR VIDEOS at submit.failarmy.com. Enjoy the fails and as always, let us know your thoughts down below. Salute!\n\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!\n\nOriginal Links:\nWindow Break https://www.facebook.com/video.php?v=4471990337099\nHosre Fail https://www.youtube.com/watch?v=9lkt1i2TCrA\nMTB Fail https://www.youtube.com/watch?v=21IFOhp6Ww0\nDemolition Fail https://www.youtube.com/watch?v=WKqpY4bw4KM\nPikachu https://www.youtube.com/watch?v=-iFNTXuvgpk\nStiletto Fail https://www.youtube.com/watch?v=bCJfK3wGgms\nPool Prank https://www.youtube.com/watch?v=MIu5K2rwWEU\nCat Near Miss https://www.youtube.com/watch?v=zlNJAISoVYs\nPolish Snowboarder https://www.youtube.com/watch?v=VBb3uEPt4sA\nBike Fail 2 http://www.pinkbike.com/video/390650\nWater Skiing  https://www.youtube.com/watch?v=CNM-EaNl8Eg\nSki FP https://www.youtube.com/watch?v=7PBQa1l07xU&feature=youtu.be\nSchool Fail https://www.youtube.com/watch?v=CFmH3KzxpOI\nMoped mess \nCat TV https://www.youtube.com/watch?v=j_uvZqQ1Oww\nDB Wheelie https://www.youtube.com/watch?v=Rb_EbRFTvBU\nShotty https://www.youtube.com/watch?v=LGAsTkJ8FsE\nRiver Jump https://www.youtube.com/watch?v=ykZauN4PBFM\nBike FP http://www.pinkbike.com/video/391928/\nSnowboarding Backflip https://www.youtube.com/watch?v=ME_DRFKKvv8\nHamster Wheel https://www.youtube.com/watch?v=hDs5fUAmj84\nMoto https://www.youtube.com/watch?v=H6NjyyCF52U\nChristmas Tree mess https://www.youtube.com/watch?v=gpuLi_WtPuo\nShotgun Fail https://www.youtube.com/watch?v=eU1kZmZ09OE\nSnowboard Fail https://www.youtube.com/watch?v=b_3fxjG7VrE\nCar mess https://www.youtube.com/watch?v=pykdx-Pqn48\ncat claw https://www.youtube.com/watch?v=xgH6C5SYjbE\nBike 9 https://www.youtube.com/watch?v=2SJn8tJXuLU\nSeahawks https://www.youtube.com/watch?v=YEiYoNZJvMg\nRolling https://www.youtube.com/watch?v=khG0Hdmc75M\nSand Hill FP https://www.youtube.com/watch?v=Bu3Y73LEuDQ\nCaught Jukin https://www.youtube.com/watch?v=akQku6xnlBM\nCoffee https://www.youtube.com/watch?v=VHEmveo11Zk\nRolling https://www.youtube.com/watch?v=a36ABSSMxpk\nGirl Gets Hit https://www.youtube.com/watch?v=56WpsilAoAA\nSplits https://www.youtube.com/watch?v=OyQVlKFbN4U\nBaby Dog Fail https://www.youtube.com/watch?v=JKPChVIzCGA\nTeeter Totter https://www.youtube.com/watch?v=CqEoipwtzJg\ndevice Fail https://www.youtube.com/watch?v=FVshqULUAlQ\nLittle Girl Fail https://www.youtube.com/watch?v=3I-6d5Q3aIs\nLoop Fail https://www.youtube.com/watch?v=QKbHLxX1Pec\nDouble Backflip Fail https://www.youtube.com/watch?v=6z88mXOiYXQ\nSegway mess https://www.youtube.com/watch?v=PEd9FXReJjk\nBike FP https://www.youtube.com/watch?v=uZpXUcTEsFw\nHorse Fail https://www.youtube.com/watch?v=acZHyo9Kmn0\nSki Backflip https://www.youtube.com/watch?v=nfeQstd-rgU\nHockey Kid https://www.youtube.com/watch?v=zJIQRN0dZrw\nGainer Fail https://www.youtube.com/watch?v=1Dk2YAXrnVs\nHosre Fail https://www.youtube.com/watch?v=9lkt1i2TCrA\nStreaker https://www.youtube.com/watch?v=p44WCzNt0Yw\nSuper Pygmy https://www.youtube.com/watch?v=5qMJkvaNv9I\nGirl Bike Fail https://www.youtube.com/watch?v=dT-NWrtqNgg\nFigure Skater https://www.youtube.com/watch?v=Y-8eOf2_nIo\nPop Bottles https://www.youtube.com/watch?v=s1woFermf_8\nGolfer https://www.youtube.com/watch?v=73A7oIUSG04\nPillow truck https://www.youtube.com/watch?v=VHqHI4wHuQk\nbad dog https://www.youtube.com/watch?v=eF_JhsdtrN8",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/x8BwV10KmIE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/x8BwV10KmIE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/x8BwV10KmIE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/x8BwV10KmIE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/x8BwV10KmIE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "x8BwV10KmIE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/4Ku8JGAWzbADMpUaWCF2Q-Qwkis\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi4wN0FBRUVFNEVBMTZBQ0Mx",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:48.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Frozen Fails | An Epic Snow and Ice Fail Compilation by FailArmy",
+    "description": "As a tribute to all the Soldiers who feel the need to brave the elements and test the thickness of ice, we present Frozen Fails. Dealing with bad weather? Take a seat, relax and watch some of the funniest snow and ice fails from the comfort of your couch. Stay warm, let us know your thoughts below, and as always, Salute!\n\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fsmRppcAwjg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fsmRppcAwjg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fsmRppcAwjg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/fsmRppcAwjg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/fsmRppcAwjg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "fsmRppcAwjg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/RRzK3kUqHDj0NyR6T_q3uGFl61Q\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi5EODgyNjY4MzA3QzY5RTkx",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:48.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best Fails of the Month January 2015 || FailArmy",
+    "description": "What's up Soldiers!? We have here the most hilarious, epic fails from the month of January. So far 2015 has started out strong and we've put together the funniest videos into one compilation. Subscribe, let us know your thoughts in the comments, and as always, SALUTE!\n\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!\n\nClip List:\n\nFalling Over https://www.youtube.com/watch?v=TH5P5Bc_l-w\nSand Dune https://www.youtube.com/watch?v=rTpwkGi9QNU\nBike 7 http://www.pinkbike.com/video/393832/\nStripper Falls https://www.youtube.com/watch?v=j0xZs18Pow0\nBike Fail http://www.pinkbike.com/video/391285/\nCleaning Up https://www.youtube.com/watch?v=u4Bz4-KTl6w\nFitness FP https://www.youtube.com/watch?v=GEVgOl_V478\nBike 4 http://www.pinkbike.com/video/391025\nDownhill mess https://www.youtube.com/watch?v=5kiw6C6ZjPw\nMini Digger https://www.youtube.com/watch?v=hBHb-roNNuM\nRC Car https://www.youtube.com/watch?v=a8HKY2RAnVU\nNear Miss https://www.youtube.com/watch?v=BO19b88aQNE\nUnicycle mess https://www.youtube.com/watch?v=jEtdmQauojw\nMonkey Banana https://www.youtube.com/watch?v=fLuc1Ni6eo0\nBike 6 https://www.youtube.com/watch?v=cp0nIlMQRHA\nGhost Cam https://www.youtube.com/watch?v=UeJrDAzKfFc\nCanal Fest https://www.youtube.com/watch?v=vgjiEhzb0f4\nBike 5 http://www.pinkbike.com/video/391794\nSki Nutshot https://www.youtube.com/watch?v=ta52gcG6ToI\nPop Bottles 2 https://www.youtube.com/watch?v=L5NlHVf78eg\nFail Dunk https://www.youtube.com/watch?v=qKAiQjGgHts\nCat Fail https://www.youtube.com/watch?v=LDaDupZhDkQ\nRoof Collapse https://www.youtube.com/watch?v=pNuD4j0m2Qk\nSledding Fail https://www.youtube.com/watch?v=7kSmiLGPa8A\nBoogie Fail https://www.youtube.com/watch?v=xBbO9X86BQM\nTrolley Fall https://www.youtube.com/watch?v=jMwUxRW6jmc\nRoundhouse https://www.youtube.com/watch?v=49eYlo_l0wE\nSkateboard FP https://www.youtube.com/watch?v=oFm3pXx1Rrw\nSledding Fail https://www.youtube.com/watch?v=BAJQj5uzars\nWine Rack https://www.youtube.com/watch?v=fXci5ohGeik\nSkateboarding Fail https://www.youtube.com/watch?v=wcIlCAwfAPw\nMall Bike https://www.youtube.com/watch?v=8Ic8eWesmPs\nCar mess https://www.youtube.com/watch?v=gzU1wur8So0\nBike https://www.youtube.com/watch?v=6-B3UCf6MME\nSnowboarding Fail https://www.youtube.com/watch?v=LGQBUN3Sx00\nSki Fail https://www.youtube.com/watch?v=uc4o_Gu7P7w",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3mkkfEl6EQM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3mkkfEl6EQM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3mkkfEl6EQM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/3mkkfEl6EQM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/3mkkfEl6EQM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "3mkkfEl6EQM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/03DzTvSOCU8NnGh_6fWdSKKHu7E\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi5BNzdEQzY0REQzQTEyN0U3",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:48.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Ultimate Redneck Fails Compilation || FailArmy",
+    "description": "Hold my beer! We spent the last couple years building a solid collection of the funniest redneck, country and hillbilly fails on the internet. Put on some overalls, take a seat on a hay bale and enjoy some epic fails. Let us know your thoughts in the comments and Salute!\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Ay4IxkDW_UM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Ay4IxkDW_UM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Ay4IxkDW_UM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Ay4IxkDW_UM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Ay4IxkDW_UM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Ay4IxkDW_UM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/oa3rkGC-yhkBcrmkztRWQZgFh2E\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi43RDg3MzJDMTRFMTZFOTAw",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:48.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Private video",
+    "description": "This video is private.",
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "69Ou8gUyMTA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/UopR20XyPHsc8tNfNzEHQlLCRaE\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi44NjIxNjc5OUQwQkJBODQ5",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:48.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Terry Crews ALL HAIL THE FAIL",
+    "description": "Click to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Yp7TiG2OJBs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Yp7TiG2OJBs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Yp7TiG2OJBs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Yp7TiG2OJBs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/osPKXrYhYxg21PquQR0yYVM2I8Q\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi4wRkVBNUY4OTkzN0JCNTA2",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:48.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best Fails of the Week 3 January 2015 || FailArmy",
+    "description": "From virtual reality fails to kids learning hilarious lessons this week's fails of the week has some of the best fails of 2015 so far! Let us know your thoughts in the comments and be sure to check out World's Funniest Fails, Friday's at 8pm.\n\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!\n\nOriginal Links:\nBirthday Fail https://www.youtube.com/watch?v=1LawxrKsGM0\nSpooked https://www.youtube.com/watch?v=70Vrww78at0\nlit FP https://www.youtube.com/watch?v=6kA6rkFfMf4\nWinter Fail https://www.youtube.com/watch?v=XXduj0VOQ5Y\nKitten Tree https://www.youtube.com/watch?v=ua70f3UbmHg\nTricycle FP https://www.youtube.com/watch?v=duPStS-SVNk\nSkier mess https://www.youtube.com/watch?v=yHgQBQ8p3Kw\nGoing the Distance https://www.youtube.com/watch?v=NiV9XI3L4Sw\nSalmon Ladder https://www.youtube.com/watch?v=62hmbbHqnOI\nCeiling Boy https://www.youtube.com/watch?v=1LawxrKsGM0\nMTB mess https://www.youtube.com/watch?v=b2A7YUebs84\nBar Fail https://www.facebook.com/video.php?v=843884338966774\nWall Smash https://www.youtube.com/watch?v=xxORfve_APo\nCat Attacks Human https://www.youtube.com/watch?v=WpzpTUylK9A\nHead Kick https://www.youtube.com/watch?v=1E8o_Vo49a4\nBike Fail https://www.youtube.com/watch?v=rAfRbce6xew\nDive Kong https://www.youtube.com/watch?v=2nsOY_WyeWw\nBikers https://www.youtube.com/watch?v=jBCuoN7DMmA\nSpider https://www.youtube.com/watch?v=QO3S1bYmo3k\nPizza Slap Prank https://www.youtube.com/watch?v=enz9IT5L0VM\nTooth Fail https://www.youtube.com/watch?v=lDNulCJOGn4\nMountains https://www.youtube.com/watch?v=mqseP65SJqY\nPower Kiting https://www.youtube.com/watch?v=pzOKECaTBqs\nDB FP https://www.youtube.com/watch?v=ICUzL34H9cE\nZipline mess https://www.youtube.com/watch?v=s3ozhJNCZ3Y\nHead Roll https://www.youtube.com/watch?v=lNK0oI5nHOA\nMini Bike https://www.youtube.com/watch?v=wKBTwafs3q0\nNear Miss https://www.youtube.com/watch?v=zO1P7dw_YQc\nYoga Ball https://www.youtube.com/watch?v=QdYY-U2OB4g\nRoof Collapse https://www.youtube.com/watch?v=tZDXJcUMiF0\nlit Kicker https://www.youtube.com/watch?v=-FpvZsTLwEQ\nBike Kid https://www.youtube.com/watch?v=Y-N8rDKAukE\nJaguar Kid https://www.youtube.com/watch?v=4YPB7VhAVXE\nSnowboard https://www.youtube.com/watch?v=NjQqaR8fBlA\nSkateboard Bail https://www.youtube.com/watch?v=Q1aHj10f9dQ",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sGtdli8pNwg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sGtdli8pNwg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sGtdli8pNwg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/sGtdli8pNwg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/sGtdli8pNwg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 20,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "sGtdli8pNwg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/BPQKwu_KjY1rqmYjHMv85DbgiNE\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi43NjE5NDdDRTdENjQ3RTkw",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:48.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "A Broken Things Fail Compilation: Get Wrecked!! (January 2015) || FailArmy",
+    "description": "When the faithful of FailArmy Nation aren't breaking themselves, they're breaking everything in their path. Watch some of the funniest, most destructive fails we've collected over the years. Whether you see it as getting wrecked or getting Rekt, these fails should make your day a little better. Let us know your thoughts in the comments and SALUTE!\n\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RJEn8hQ-1d8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RJEn8hQ-1d8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RJEn8hQ-1d8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/RJEn8hQ-1d8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/RJEn8hQ-1d8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 21,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "RJEn8hQ-1d8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/P2dY7TEs1HASSnMLAkSLimPQNfA\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi5ENEEyOTIwNkY4NzFGMkQ2",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:48.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Terry Crews FINAL",
+    "description": "Click to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oRnhJtAbvgg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oRnhJtAbvgg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oRnhJtAbvgg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/oRnhJtAbvgg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/oRnhJtAbvgg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 22,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "oRnhJtAbvgg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/kyx2jeGP1WuNZ5fQT0-XIOQ3Xs8\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi42NEZDNTU0RTRENDUzRjMz",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:48.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Private video",
+    "description": "This video is private.",
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 23,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-1pqHMNN7pE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/olPYFN3CT3F9ZAJ1ZRWza5usH3w\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi5BRDg1NUY1OTY2QzgzOEM0",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:48.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best Work Fails Compilation: You Had One Job! (January 2015) || FailArmy",
+    "description": "The holidays have gone and everyone is getting back to work... except for some of these folks. Watch the funniest work fails we've collected over the years and let us know your thoughts. Also, check out more FailArmy fails this on Friday at 8/7c when World’s Funniest Fails premieres on FOX.\n\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LqSpOxLY0tM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LqSpOxLY0tM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LqSpOxLY0tM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/LqSpOxLY0tM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/LqSpOxLY0tM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 24,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "LqSpOxLY0tM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/WPq-QaKhr-Whw9l6U-DF8vjgL0g\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi5ERkRDQjY0N0Y0Q0VFOTdC",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:48.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best Fails of the Week 2 January 2015 || FailArmy",
+    "description": "We're back with another epic compilation of the Best Fails of the Week! Sit back, relax, and watch some unicycle fails, asscrackers and champagne shenanigans. Watch 'til the end for a bonus clip and, as always, let us know your thoughts in the comments. SALUTE!\n\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!\n\nOriginal Links: \nFart Lighting Fail https://www.youtube.com/watch?v=nZjqA_Ri44w\nUnicycle Tire https://www.youtube.com/watch?v=lhOcN8bBR2Y\nGraping https://www.facebook.com/video.php?v=911508808862377\nBottle Bomb https://www.youtube.com/watch?v=4wGKRcXyycE\nYoga Ball https://www.youtube.com/watch?v=qxGcJ2RVUns\nBike mess https://www.youtube.com/watch?v=xTLSgne_TWQ\nBackflip https://www.youtube.com/watch?v=w-HAGV4XSaI\nMoto mess https://www.youtube.com/watch?v=leDJ1iqCU2I\nTubing https://www.youtube.com/watch?v=agxHB7LUosk\nCar Push https://www.youtube.com/watch?v=lL1h7BhwvS4\nBike Faceplant https://www.youtube.com/watch?v=0X5xHYvcJ4Y\nLongboarding Fail https://www.youtube.com/watch?v=driRu9jehjI\nWedding Dancer https://www.youtube.com/watch?v=CJCJXAYvXFY\nFireworks Malfunction https://www.youtube.com/watch?v=dOHcsrWlBIg\nBike Fail https://www.youtube.com/watch?v=_4feUZify_o\nSkier http://vimeo.com/114777140\nBail https://www.youtube.com/watch?v=xtJsDwh-Jmg\nDrift Team https://www.youtube.com/watch?v=qpep1-HDa_I\nSpider Jump https://www.youtube.com/watch?v=LZQzwgtzI3Q\nBike FP https://www.youtube.com/watch?v=MOZJppZUqe0\nHorseing Around https://www.youtube.com/watch?v=Tb3OYD1IhoQ\nSnow Fun http://www.pinkbike.com/video/391932\nSki Fail https://www.youtube.com/watch?v=f2g0IPKNBfk\nSkatepark Falls http://vimeo.com/113564357\nSkatepark Falls http://vimeo.com/113564357\nMTB FP https://www.youtube.com/watch?v=t9rfN2T5qJ8\nAss Fireworks https://www.youtube.com/watch?v=FWYWeP623z8\nSledding Nutshot https://www.youtube.com/watch?v=80sBcYAz6S4\nBike FP https://www.youtube.com/watch?v=ksiMw9-YUOE\nDirtBike Destruction https://www.youtube.com/watch?v=N2uCOes6Tkw\nGuy Does Trick on Stairs, Loses Unicycle http://jukinvideo.com/cms/index.php?S=0&D=cp&C=content_publish&M=entry_form&channel_id=8&entry_id=62077\nSuperman http://www.newschoolers.com/watch/741858.0/Super-Seager?c=13&o=8&t=6\nSkier Backflip https://www.youtube.com/watch?v=gd9knmPm8Kk\nCanoe Fail https://www.youtube.com/watch?v=KguMVS-WCGM\nChampagne https://www.youtube.com/watch?v=mVfL5O25zII\nBaby cries at Failarmy https://www.youtube.com/watch?v=CDzteJnhCgk",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MF6x1VNI5IY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MF6x1VNI5IY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MF6x1VNI5IY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/MF6x1VNI5IY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/MF6x1VNI5IY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 25,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "MF6x1VNI5IY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/nPHVXTFfjCOzvJPxJPzOt9i8v00\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi4wMDkwRkI3NzExODA2MTFG",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:48.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Ultimate Workout Fails Compilation | FailArmy's Ode to New Year's Resolutions.",
+    "description": "It's the time of year when everyone decides to get off their lazy ass and hit the gym. If getting fit is one of your New Year's Resolutions, here are some examples of what NOT to do. Enjoy some epic gym fails, and weird workouts and let us know your thoughts in the comments. Salute!\n\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7lS3pBJfRiI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7lS3pBJfRiI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7lS3pBJfRiI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/7lS3pBJfRiI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/7lS3pBJfRiI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 26,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "7lS3pBJfRiI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/aq-VZ8bTqbUAcBQDpGiCj_VvQy8\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi4zMUEyMkQwOTk0NTg4MDgw",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:22.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best Fails of the Week 1 July 2015 || FailArmy",
+    "description": "In a world where failure is caught on video, the loyal FailArmy Nation soldiers submit their best, funniest and most brutal fails each week to be highlighted on the Fails of the Week compilation. This is their story from week 1 July. Let us know your thoughts down below and as always, Salute!\nCheck out our second channel FailArmy U: http://bit.ly/SubscribeFU\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/Failshirts\nWatch our 24/7 fail stream here: http://bit.ly/FailArmyPluto\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\n\nFailArmy is the world’s number one source for fail compilations and hilarious videos. Powered by submissions from the awesome people, priceless reactions, and feedback from the FailArmy Nation, which stands at more than twelve million members, FailArmy delivers the best epic fails, funny animals videos and pranks from around the world, every single week. Try not to laugh when you watch our top fails of the month, seasonal specials, and, of course, the weekly “Fails of the Week” compilations, the FailArmy has got you covered for your daily dose of the viral comedy videos that will make you laugh.\n\nOriginal Links:\nTwo Guys Collide While Trying to Jump Over Bonfire https://www.youtube.com/watch?v=rOBB5KDn60w\nTeen Bends Golf Flagstick and Flings It into Himself https://www.youtube.com/watch?v=AG3k9y5yd4s\nRope Swing Catches and Breaks Foot https://www.youtube.com/watch?v=QGE2Q3kMDlM\nlit Man Falls Face First onto Bathroom Floor https://www.youtube.com/watch?v=oL8Kqm4HAF4\nSenior Citizen's Flubbed Poolside Handstand Ends in Splash https://www.youtube.com/watch?v=rJ5mb0roNFI\nJet Ski Comes in Hot for a Landing https://www.youtube.com/watch?v=xHSYFmMgj1M\nAmateur Fire Breather Mistakenly Sets His Face Ablaze https://www.youtube.com/watch?v=JbQXdk8qGCw\nLedge Trick Leaves Skater Disoriented and Immobilized https://www.youtube.com/watch?v=SFTI_tIAdCU\nGuy Shatters Glass Table with Sword https://www.youtube.com/watch?v=upb1XMwKTSI\nGuy Slams into Rock Sliding Down Stream https://www.youtube.com/watch?v=inSfNB0vFbo\nWax Paper Skier Takes out Sister https://www.youtube.com/watch?v=LWypLd4PDpY\nGirl Trips over Hurdle and Falls https://www.youtube.com/watch?v=uEKVhBdT9ug\nToddler Drives Toy Car while Sleeping https://www.youtube.com/watch?v=qvp2_699pa8\nFirework Explodes into Group of Friends https://www.youtube.com/watch?v=HnTSTWFLCDY\nBMX Tailwhip mess https://www.youtube.com/watch?v=zbsXhR87Xwg\nMotorcycle Crashes into Mini Van https://www.youtube.com/watch?v=FL2eSapizM0\nKid Attempts Double Back Flip off Playground https://www.youtube.com/watch?v=jNhz5TfS-m8\nLongboard fail https://www.youtube.com/watch?v=t7lMP8ErG-w\nRacing Motorcyclist Crashes on Dirt Ramp https://www.youtube.com/watch?v=ypUR5chbk-4\nGym Goer Uses Machine Incorrectly for Neck Exercise https://www.youtube.com/watch?v=W7RkFZMk_LE\nDad Flies Quadcopter into Son https://www.youtube.com/watch?v=jnL50kS3yp8\nDenver Floodwaters Sweep Away Parked SUV https://www.youtube.com/watch?v=yJlOwYpaaXE\n18-Wheeler Gets Rear-Ended in Slowed Traffic https://www.youtube.com/watch?v=Y7TQ2ecYIPs\nGolden Retriever Hates Brooms https://www.youtube.com/watch?v=T6h7XXK2mxg\nCar Runs Red Light Right in Front of Police https://www.youtube.com/watch?v=ilyDBe06oN4\nGirl Slams into Ground Attempting Backflip off Swing Set https://www.youtube.com/watch?v=IW3NRcldKEk\nPuppy Catches First Glimpse and Cowers at His Reflection https://www.youtube.com/watch?v=-2cofmEpAtc\nTrampoline Group Causes Swing Set to Collapse https://www.youtube.com/watch?v=3RR4KKqPlAw\nCat Freaks Out when Flower Gets Put on Head https://www.youtube.com/watch?v=l1PLgdjnb08\nGuy Gets Yelled at by Queen's Guard https://www.youtube.com/watch?v=dQCSWPFnjbU\nKid Falls in Empty Pool's Dirty Puddle https://www.youtube.com/watch?v=FhlhyieC5WU",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZebZggv4XuM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZebZggv4XuM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZebZggv4XuM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ZebZggv4XuM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ZebZggv4XuM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 27,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ZebZggv4XuM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/DfrTQHvKCREIPYw_v96p4uMO4rk\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi42QzdBMzlBQzQzRjQ0QkQy",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:22.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "When Animals go crazy Compilation Part 2 by FailArmy",
+    "description": "Since the last Animals go crazy compilation, we've found some crazy animal attacks ranging from elephants to seals. This is some bad ass mother nature. Check out all of the craziest attacks in this epic animal go crazy compilation!\nCheck out our second channel FailArmy U: http://bit.ly/SubscribeFU\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/Failshirts\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\n\nFailArmy is the world’s number one source for fail compilations and hilarious videos. Powered by submissions from the awesome people, priceless reactions, and feedback from the FailArmy Nation, which stands at more than twelve million members, FailArmy delivers the best epic fails, funny animals videos and pranks from around the world, every single week. Try not to laugh when you watch our top fails of the month, seasonal specials, and, of course, the weekly “Fails of the Week” compilations, the FailArmy has got you covered for your daily dose of the viral comedy videos that will make you laugh.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1k427P5DfNA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1k427P5DfNA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1k427P5DfNA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1k427P5DfNA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/1k427P5DfNA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 28,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1k427P5DfNA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/tLp8QKxKvxhEH2tgWnyvDyWFcYg\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi41OURENDc2NEM1MDI5Mjky",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:22.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best Fails of the Month June 2015 || FailArmy",
+    "description": "Here they are, all the best fails of June in one funny fail compilation. Thanks for all the submissions this month, check out our merch store, let us know your thoughts down below and as always, Salute!!\nCheck out our second channel FailArmy U: http://bit.ly/SubscribeFU\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/Failshirts\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\n\nFailArmy is the world’s number one source for fail compilations and hilarious videos. Powered by submissions from the awesome people, priceless reactions, and feedback from the FailArmy Nation, which stands at more than twelve million members, FailArmy delivers the best epic fails, funny animals videos and pranks from around the world, every single week. Try not to laugh when you watch our top fails of the month, seasonal specials, and, of course, the weekly “Fails of the Week” compilations, the FailArmy has got you covered for your daily dose of the viral comedy videos that will make you laugh.\n\nOriginal Links:\nQueen's Guard Push Tourist Out of Their Way https://www.youtube.com/watch?v=NTr50aHGDnI\nDad Tries Impressing Son with Failed Skate Trick at Wal-Mart https://www.youtube.com/watch?v=lVfRNw0RI7c\nDad Scorpions into Home Plate https://www.youtube.com/watch?v=A7bnrTN8QME\nRock Climber Falls off Cliff https://www.youtube.com/watch?v=okGACRzMJA0\nGuy Falls While Trying to Helicopter on Escalators https://www.youtube.com/watch?v=BnwwWLv3F_w\nBumpy Trail Sends Mountain Biker Flying over Hairpin Cliff https://www.youtube.com/watch?v=yddoku_KcM4\nGrandma Gets Hit in the Face with Ping Pong Ball https://www.youtube.com/watch?v=-dUO0loCZ8E\nlit Guy Fights Bush and Loses https://www.youtube.com/watch?v=WVvsvIDshl0\nGolden Retriever Gets Dragged by Tug-o-War Rope https://www.youtube.com/watch?v=qw01HbZS9uQ\nGrown Man Is a Good Sport Despite Faceplanting off Bicycle https://www.youtube.com/watch?v=tFBn0MD70mQ\nMotocrosser Almost Scales Cliff Before Falling Back Down https://www.youtube.com/watch?v=tOFQR1NUie0\nGuy Invents New Move at Gym https://www.youtube.com/watch?v=WNdN6JmgedY\nHood Pops off Car on Highway https://www.youtube.com/watch?v=MXgqRCge6x4\nGuy Tries to Front Flip and Lands on Head https://www.youtube.com/watch?v=YIt374QFmh8\nFaulty Binding Releases Skis in Midair During Cliff Jump https://www.youtube.com/watch?v=-q8K3DO22Uw\nGuy Drops Pole Spear in Water https://www.youtube.com/watch?v=4GQa54qu_TM\nGirl Gets Emotional after Wisdom Teeth Surgery https://www.youtube.com/watch?v=8FVahgXxzGY\nBaby Vanishes Behind Climber https://www.youtube.com/watch?v=NbYryXxeDvE\nKitten Falls off Microwave While Getting Groomed https://www.youtube.com/watch?v=U00I01Kr0A0\nTree Climber Falls and Smacks Himself on Rocks https://www.youtube.com/watch?v=PUAzEacbBjQ\nTraceur Hit Head on Trampoline Attempting Double Backflip https://www.youtube.com/watch?v=oRsRsKwZkUs\nBus driving wrong way, close call with motorcyle https://www.youtube.com/watch?v=PW_OXo0uQ9o\nKid Faceplants Attempting Backflip, Even with Spotter https://www.youtube.com/watch?v=5WbvubblLD4 \nPomeranian Performs Handstand While Peeing https://www.youtube.com/watch?v=8rTcxU-DblI\nGuy Falls in Pool Trying to Push Friend in https://www.youtube.com/watch?v=aVSRk6IkgrE\nCat Takes Some Swings at a Dog https://www.youtube.com/watch?v=RE4JbrwXp6w\nIntertwined Parachutists Make Successful Water Landing https://www.youtube.com/watch?v=MnBN2l6YEmQ\nInattentive U-Turn Driver Causes mess https://www.youtube.com/watch?v=-Qja_SuskVM\nMountain Biker Faceplants and Ruins Brand-New Kit https://www.youtube.com/watch?v=slYLr0eIdY0\nGuy Falls Hard after Vertical Jump Attempt https://www.jukinmedia.com/videos/view/897815\nWhite Water Rafting Guide Goes Flying https://www.youtube.com/watch?v=Ctg3GCU11_8\nScotland vs. Qatar Soccer Match Interrupted by Streaker https://www.youtube.com/watch?v=Re9n5HLg-Zg",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WgVQEglnOqI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WgVQEglnOqI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WgVQEglnOqI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/WgVQEglnOqI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/WgVQEglnOqI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 29,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "WgVQEglnOqI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/GW2XYJ-OzWST2-klpeVCWTuuHhQ\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi4wRjhFM0MxMTU1MEUzQ0VB",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:22.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Summer Fails Compilation 2015 by FailArmy",
+    "description": "Get out your bathing suit and your band aids because Summer is here. Here are some of the funniest fails featuring slip-n-slides, boat fails, and other summer fun. Let us know your thoughts in the comments and as always, Salute!\nCheck out our second channel FailArmy U: http://bit.ly/SubscribeFU\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/Failshirts\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/16PhKpI_ayk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/16PhKpI_ayk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/16PhKpI_ayk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/16PhKpI_ayk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/16PhKpI_ayk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 30,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "16PhKpI_ayk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/W6EJIBQY_q7CBEVQWcFsDsEXKdQ\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi5CNTZFOTNGQzZEODg1RUQx",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:22.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best Fails of the Week 3 June 2015 || FailArmy",
+    "description": "\"Hey, how much you pay for that taco?\" more like how much did you pay for that assplant. Check out this week's most epic and funniest fails and leave a comment down below. Thanks guys for all the support over the years and as always, Salute!\n\nClick to get Fail Army Gear! ► http://bit.ly/Failshirts\nCheck out our second channel FailArmy U: http://bit.ly/SubscribeFU\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!\n\nOriginal Links:\nSkater Trips over Board While Singing Praises of Taco Bell https://www.youtube.com/watch?v=aOtu3c1a7LE\nGuy Hits Himself in the Crotch with Scooter Handlebar https://www.youtube.com/watch?v=38hlH5vPZ5w\nConstruction Worker Falls While Walking on Stilts https://www.youtube.com/watch?v=GB5mQhwWMAU\nStanding Wheelie Ride on Ramp Ends Badly https://www.youtube.com/watch?v=fsSRTzMIZKc\nTeen Gets Carried Away and Jumps thru Trampoline Safety Net https://www.youtube.com/watch?v=dUMMItG2mzk\nPedestrian Runs into Traffic and Collides with Motorcyclist https://www.youtube.com/watch?v=hOSErNIZePY\nShotgunner Sprays Camera with Beer https://www.youtube.com/watch?v=LC57jJQPR5I\nMan Tries to Take Selfie with Sea Lion https://www.youtube.com/watch?v=PqFP499Q49c\nGuy Smashes Head after Parkour Jump Attempt https://www.youtube.com/watch?v=pP4UoUmZ2lk\nSemi Truck Crashes into Pole https://www.youtube.com/watch?v=xFvZyvpmbIY\nMountain Biker Wipes Out on Downhill Trail https://www.youtube.com/watch?v=1Wv26uVreI0\nGuy Hits Butt on Trampoline https://www.youtube.com/watch?v=QSAxVhtr03E\nEngine Malfunction Leads to Brutal Motocross mess https://www.youtube.com/watch?v=Jldza-aglto\nTeacher Makes Huge eruption in Chemistry Class https://www.youtube.com/watch?v=x3UeEEGthGU\nDriver Loses Control and Crashes into Telephone Pole https://www.youtube.com/watch?v=yIvBJAVBpi0\nSkateboarder Attempts No Look Kickflip https://www.youtube.com/watch?v=0qzAPO6s5vs\nGirl Gets Hit in the Face by Ceiling Fan https://www.youtube.com/watch?v=1_wx-snzMCU\nStreet Hockey Player Hits GoPro with Ball https://www.youtube.com/watch?v=GRi84wGOMhI\nLongboarder Crashes into Mailbox https://www.youtube.com/watch?v=KIsiqDHy9Z4\nGirl Falls off Longboard and Bursts into Tears https://www.youtube.com/watch?v=O7o20XjI0fc\nBMXer Attempts 180 Spin Off Ledge and Fails https://www.youtube.com/watch?v=LXwKvL7QjeU\nCat Falls into Fish Tank https://www.youtube.com/watch?v=weXb8vwLFf8\nCar Knocks Over Scooter and Flees https://www.youtube.com/watch?v=N6BOTz8TM8A\nKid Tries to Hang on Tree but Branch Snaps https://www.youtube.com/watch?v=3shn7JJFpR8\nGuy Tries to Break into Car with Newspaper Stand https://www.youtube.com/watch?v=N3xjvku9Jro\nOld Man Tries to Jump Over River but Falls in https://www.youtube.com/watch?v=6b6QR9gtdEc\nTruck Runs over Mercedes Hood While Turning Right https://www.youtube.com/watch?v=4gCXnZ3QlnU\nHikers Scurry to Get Out of Mountain Biker's Way https://www.youtube.com/watch?v=IomKlrzFC44\nParachutist mess-Lands and Gets Standing Ovation https://www.youtube.com/watch?v=dHmRgoQyi-0",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5kjNSiqZUHM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5kjNSiqZUHM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5kjNSiqZUHM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/5kjNSiqZUHM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/5kjNSiqZUHM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 31,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "5kjNSiqZUHM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/jC1DCoSpu_b4loCq7mS1kNC7Vlw\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi5CNTcxMDQ0NThBNzMxODYz",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:22.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Ultimate Funny Dogs Compilation by FailArmy",
+    "description": "Every dog has its day... to act completely foolish. Here at FailArmy, we've put all the funniest dog fails, goofy dog behavior, and strange dog antics we could find into one hilarious compilation. Enjoy the video and let us know your thoughts down below. As always, SALUTE!\nCheck out our second channel FailArmy U: http://bit.ly/SubscribeFU\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/59Zcx9YbZxI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/59Zcx9YbZxI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/59Zcx9YbZxI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/59Zcx9YbZxI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/59Zcx9YbZxI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 32,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "59Zcx9YbZxI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/rlRjEu8gKQsDiD4TqNaMuzOtzNc\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi5ERkUyQTM0MzEwQjZCMTY5",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:22.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "FailArmy Presents: Materialisimo MLG Fail Compilation",
+    "description": "Since the Ninja compilation did so well, we decided to team up with another editor to bring you something new. Here's Materialisimo's take on an MLG Fail Compilation. Let us know your thoughts down below and as always, Salute! \nCheck out our second channel FailArmy U: http://bit.ly/SubscribeFU\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cW8UfyfdmxM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cW8UfyfdmxM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cW8UfyfdmxM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/cW8UfyfdmxM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/cW8UfyfdmxM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 33,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "cW8UfyfdmxM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/pWCgVWhQuSyvibhIhdhlpIX5N6s\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi4xM0YyM0RDNDE4REQ1NDA0",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:22.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best Fails Compilation of the Week 2 June 2015 || FailArmy",
+    "description": "Hanging with friends is fun, unless your friends are like Will and aim fireworks at you in your basement. Seriously, Will, chill out and enjoy then best fails of the week. Look out for a bonus fails compilation on Sunday, and let us know your thoughts down below. Salute!\nCheck out our second channel FailArmy U: http://bit.ly/SubscribeFU\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!\n\nOriginal Links:\nPowerbocker Loses Balance Before Crashing into Camera https://www.youtube.com/watch?v=rd6PAO2jQAg \nExercise Ball Challenge Backflip https://www.youtube.com/watch?v=fxCQ97L4VHk  \nGuy Survives Close Call on Rope Swing but Celebrates Too Soon https://www.youtube.com/watch?v=WjrJ0wM-rXQ \nGuy Does Wide Grip Handstand and Falls on Face https://www.youtube.com/watch?v=KjqCMGcw3gk \nBMX Kid Faceplants in Parking Garage https://www.youtube.com/watch?v=fdcTee36vR4 \nCyclist Gets Hit by Car https://www.youtube.com/watch?v=bXL6bS-036c \nRunaway Dirt Bike Continues Without Rider and Hits Tree https://www.youtube.com/watch?v=4rotlqPobH0 \nBus Obstructing Railroad Crossing Gets Smashed by Train https://www.youtube.com/watch?v=wvGiw3S14Ts \nTeacher Pranks Coworkers Throughout the Year https://www.youtube.com/watch?v=ngbODXZqjAo \nMasked Handstand Push Up Fail https://www.youtube.com/watch?v=kvqHzwZrdnI \nMotorcyclist Slips and Slides on Rainy Freeway https://www.youtube.com/watch?v=LsGjwGFvKnM \nlit Guy Tries to Bicycle Kick a Punching Machine https://www.youtube.com/watch?v=_-xAYHWnzFs \nDirt Biker Loses Bike at Top of Hill https://www.youtube.com/watch?v=jLvLg7qO-9M \nBMW Crashes Head-On into Oncoming Car https://www.youtube.com/watch?v=HftmCCK-14M \nGuy Falls Backwards into Bush Trying to Jump on Ledge https://www.youtube.com/watch?v=xencV5HThrY \nBrutal Sand Dune Ramp mess https://www.youtube.com/watch?v=TTnf1IKy2x0 \nFlatbed Truck Banks Corner and Overturns Cargo on Highway https://www.youtube.com/watch?v=ZUwQpdcyod0 \nlit Man Gets Dragged by His Friend https://www.youtube.com/watch?v=p-VXGPsIdlw\nTeen Skids Out and Crashes his Quad https://www.youtube.com/watch?v=xp3Eg8Bvg1s \nGroup of Cyclists mess at Same Time https://www.youtube.com/watch?v=ddUNdc4ZvLU \nKid hits mom with ball during field day! https://www.youtube.com/watch?v=cnkU9YPYDmY\nMotorcyclist Gets Hit by BMW https://www.youtube.com/watch?v=spqZ704Um-s\nGuy Crashes into Tree on Rope Swing https://www.youtube.com/watch?v=XXeRtQzfMd0\nGuy Faceplants Between Moving Walkways https://www.youtube.com/watch?v=_cmLOf_Dgns\nKid Faceplants after Attempting a 180° Backflip off a Tree https://www.youtube.com/watch?v=97XlKDC0wxA\nBaby Bites Balloon and Pops it https://www.youtube.com/watch?v=EK6baKrk36I\nBaseball Bounces Off Batter's Helmet into Camera https://www.youtube.com/watch?v=23H_pM6gpHg\nGuy Bombards Friend with Fireworks https://www.youtube.com/watch?v=l1MGFWYVH6s\nBiker Crashes after Cursing Out Driver https://www.youtube.com/watch?v=DRv0xQjEQs0",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1js4Dv2tsq8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1js4Dv2tsq8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1js4Dv2tsq8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1js4Dv2tsq8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/1js4Dv2tsq8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 34,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1js4Dv2tsq8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/X1BJ-GKscjMrQ6XGeS_qkJSiZHY\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi42MjYzMTMyQjA0QURCN0JF",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:22.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Remote Control Fails Compilation || FailArmy",
+    "description": "There's something special about that moment when someone flies their $2,000 drone into some electrical wires, or their RC plane goes up and down in 10 seconds. Luckily we've put all these clips into a Remote Control Fails compilation. Let us know your thoughts on the video down below and as always, Salute!\nCheck out our second channel FailArmy U: http://bit.ly/SubscribeFU\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Aadof0Dns9w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Aadof0Dns9w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Aadof0Dns9w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Aadof0Dns9w/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Aadof0Dns9w/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 35,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Aadof0Dns9w"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/-9uCXdWUvLHUOSG4QC05fIf4kCs\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi40MDNEMzA0QTBFRThFMzBE",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:22.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best Fails of the Week 1 June 2015 || FailArmy",
+    "description": "Hey Buddy, your dirtbike is on fire! This week we have some hilarious fails including ruining a corvette, a chocolate fountain eruption and a dog gives its own version of a bridal \"shower\". Let us know your thoughts down below, and as always, Salute!\nCheck out our second channel FailArmy U: http://bit.ly/SubscribeFU\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!\n\nOriginal Links:\nDog Pees on Bride https://www.youtube.com/watch?v=WTXnZp3NxjY \nGuy Falls Trying to Block Dunk https://www.youtube.com/watch?v=Qjda9rXWP2M \nGuy Gets Hit in the Nuts with Water Rocket https://www.youtube.com/watch?v=vQk66POO4LY\nBrand New Corvette Speeds off Road https://www.youtube.com/watch?v=Wqtl7fXDKu4\nSnowboarding Mud Tow Fail https://www.youtube.com/watch?v=oHxCyUi2ztA \nGrown Man Falls off Spring Animal https://www.youtube.com/watch?v=G1Eg0PC0BcQ\nBMXer Gets Laughed at After Faceplanting onto Dirt Ramp https://www.youtube.com/watch?v=EIjO2N0fzvM \nGuy Falls through Trampoline Net https://www.youtube.com/watch?v=MXSFyeU3fI0 \nChocolate Fountain Malfunctions https://www.youtube.com/watch?v=6L2X8VzWwYs\nMan in Bin Gets Towed by Car on Beach https://www.youtube.com/watch?v=r92Ar4JCQoM \nDriver's Ed Student Runs Car into Ditch https://www.youtube.com/watch?v=5sAJ2fP2GVc \nSkateboarder Falls Trying to Stall on Pool https://www.youtube.com/watch?v=e8IhkeDScfU \nDriver Drifts into Garage during Race https://www.youtube.com/watch?v=6MhqtR_V6Lo \nTrain Videographer Almost Gets Hit By Train https://www.youtube.com/watch?v=FwO-IWorGv4\nKid Tries to Swing Across Stream but Doesn't Come Close https://www.youtube.com/watch?v=1ZuIiUUCr-4  \nDry Ice Bottle Blows Up in Kid's Hand https://www.youtube.com/watch?v=XdmaSWJU0tg \nMotorcycle Bursts into Flames after Burnout https://www.youtube.com/watch?v=Duxwl4t-n-Q\nRoller-Skater Bails on Ramp and Slams His Head on Asphalt https://www.youtube.com/watch?v=e0ukH9RqzMk\nGolfer Fails at Happy Gilmore Shot https://www.youtube.com/watch?v=cwk_P7-O8Fw\nBMXer Crashes onto His Head without a Helmet https://www.youtube.com/watch?v=N7e2DAq6WKQ \nSet Piece Falls onto Actor's Face during Performance https://www.youtube.com/watch?v=-4WPpYeBzcc\nPuppy Makes Out with Passed Out Owner https://www.youtube.com/watch?v=zFwkqsLwOU8\nWhat A C*** (Walk The Plank) - Funny Kid Fail https://www.youtube.com/watch?v=lcWy1juZLzE\nSnowboarder Nails First Front Flip and Fails on Second https://www.youtube.com/watch?v=M7mUFjXm4Cc \nCat Jumps in Air and Lands on Girl's Head https://www.youtube.com/watch?v=MI5uSoXAJzQ\nMotocross Biker Crashes on Dirt Ramp https://www.youtube.com/watch?v=6Sf6P0lrzqA\nParking Officer Whacks Phone out of Driver's Hand https://www.youtube.com/watch?v=s6NEUNXx6Xg \nGuy Falls and Makes Hole in the Wall https://www.youtube.com/watch?v=pK9bSXu1K38 \nDrummer Falls off Bassist's Back into Drum Set https://www.youtube.com/watch?v=SZp9yIQO1n0",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/G2Xy2leYDVg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/G2Xy2leYDVg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/G2Xy2leYDVg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/G2Xy2leYDVg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/G2Xy2leYDVg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 36,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "G2Xy2leYDVg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/HGl2k7fbZjMDXk7GFgPGVPlSTiw\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi42RTNCOEMxREI3Q0VDMjU2",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:22.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Instant Karma Fails Compilation || FailArmy",
+    "description": "Sometimes people get what they deserve. It is especially enjoyable when they try to punk someone and end up getting punk'd themselves. Here are our favorite instant karma and instant justice videos. Let us know your thoughts down below and Salute!\nCheck out our second channel FailArmy U: http://bit.ly/SubscribeFU\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pj0m6On8DQ0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pj0m6On8DQ0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pj0m6On8DQ0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/pj0m6On8DQ0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/pj0m6On8DQ0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 37,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "pj0m6On8DQ0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/IDglpoeba1vm8dJSOlndBYAKQQw\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi43QzNCNkZENzIyMDY2MjZB",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:22.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best Fails of the Month May 2015 || FailArmy",
+    "description": "Enjoy the best fails of all time of the month of May in one compilaiton. Got a favorite clip? Let us know in the comments. Thanks for watching and as always, Salute!\nCheck out our second channel FailArmy U: http://bit.ly/SubscribeFU\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!\n\nOriginal Links:\nFish Tries to Eat Woman's Hand https://www.youtube.com/watch?v=36SD8ERdBts\nWaiter Gets Carried Away during B-Day Chant and Drops Cake https://www.youtube.com/watch?v=lV9Dzv9ohNk\nCrazy Harley mess With Epic Save // Lands On Feet Like A Ninja https://www.youtube.com/watch?v=eMMlfoVGx7Q \nPole Vaulter Misses Jump and Hits Self in Face https://www.youtube.com/watch?v=34-kwG6ACpw\nDance Student Slips off Stripper Pole https://www.youtube.com/watch?v=llO1DNlO99Q\nBackFlip gone wrong https://www.youtube.com/watch?v=9fR_MpopBos\nKid Trips and Faceplants during Pickup Soccer Game https://www.youtube.com/watch?v=kyh3XQJgX7w\nKeg stand gone wrong https://www.youtube.com/watch?v=iagshOQrsWU\nHungry Baby Elephant Starts Tug of War with Tourist's Scarf https://www.youtube.com/watch?v=BWn3QGOyZJc\nUnicyclist Falls After Balancing Attempt https://www.youtube.com/watch?v=ySZLLXhZnrY\nKid Slips and Hits Cameraman with Scooter https://www.youtube.com/watch?v=ymutw4imnFg\nProper lit Prat Fail (original) https://www.youtube.com/watch?v=ZxdejoTzRII\nMotorcycle Enduro mess https://www.youtube.com/watch?v=_5e_jR5Boq4\nEpic bobcat go crazy https://www.youtube.com/watch?v=TSVBrfsmqXo\nCar Crashes into Barrier on Highway https://www.youtube.com/watch?v=itRL-YlGucU\nGuy Fails to Break Wine Bottle on Friend's Head https://www.youtube.com/watch?v=fpVjlg7Nq-Y \nAmateur Longboarder Falls off and Rolls across Street https://www.youtube.com/watch?v=XFRuul71Nn0\nTerrifying Wallflip Bail https://www.youtube.com/watch?v=oxETptkbmFY\nHugo Age 2 - Monkey on the car! *ORIGINAL* https://www.youtube.com/watch?v=_RW_fIWuG2c\nEpic winter basketball fail https://www.youtube.com/watch?v=f_Zpe6txpSw\nGirl Slips And Breaks Through Ice While Running https://www.youtube.com/watch?v=Cl1moufS3O4\nMotorbike fail https://www.youtube.com/watch?v=4laqLgeXT1I\n13-Year-Old Girl Freaks out on Roller Coaster https://www.youtube.com/watch?v=7RUjzuYD4lA \nGuy Crashes into Dirt Mound on ATV https://www.youtube.com/watch?v=hZzxKgYLH_A\nFake Shark go crazy Scares Grandma https://www.youtube.com/watch?v=va-4dicX8DA\nBEST proposal ever! Mother face plants during it! https://www.youtube.com/watch?v=I0dctmWHBi4\nFail during keeper combat https://www.youtube.com/watch?v=B_2FbiN-D0I\nKid Freaks Out and Accidentally Breaks School iPad https://www.youtube.com/watch?v=HnQVChTgnlQ",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/k0oBJ6rleEs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/k0oBJ6rleEs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/k0oBJ6rleEs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/k0oBJ6rleEs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/k0oBJ6rleEs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 38,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "k0oBJ6rleEs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/OM2nfrdVAKVIR4QN57Iv2pujUAQ\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi5EQkE3RTJCQTJEQkFBQTcz",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:22.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Target Practice Fails || A Fail Compilation By FailArmy",
+    "description": "head fail! Bullseye! Nailed it! Any one of these words you can use to describe the clips in this weeks target practice fail compilation. Sometimes you don't hit the mark... and sometimes you do by mishap. Let us know your thoughts down below and as always, Salute!\nCheck out our second channel FailArmy U: http://bit.ly/SubscribeFU\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/VG32i4TEiXI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/VG32i4TEiXI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/VG32i4TEiXI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/VG32i4TEiXI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/VG32i4TEiXI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 39,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "VG32i4TEiXI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/rD5PGTgeAgSbF5ChtgETdvsYVMk\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi4yQzk4QTA5QjkzMTFFOEI1",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:22.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best Fails of the Week 3 May 2015 || FailArmy",
+    "description": "Who likes Fail compilations? Great, because thats what we cooked up for you this week. Enjoy the best and funniest fails and let us know your thoughts down below. Thanks again for all the support, Salute!\nCheck out our second channel FailArmy U: http://bit.ly/SubscribeFU\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!\n\nOriginal Links:\nKid Trips and Faceplants during Pickup Soccer Game https://www.youtube.com/watch?v=kyh3XQJgX7w\nBoy Falls Trying to Hop Stairs on Scooter https://www.youtube.com/watch?v=xBy88HDHSYA \nRoof to Tree Jump Fail https://www.youtube.com/watch?v=1X11k1Fd8W4\nBMX Landing Rips Inflatable Stunt Bag https://www.youtube.com/watch?v=qlao5KHYjF4\nFront Yard Sideflip Fail Ends Fun https://www.youtube.com/watch?v=-aquJamqXlY\nKeg stand gone wrong https://www.youtube.com/watch?v=iagshOQrsWU\nPARKOUR https://www.youtube.com/watch?v=A-XVYsuAilc\nSkier Attempts Rail Slide but Falls Over Railing https://www.youtube.com/watch?v=yPp11tTs9Cw \nGirl Tries to Climb Stack of Chairs and Falls https://www.youtube.com/watch?v=JO-9iGSa-aw \nGuy Fails Backflipping off Wall https://www.youtube.com/watch?v=4_yulbJQxbk\nTeen Daredevil Breaks His Elbow after Friend Sabotages Stunt https://www.youtube.com/watch?v=hI6OUrcdoDY \nKid Tries Sprinting down Dry Reservoir and Eats Concrete https://www.youtube.com/watch?v=qgNYxbE7m7Y\nGuy Jumps into Dumpster Filled with Fluorescent Tubes https://www.youtube.com/watch?v=_QG8-nwqzew\nmess and fail mt07 https://www.youtube.com/watch?v=otJsBpokWv0\nFirst time at an NHRA https://www.youtube.com/watch?v=DJtn_JuAXgY\nZip Line Fail https://www.youtube.com/watch?v=cGnZk6fj2HI\nCars Collide around Bend https://www.youtube.com/watch?v=pV_CByTgRJU\nSkier Faceplants After 720 Spin Attempt https://www.youtube.com/watch?v=3jd_T5w8jrI\n2015-05-02 華中大橋機車自摔落汽車道 https://www.youtube.com/watch?v=4CwXqr0k790 \nThe Ejector Seat https://www.youtube.com/watch?v=t_xMQxng2X8\nGuy Bounces on Log Bridge before Falling into River https://www.youtube.com/watch?v=qAAXqHN2sm8\nKid on flowrider and his pants come off! https://www.youtube.com/watch?v=hkB5cWY-2ps\nSnow Tuber Catches Air and Faceplants in Slow Motion https://www.youtube.com/watch?v=OCv4ihLGtcw\nSkateboarder Gets Pushed Backwards Down Set of Stairs https://www.youtube.com/watch?v=hVyNZIUkBqc\nDrone's Controls Fail and it Falls into Water https://www.youtube.com/watch?v=c72ihU2vKg8\nCoal Burning Stove Explodes in Garage https://www.youtube.com/watch?v=_bzv2Mm91HE\nAngry Man Jumps on Car https://www.youtube.com/watch?v=NqF2QvJPVPw\nSpeedo Man Slips on Deck after Cold Water Plunge https://www.youtube.com/watch?v=icJIOEt7emI\nBMXer Bails Trying Riding along Highway Ledge https://www.youtube.com/watch?v=Q9UFT0XL1xY\nChickens Get Unruly With Owner https://www.youtube.com/watch?v=790VwNQddmA",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Z8Bf0B_PM-Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Z8Bf0B_PM-Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Z8Bf0B_PM-Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Z8Bf0B_PM-Q/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Z8Bf0B_PM-Q/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 40,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Z8Bf0B_PM-Q"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/mrXZKg4ihI0cetpCALlUXXS35hY\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi45NDlDQUFFOThDMTAxQjUw",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:22.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Dazed and Confused || A Wisdom Teeth and Bad Trip Fails Compilation by FailArmy",
+    "description": "Whether for recreational use or to ease the pain of a surgery, meds can have some weird side effects. Here is our collection of strange trips, wisdom teeth fails and dazed and confused partiers. Got a strange trip story or a favorite clip? Let us know below, and as always, Salute!\nCheck out our second channel FailArmy U: http://bit.ly/SubscribeFU\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BOjsb3OetyM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BOjsb3OetyM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BOjsb3OetyM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/BOjsb3OetyM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/BOjsb3OetyM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 41,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "BOjsb3OetyM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/jCLMqSzrRzuRyiRa0PhIBUVdK0g\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi4xN0Y2QjVBOEI2MzQ5OUM5",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:22.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "FailArmy Presents: Street Troller",
+    "description": "Hey Guys, our good friend Street Troller wanted an opportunity to put together a FailArmy compilation, so we decided to let him give it a shot. We think it came out pretty good but what did you think? Thanks for tuning in on Sunday, let us know your thoughts down below and SALUTE!\nCheck out our second channel FailArmy U: http://bit.ly/SubscribeFU\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dOjqXOxKtOc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dOjqXOxKtOc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dOjqXOxKtOc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/dOjqXOxKtOc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/dOjqXOxKtOc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 42,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "dOjqXOxKtOc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/YhGmBxEGjzJaPwwk34XUshrka4A\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi5FQUY2Qzk4RUFDN0ZFRkZF",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:22.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best Fails Compilation of the Week 2 May 2015 || FailArmy",
+    "description": "What's up, Soldiers? Enjoy this week's best fails and come back on Sunday for a fail compilation put together by a special guest. Thanks for all the support over the last few years, we really appreciate it. Let us know your thoughts on the comp below and as always, Salute!\nCheck out our second channel FailArmy U: http://bit.ly/SubscribeFU\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!\n\nOriginal Links:\nLanding https://www.youtube.com/watch?v=5qY3bO15z78\nPineapple High Kick Fail https://www.youtube.com/watch?v=WECIfv0NwKc\nSeagull Snatches Food from Guy's Mouth https://www.youtube.com/watch?v=HZQYB7bhzHk\nLongboard Fail https://www.youtube.com/watch?v=cOJz41NGBFo\nGuy Attempts Drifting but Crashes into Pole https://www.youtube.com/watch?v=jXgy1lQGNGo\nGuy Falls in Water during National Guard Exercise https://www.youtube.com/watch?v=ZpVBv6JvFeg\nHanukkah https://www.youtube.com/watch?v=V5ED-O5KPbc\nSkate Fail https://www.youtube.com/watch?v=CgLWbIz86Zc\nWeightlifting fail https://www.youtube.com/watch?v=CN--ELEJkXY\n(Wait) Rope-Swinger and Her Dog Both Fall into River https://www.youtube.com/watch?v=NNB93K0dNKs\nCar Fail https://www.youtube.com/watch?v=OX-IdbKnaUM\nBaseball Fail https://www.youtube.com/watch?v=4AE4anPn50w\nGirl Trips Jumping through Flaming Hoop https://www.youtube.com/watch?v=jz9b63ofADI\nlit Falls https://www.youtube.com/watch?v=zfVM3EMqROE\nSelfie Fail https://www.youtube.com/watch?v=oAI9mGADxYE\nRope Swing https://www.youtube.com/watch?v=SCjSBp-hI9c\nDrunkard https://www.youtube.com/watch?v=wkWy73vDBHM\nDB Fail https://www.youtube.com/watch?v=SscdqU6RR2o\nCat Harness Fail https://www.youtube.com/watch?v=bkcxwLVIeTY\nSnappers https://www.youtube.com/watch?v=cWt9D3DJRTs\nNuthuggers https://www.youtube.com/watch?v=QT_h_mzWUIE\nBowling Fail https://www.youtube.com/watch?v=Pq8bvnT5Aj8\nCar mess https://www.youtube.com/watch?v=mrUZ_LdIQoo\nTreadstone https://www.youtube.com/watch?v=J1XQuTqPMjk\nRussian Tank Tips Over when Loaded into Truck https://www.youtube.com/watch?v=OLuiwe4lQ6s\nPrematurely Launched Bottle Rocket Hits Cameraperson https://www.youtube.com/watch?v=QCWJ_9xZE1c\nLongboarding https://www.youtube.com/watch?v=GY4JtDLiOEU\nParkour https://www.youtube.com/watch?v=KJz_Enokj5Q\nGassy https://www.youtube.com/watch?v=p0unzOimCRA\nCar Fail https://www.youtube.com/watch?v=8RB6NlGcqDw\nChairs https://www.youtube.com/watch?v=-ri2AU_UFDk\nSurfer Shoves other Surfer off Board https://www.youtube.com/watch?v=WVcdimLlBcQ\nStrippin https://www.youtube.com/watch?v=vArJsMzde0I",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vVF9i_TXxJQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vVF9i_TXxJQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vVF9i_TXxJQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/vVF9i_TXxJQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/vVF9i_TXxJQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 43,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "vVF9i_TXxJQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/2Mt2nqsExVTOQeamUv4ZrqluNTU\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi5CMEVBRUJERkUyNTBENTkz",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:22.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Unicycles vs. Tricycles || 3v1 Wheel Fails Compilation by FailArmy",
+    "description": "The great debate rages on... what is worse 3 wheels or 1? We've collected the best odd-wheeled fails and put them together in an epic fail compilation. Let us know your thoughts below and as always, SALUTE!\nCheck out our second channel FailArmy U: http://bit.ly/SubscribeFU\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wlaqXqILU5k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wlaqXqILU5k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wlaqXqILU5k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/wlaqXqILU5k/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/wlaqXqILU5k/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 44,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "wlaqXqILU5k"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/IfUJjgQSZZNK8i8-IqTskuxIiWA\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi4xNjIyNEE0MDEyRDlCMjBE",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:22.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best Fails of the Week 1 May 2015 || FailArmy",
+    "description": "FailArmy has received plenty of epic fails in the wake of Cinco de Mayo. Enjoy all of them in this week's best fails of the week!\nCheck out our second channel FailArmy U: http://bit.ly/SubscribeFU\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!\n\nOriginal Links:\nBday Fail https://www.youtube.com/watch?v=0h5URowU15M\nDeodorant Prank https://www.youtube.com/watch?v=_PLyHRoDhVc\nlit Fail https://www.youtube.com/watch?v=DqbSgFaH3B0\nBody Boarding Fail https://www.youtube.com/watch?v=jC4_fSVojzY\nSlip N Slide Fail https://www.youtube.com/watch?v=JcbAnbcphjw\nATV https://www.youtube.com/watch?v=BTxtiBDo6qk\nDriving Fail https://www.youtube.com/watch?v=T4rV0RHmoRI\nCO2 https://www.youtube.com/watch?v=62GRAn78gRA\nKarate https://www.youtube.com/watch?v=GMzjhzNzLpw\nParkour Fail https://www.youtube.com/watch?v=j9r6ajBV4M0\nAbu Dhabi https://www.youtube.com/watch?v=ZeQruJ0jz4o\nSoccer Fail https://www.youtube.com/watch?v=auQVaT-x4_o\nBMX Fail https://www.youtube.com/watch?v=XADdXD7ej_8\nDaddy's Toes https://www.youtube.com/watch?v=VG4H9EY9DS4\nBand Failure https://www.youtube.com/watch?v=_obNCJiIlVk\nTable Surfing https://www.youtube.com/watch?v=OK819Q3BuY0\nBike Fail https://www.youtube.com/watch?v=HlMPPetRxJY\nCar fail https://www.youtube.com/watch?v=rKcWrpcFmYI\nBeer Me https://www.youtube.com/watch?v=1JT6ZpkPVBY\nConstruction Fail https://www.youtube.com/watch?v=GSeRQ6YwrYk\nWorkout Fail https://www.youtube.com/watch?v=q8YL4Shni-E\nSkating Fail https://www.youtube.com/watch?v=gU_aa9OG9jA\nSki Tree https://www.youtube.com/watch?v=9Ocn9La3eSw\nBackflip Fail https://www.youtube.com/watch?v=3OeccDwNTMs\nSwing Fail https://www.youtube.com/watch?v=TjAc3oR8gMI\nMoto mess https://www.youtube.com/watch?v=9pjr9y0oTt8\nJump Rope https://www.facebook.com/jyedawson/videos/vb.100001366305524/822986044423598/?ty\nLeapfrog https://www.youtube.com/watch?v=4BEPRBoI6hU\nUTurn https://www.youtube.com/watch?v=eV9-p-KOhq0\nKylie Jenner https://vine.co/v/e7bKrhjimiu\nTrailer Fail https://www.youtube.com/watch?v=S43RGd4JjYs\nBike Fail https://www.youtube.com/watch?v=MZ9yLz6A7rs\nBallerina Fail https://www.youtube.com/watch?v=b3sQnS6Vd24\nQuad Roll https://www.youtube.com/watch?v=IvyHpyZpRH8\nBirthday https://www.youtube.com/watch?v=S_x91cQ4vEo\nGarbage https://www.youtube.com/watch?v=ESVNFskmJDg\nREMIX https://www.youtube.com/watch?v=YK2SJ2gLrcM",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/L6npfdytkU8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/L6npfdytkU8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/L6npfdytkU8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/L6npfdytkU8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/L6npfdytkU8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 45,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "L6npfdytkU8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/qzUBDcyivDC4EKiQDEF6A8mYmUQ\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi44QTY2MEEzNzBFQUJCMUQ2",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:22.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best Fails of the Month April 2015 || FailArmy",
+    "description": "Anyone out there try the Kylie Jenner Challenge? Yeah, us neither. Enjoy the best fails of April in this epic fail compilation and thanks for stopping in twice a week for a fix. Which clip was the funniest in April? Let us know in the comments and as always, Salute!\n\nCheck out our second channel FailArmy U: http://bit.ly/SubscribeFU\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!\n\nOriginal Links:\nSnake Prank https://www.youtube.com/watch?v=rqokpfCprhA\nSalmon Ladder https://www.youtube.com/watch?v=nkxVsEFlFtk\nSnowy Fail https://www.youtube.com/watch?v=8QqAFv_KYGA\nGolf Fail https://www.youtube.com/watch?v=qdv6r-u9oYs\nChair Break https://www.youtube.com/watch?v=mUKeHSrHR9A\nCar mess \nSlow Motion Pogo https://www.youtube.com/watch?v=XWrLzNy8KoA\nKnee https://vimeo.com/125700308\nMarathons https://www.youtube.com/watch?v=uytFPyA1HO8\nATV Fail https://www.youtube.com/watch?v=rRHVMDWodyI\nDog Fail https://www.youtube.com/watch?v=h4JB6qnpsFo\nBackflip https://www.youtube.com/watch?v=HC2JDF7fXVI\nHit and Run https://www.youtube.com/watch?v=zx9NQlPpUoQ\nBike Fail https://www.youtube.com/watch?v=XPcTbJWn_M0\nDB mess https://www.youtube.com/watch?v=ei3hL2FPvSA\nOlaf https://www.youtube.com/watch?v=_PVXq4L3nLQ\nBike Fail https://www.youtube.com/watch?v=hWBtVKTYwMc\nHorse Kick https://www.youtube.com/watch?v=BfALuPyHc7o\nAlligator Bite https://www.youtube.com/watch?v=JnTFvKt_7lI\nBeach Fail https://www.youtube.com/watch?v=HUW66YApo3c\nBus Fail https://www.youtube.com/watch?v=s-q73AzC_ng\nNeedle https://www.youtube.com/watch?v=TAJHcgnLiOk\nDizzy Punt https://www.youtube.com/watch?v=IWklOdsDdXE\nSkate Fail https://www.youtube.com/watch?v=7v2OMq0t9Js\nChain Jump https://www.youtube.com/watch?v=CT6Gjr278OM\nHummer mess https://www.youtube.com/watch?v=hitB1C-ZtsI\nBaby Trips https://www.youtube.com/watch?v=T2AnH0ydKwU\nBike Fail https://www.youtube.com/watch?v=1Avu5nHs5cg\nHorse Fail https://www.youtube.com/watch?v=Xd8A9dIMn34\nPhone Drop https://instagram.com/p/1Pcxwkl2aP/\nDoggie Trip https://www.youtube.com/watch?v=k-e3cprxUzA\nHurdle Fail https://www.youtube.com/watch?v=DKe7Q1oGnYY\nTrampoline Fail https://www.youtube.com/watch?v=xB9V0Q9WFQY\nKylie Jenner https://instagram.com/p/1tqTn_TTd4/?taken-by=natebbrown\nCar With Trailer Cuts Off Driver And Crashes https://www.youtube.com/watch?v=Vn8fXJg6kuQ\nBaby Whacks iPhone https://www.youtube.com/watch?v=sjAjtIDcr5g",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dG7GG5auRFM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dG7GG5auRFM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dG7GG5auRFM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/dG7GG5auRFM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/dG7GG5auRFM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 46,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "dG7GG5auRFM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/V_wn1ZBy4EiCkLWZLFvNrBFfAM4\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi4zQTkzRjgxRTY0OEU0MkM3",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:22.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Cats Being Jerks Video Compilation (April 2015) || FailArmy",
+    "description": "For every cute internet cat, there's 5 more being assholes. Whether they're knocking things over or attacking you for no reason, cats have proven that they are real jerks sometimes. Enjoy this cats being jerks compilation and make sure to keep an eye on your cat... Enjoy, soldiers and as always, SALUTE!\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nCheck out our second channel FailArmy U: http://bit.ly/SubscribeFU\n\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/O1KW3ZkLtuo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/O1KW3ZkLtuo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/O1KW3ZkLtuo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/O1KW3ZkLtuo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/O1KW3ZkLtuo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 47,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "O1KW3ZkLtuo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/HmJBSOyiIqCy_-QEvkBN5WEY0do\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi4xNTZBNUQxMDZBQzFGMjkw",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:22.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best Fails of the Week 4 April 2015 || FailArmy",
+    "description": "Do you like funny fail compilations? Good news, we got in a ton of awesome submissions this week, we've put them together and served 'em up HOT for you. Also, we have been producing a new show every week on FU, it's based on your comments so you should check it out. Let us know your thoughts below and as always, Salute!\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!\n\nOriginal Links: \nSilver https://www.youtube.com/watch?v=KK67kaMWN-8\nTramp Fail https://www.youtube.com/watch?v=XfB6bmsvVzw\nSleepy Prank https://www.youtube.com/watch?v=Wwy45984MB8\nBike Fail https://www.youtube.com/watch?v=gZ5H79tPP1c\nDouble Tap https://www.youtube.com/watch?v=kaZzQTllAVU\nLightning Strike https://www.youtube.com/watch?v=S7FmznnVTvQ\nKid Fail https://www.youtube.com/watch?v=9ypiP48pYAE\nSkateboarding Fail https://www.youtube.com/watch?v=GU7tjLGEoCE\nBike Fail https://www.youtube.com/watch?v=3yKHlA4brqY\nhead fail https://www.youtube.com/watch?v=ke-p83ACz18\nBball fail https://www.youtube.com/watch?v=XA8jyatxh2o\nBike mess https://www.youtube.com/watch?v=UBxslMc3Hg0\nScare Prank https://www.youtube.com/watch?v=ahXTeDhKHBU\nTurnt https://www.youtube.com/watch?v=zssw8NWYt10\nBaby Fail https://www.youtube.com/watch?v=v_wJxSCNEls\nHorse Fail https://www.youtube.com/watch?v=LDXb5wX9oiY\nPassed Out https://www.youtube.com/watch?v=wEnxxZi7Su8\nWashing Machine https://www.youtube.com/watch?v=D7XuYkxkhdo\nSkate Fail https://www.youtube.com/watch?v=ij-POt79R2g\nTitties https://www.youtube.com/watch?v=Ndm0uXQX_Rk\nFish Fail https://www.youtube.com/watch?v=udl0TdJ-B7A\nHit and Run https://www.youtube.com/watch?v=BRCz_Zm8OE4\nColonoscopy https://www.youtube.com/watch?v=YwaBqoHHFFo\nSkate Fail https://www.youtube.com/watch?v=aNbHVOjtn_4\nPrairie Dogging https://www.youtube.com/watch?v=k96DabjIrvQ\nBMX Fail https://www.youtube.com/watch?v=HdrePuDNenY\nLicking Windows https://www.youtube.com/watch?v=z-meOQSnVj4\nFront Flip Fail https://www.youtube.com/watch?v=hFNAG-fHnDg\nBeach Fail https://www.youtube.com/watch?v=Fcc9uVou21M\nWife Prank https://www.youtube.com/watch?v=jEgQFgv1gCY",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FMAcscqANxs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FMAcscqANxs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FMAcscqANxs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/FMAcscqANxs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/FMAcscqANxs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 48,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "FMAcscqANxs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/rDCxybjpB3OH5qV5R-ky2onRHLU\"",
+   "id": "UExPV1NicURyckk1U2U4bVZlaHFVV2xITkF0WGJ0dHBPYi4wMDFGNzBEOTU4Q0Y1Q0RG",
+   "snippet": {
+    "publishedAt": "2018-02-20T19:06:22.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best Russian Fails Compilation 2015 || An Ode to Russia by FailArmy",
+    "description": "This is why we love Russia. Featuring epic dash cam fails, parkour faceplants, and drink induced fails, Russians definitely know how to fail. Enjoy all of the best Russian fails we could find! Let us know your favorites in the comments below and maybe another country we could dedicate a fails compilation to. SALUTE!\n\nCheck out our new channel FailArmy U here: http://bit.ly/SubscribeFU\nClick to SUBSCRIBE for more awesome Fails! ► http://bit.ly/failarmy\nSubmit a Video ► http://bit.ly/SubmitToFailArmy\nClick to get Fail Army Gear! ► http://bit.ly/FailArmyStore\n\nLike us on Facebook! ► http://bit.ly/FailArmyFacebook\nFollow us on Twitter! ► http://bit.ly/FailArmyTwitter\nInstagram►http://bit.ly/FailArmyInstagram\nTumblr► http://bit.ly/FailArmyTumblr\nPinterest► http://bit.ly/FailArmyPinterest\n\nFailArmy is the worldwide leader in funny fail videos and compilations. FailArmy releases “fails of the week,” funny pranks, girls fails and compilations featuring all of the web's best fails.  Join the global FailArmy Nation.  Leave a comment on any fail video and start meeting your fellow FailArmy soldiers.  Subscribe to the FailArmy YouTube channel for the ultimate fail videos!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/i9GuQnM3tgA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/i9GuQnM3tgA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/i9GuQnM3tgA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/i9GuQnM3tgA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/i9GuQnM3tgA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "PLOWSbqDrrI5Se8mVehqUWlHNAtXbttpOb",
+    "position": 49,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "i9GuQnM3tgA"
+    }
+   }
+  }
+ ]
+}
