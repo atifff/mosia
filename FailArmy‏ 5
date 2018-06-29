@@ -1,0 +1,2197 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/CXATsD4bbAmoowXo3oSGTtqr4uc\"",
+ "nextPageToken": "CDIQAA",
+ "pageInfo": {
+  "totalResults": 670,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Mc9RYGVd0kr4tOz-04StwlTccaM\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLk1UVFF0bmdsTEFB",
+   "snippet": {
+    "publishedAt": "2018-05-29T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Theme Park Fails & Backyard Bails | FailArmy",
+    "description": "Buckle up for some awesome amusement park fails and some homemade stunt fails competing for your enjoyment! We've roller coaster fails, slip n' slide fails and much more! Have a favorite? Let us know in the comments below! Special shoutout to Johnny Knoxville and our friends at Action Point for sponsoring the video!\n\n\n►►► SUBMIT YOUR VIDEOS! http://bit.ly/fasubmit \nSUBSCRIBE! http://bit.ly/fasubscribe\n\nFACEBOOK • http://bit.ly/fafbpage\nINSTAGRAM • http://bit.ly/fainsta\nTWITTER • http://bit.ly/fatweet\nTWITCH •  http://bit.ly/FailArmyTwitch\nCheck out FailArmy U!!! • http://bit.ly/failu\nFailArmy gear • http://bit.ly/failmerch\n\nWe've got friends in high places! Give them a watch: \n\nPeople Are Awesome - https://goo.gl/zDCbjj \nThe Pet Collective - https://goo.gl/vQI0He \nJukinVideo - https://goo.gl/7PG5MZ\nPoke My Heart - https://goo.gl/ZLwQ4k\nDaily Picks & Flicks - https://goo.gl/bVnuVE\n\nFailArmy is the world’s number one source for epic fail videos and hilarious compilations. We’re powered by fan submissions and feedback from all around the world, with over 30 million fans across digital platforms! \n\nTo license any of the videos shown on FailArmy, please visit Jukin Media at http://bit.ly/jukinlicense.\n\nVideos:",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MTTQtnglLAA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MTTQtnglLAA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MTTQtnglLAA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/MTTQtnglLAA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/MTTQtnglLAA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "MTTQtnglLAA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/A2BJfrUsDpx51Am3_-0WQvKwAT0\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLlo4bnd1aVkxR3lv",
+   "snippet": {
+    "publishedAt": "2018-04-18T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Speed Demons | Zoomies Pet Video Compilation",
+    "description": "These crazy pets have a case of the zoomies! Watch as these speed demons fly, run, jump, and flail all over the place!\n\nThe Pet Collective is home to the top trending clips, most entertaining memes, and funniest animal videos online.  Simply put, we think animals are the best ever. If you agree, let’s make it YouTube official right here, right meow:\n\nWatch animals 24/7 on Twitch! http://twitch.tv/thepetcollective\n\nSubscribe to The Pet Collective: http://bit.ly/tpcsub\nWebsite: http://www.thepetcollective.tv\nFacebook: http://www.facebook.com/thepetcollective\nInstagram: http://www.instagram.com/petcollectivetv\nPinterest: http://pinterest.com/petcollectivetv/\n\nSubmit your fun pet videos here: http://bit.ly/76-submit-here\n\nTo license any of the videos shown on the The Pet Collective, visit Jukin Media at http://jukinmedia.com/licensing",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Z8nwuiY1Gyo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Z8nwuiY1Gyo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Z8nwuiY1Gyo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Z8nwuiY1Gyo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Z8nwuiY1Gyo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Z8nwuiY1Gyo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/BSf_FqxPNy_BRnWqvIWM2BZRaXI\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLlBkZ1paY0hZT3Rv",
+   "snippet": {
+    "publishedAt": "2018-04-18T00:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "People Are Awesome vs. FailArmy - (Episode 8)",
+    "description": "We're starting the month off right with a new episode of People Are Awesome vs FailArmy featuring the most epic wins and hilarious fails! Subscribe to FailArmy for more fails!! https://www.youtube.com/user/failarmy\n\n➤ Instagram ➝ https://goo.gl/jh1Tkb\n➤ Twitter ➝ https://goo.gl/aoVq7T\n➤ Facebook ➝  https://goo.gl/3M3wpw\n\n▻ SUBSCRIBE ➝ https://goo.gl/eK5vK8\n▻ SUBMIT your videos ➝ https://goo.gl/uKKEwx\n\n▼ CHECK OUT THESE AWESOME CHANNELS!\nFailArmy: www.youtube.com/FailArmy\nThe Pet Collective: www.youtube.com/ThePetCollective\nJukinVideo: www.youtube.com/JukinVideo\n\nPAA business and licensing inquiries:\ncontact@peopleareawesome.com\n\nPEOPLE ARE AWESOME is the number one destination for amazing, original videos and compilations of ordinary people doing extraordinary things. We feature all sorts of different extreme sports and activities other amazing feats, including parkour, skateboarding, tricking, cliff diving, wingsuit flying, skiing, snowboarding, surfing, BMX, acrobatics, calisthenics, cheerleading, freestyle football, basketball dunks, extreme pogo, freerunning, cycling, kayaking, frisbee trick shots, golf, martial arts, BASE jumping and many, many more a host of other action sports! Whether you’re searching in 2015 or any other year, check out our amazing and original action sports videos in HD where we show you why we think people are awesome!\n\nTo license any of the videos shown on People are Awesome, visit Jukin Media at http://jukinmedia.com/licensing",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PdgZZcHYOto/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PdgZZcHYOto/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PdgZZcHYOto/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/PdgZZcHYOto/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/PdgZZcHYOto/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "PdgZZcHYOto"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/rw7K45tJsGx0Br6UhrCMKlZFRl0\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLllhSHpESVo4enFV",
+   "snippet": {
+    "publishedAt": "2018-04-18T00:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "The E/O: Natalie \"Killface\" Morgan (Muay Thai)",
+    "description": "Meet Natalie \"Killface\" Morgan, a Muay Thai fighting powerhouse from Eagle Rock, California! The E/O is a series of documentaries showcasing extraordinary people and revealing the personal stories behind the amazing skills you've seen on People are Awesome. Let us know what you think of the show and subscribe to People are Awesome for new episodes every two weeks! \n\nWatch more from this series! \nJustice Hedenberg (Skateboarder) - https://www.youtube.com/watch?v=rtsPiU_xva4\nLogan Aldridge (Crossfit Athlete) - https://www.youtube.com/watch?v=4GkQI_Kkvbs\nJon \"Jujimufu\" Call (Bodybuilder) - https://www.youtube.com/watch?v=7ogbaBnUNg8\n\nFollow Natalie:\n➤ Instagram ➝ https://www.instagram.com/ladykillface/\n➤ Twitter ➝ https://twitter.com/ladykillface?lang=en\n➤ Facebook ➝  https://www.facebook.com/ladykillface/\n\n▻ SUBSCRIBE ➝ https://goo.gl/eK5vK8\n▻ SUBMIT your videos ➝ https://goo.gl/uKKEwx\n\n▼ CHECK OUT THESE AWESOME CHANNELS!\nFailArmy: www.youtube.com/FailArmy\nThe Pet Collective: www.youtube.com/ThePetCollective\nJukinVideo: www.youtube.com/JukinVideo\n\nPAA business and licensing inquiries:\ncontact@peopleareawesome.com\n\nPEOPLE ARE AWESOME is the number one destination for amazing, original videos and compilations of ordinary people doing extraordinary things. We feature all sorts of different extreme sports and activities other amazing feats, including parkour, skateboarding, tricking, cliff diving, wingsuit flying, skiing, snowboarding, surfing, BMX, acrobatics, calisthenics, cheerleading, freestyle football, basketball dunks, extreme pogo, freerunning, cycling, kayaking, frisbee trick shots, golf, martial arts, BASE jumping and many, many more a host of other action sports! Whether you’re searching in 2015 or any other year, check out our amazing and original action sports videos in HD where we show you why we think people are awesome!\n\nTo license any of the videos shown on People are Awesome, visit Jukin Media at http://jukinmedia.com/licensing",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YaHzDIZ8zqU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YaHzDIZ8zqU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YaHzDIZ8zqU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/YaHzDIZ8zqU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/YaHzDIZ8zqU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "YaHzDIZ8zqU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/M6hUfHCAiTdY4Vps7tS3Mx8OplU\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLmhraXJXZjFQZGZz",
+   "snippet": {
+    "publishedAt": "2018-03-09T00:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best Fails of the Week: Watch Out!  (March 2018) | FailArmy",
+    "description": "The best fails of the week are back, and we're out here smashing through oven glass! Don't get it? Just wait for it. We've also got some hilarious ski and mountain fails, a crazy pole dance fail, and much more. Please let us know your favorite in the comments, and hit the subscribe button for more! \n\n►►► SUBMIT YOUR VIDEOS! http://bit.ly/fasubmit \nSUBSCRIBE! http://bit.ly/fasubscribe\n\nFACEBOOK • http://bit.ly/fafbpage\nINSTAGRAM • http://bit.ly/fainsta\nTWITTER • http://bit.ly/fatweet\nTWITCH •  http://bit.ly/FailArmyTwitch\nCheck out FailArmy U!!! • http://bit.ly/failu\nFailArmy gear • http://bit.ly/failmerch\n\nWe've got friends in high places! Give them a watch: \n\nPeople Are Awesome - https://goo.gl/zDCbjj \nThe Pet Collective - https://goo.gl/vQI0He \nJukinVideo - https://goo.gl/7PG5MZ\nPoke My Heart - https://goo.gl/ZLwQ4k\nDaily Picks & Flicks - https://goo.gl/bVnuVE\n\nFailArmy is the world’s number one source for epic fail videos and hilarious compilations. We’re powered by fan submissions and feedback from all around the world, with over 30 million fans across digital platforms! \n\nTo license any of the videos shown on FailArmy, please visit Jukin Media at http://bit.ly/jukinlicense.\n\nVideos:\nSnowboarder Accidentally Goes into Little Boy https://goo.gl/EbDtqe\nGuy Drops Bowling Ball and Slips in Lane https://goo.gl/kdwDs7\nDrone Captures Snowmobile Breaking Through Ice https://goo.gl/5DXMvc\nGuy Riding ATV Tumbles Down Hill https://goo.gl/Vzbpmd\nGuy Breaks Oven with Quarter https://goo.gl/tJesZA\nBMX Trick Breaks Halfpipe https://goo.gl/xPW5Wo\nGuy Slips and Falls While Running to Car https://goo.gl/1jP2pY\nDad Knocks Daughter Over on Playground Spinner https://goo.gl/LNx8sq\nGuy Tries to Climb up Salmon With One Hand https://goo.gl/3EUGnb\nSkier Falls After Jumping Ledge https://goo.gl/fqH2Cm\nSkier Fails Trick on Halfpipe https://goo.gl/aoHvc4\nMan Recovers Stolen Trash Can https://goo.gl/dQCfFj\nWoman Falls in Hole in Sand https://goo.gl/pctbNS\nGuy Gets Knocked Over by Ski Lift https://goo.gl/uc672N\nSUV Goes Into Utility Pole https://goo.gl/JJXu1P\nCareless Driver Collides into Two Semi Trucks https://goo.gl/BBNriS\nPole Dancing Model Falls off Pole https://goo.gl/8CGhai\nGecko Loves Phones https://goo.gl/zLjd9H\nKid Falls off Rocker and Faceplants Carpet https://goo.gl/eQCn4e\nSkier Hits Face With Ski During Somersault https://goo.gl/HkBr8s\nCar Spins Out of Control on On-Ramp goo.gl/8jYADc\nDog Attempts to Eat Carrot Sticks https://goo.gl/gPnYMq\nGuy Flies off Balance Board https://goo.gl/hLp7yh\nKittens Run Into Glass Door https://goo.gl/9uLCee\nPuppy Tries to Go Down the Slide and Leaps https://goo.gl/JoL5XX\nHave You Ever Seen An Angry Unicorn? https://goo.gl/7oDHpf\nSledding Accident https://goo.gl/Ca2D96\nWoman Can't Close Car Door Because of High Winds https://goo.gl/Ypti1A\nMr. Meows Needs Glasses https://goo.gl/gK4CJj\nWoman Face Plants Off of Slide https://goo.gl/mBRwiA",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hkirWf1Pdfs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hkirWf1Pdfs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hkirWf1Pdfs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/hkirWf1Pdfs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/hkirWf1Pdfs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "hkirWf1Pdfs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Uou01QE2LmEIIYKO4xGVqyJn3JA\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLllDS0k0RnRlekRr",
+   "snippet": {
+    "publishedAt": "2018-03-06T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "There Was An Attempt, Then A Fail (March 2018) | FailArmy",
+    "description": "Sometimes you make it, sometimes you don't; and sometimes all you can is say, 'there was an attempt'. Enjoy these awesome tries and make sure to let us know your favorite in the comments below! \n\n►►► SUBMIT YOUR VIDEOS! http://bit.ly/fasubmit \nSUBSCRIBE! http://bit.ly/fasubscribe\n\nFACEBOOK • http://bit.ly/fafbpage\nINSTAGRAM • http://bit.ly/fainsta\nTWITTER • http://bit.ly/fatweet\nTWITCH •  http://bit.ly/FailArmyTwitch\nCheck out FailArmy U!!! • http://bit.ly/failu\nFailArmy gear • http://bit.ly/failmerch\n\nWe've got friends in high places! Give them a watch: \n\nPeople Are Awesome - https://goo.gl/zDCbjj \nThe Pet Collective - https://goo.gl/vQI0He \nJukinVideo - https://goo.gl/7PG5MZ\nPoke My Heart - https://goo.gl/ZLwQ4k\nDaily Picks & Flicks - https://goo.gl/bVnuVE\n\nFailArmy is the world’s number one source for epic fail videos and hilarious compilations. We’re powered by fan submissions and feedback from all around the world, with over 30 million fans across digital platforms! \n\nTo license any of the videos shown on FailArmy, please visit Jukin Media at http://bit.ly/jukinlicense.\n\nVideos:",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YCKI4FtezDk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YCKI4FtezDk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YCKI4FtezDk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/YCKI4FtezDk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/YCKI4FtezDk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "YCKI4FtezDk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/5_jFrFaNjLt37u0Rd07Q_V804uA\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLlJiX21sZml6MFpn",
+   "snippet": {
+    "publishedAt": "2018-02-20T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "FailArmy Versus: Reptiles Vs. Mammals (February 2018) | FailArmy",
+    "description": "Mammals are pretty great, but reptiles are straight cold blooded! If you had to choose one, which would you pick? FailArmy helps you make that choice. Let us know your favorite below in the comments!! \n\n►►► SUBMIT YOUR VIDEOS! http://bit.ly/fasubmit \nSUBSCRIBE! http://bit.ly/fasubscribe\n\nFACEBOOK • http://bit.ly/fafbpage\nINSTAGRAM • http://bit.ly/fainsta\nTWITTER • http://bit.ly/fatweet\nTWITCH •  http://bit.ly/FailArmyTwitch\nCheck out FailArmy U!!! • http://bit.ly/failu\nFailArmy gear • http://bit.ly/failmerch\n\nWe've got friends in high places! Give them a watch: \n\nPeople Are Awesome - https://goo.gl/zDCbjj \nThe Pet Collective - https://goo.gl/vQI0He \nJukinVideo - https://goo.gl/7PG5MZ\nPoke My Heart - https://goo.gl/ZLwQ4k\nDaily Picks & Flicks - https://goo.gl/bVnuVE\n\nFailArmy is the world’s number one source for epic fail videos and hilarious compilations. We’re powered by fan submissions and feedback from all around the world, with over 30 million fans across digital platforms! \n\nTo license any of the videos shown on FailArmy, please visit Jukin Media at http://bit.ly/jukinlicense.\n\nVideos:\nLizard Drinking Sprite https://goo.gl/7oW2Hg\nLizard Rides Toy Dinosaur https://goo.gl/sN11mY\nLizard Takes Owner's Sock https://goo.gl/hi57Ge\nLizard Hangs from Girl's Nose \nLarge Lizard Suddenly Poops on Floor https://goo.gl/jYN2T6\nGuy Discovers Giant Lizard in Kitchen https://goo.gl/dEm1wY\nGirl Freaks Out After Discovering Lizard on Leg https://goo.gl/qhB2a2\nBearded Dragon Climbing Fail https://goo.gl/7YgH3N\nChameleon Likes Popping Bubbles https://goo.gl/nVyVSM\nMan Finds Huge Reptile in Bath Tub https://goo.gl/Mt6hVQ\nGecko Slurps Syrup Bottle https://goo.gl/UvCpHJ\nChameleon Holds onto Finger https://goo.gl/HtKPKT\nGuy Eats Banana with Iguana https://goo.gl/AC5zcH\nSnakes Come Out of Man's Ceiling https://goo.gl/xQUGYn\nDolphin Steals iPad https://goo.gl/yo2ERN\nMonkey Pees on Guy's Shoulder https://goo.gl/YeBEas\nMonkey Bites Off Window Washer Jets https://goo.gl/hBgZwU\nCat Fails Leap of Faith https://goo.gl/jQCf7q\nCat Jump to Fridge Fail https://goo.gl/9XqmBh\nCat tips Over https://goo.gl/4S9Wgk\nDachschund Dog Misses Dock https://goo.gl/UAGAxu\nDog Takes Down Drone https://goo.gl/ovkPBH\nCat Spooks Dog \nDog Falls off Pipe into Water https://goo.gl/xE3Jnm\nDog Falls in Pool Trying to Catch Lizard https://goo.gl/ipVSsi\nDog Pees during Filming of Basketball Tricks https://goo.gl/Pr1Vzq\nDog Smiles and Wags Tail Next to \"Beware of Dog\" Sign https://goo.gl/7yoSY1\nBoxer Dog Crashes Into Fence \nBunny Pops Balloon \nMouse Steals From Jar https://goo.gl/Jsf7fr\n\nFailArmy Versus: Reptiles Vs. Mammals (February 2018) | FailArmy",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Rb_mlfiz0Zg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Rb_mlfiz0Zg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Rb_mlfiz0Zg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Rb_mlfiz0Zg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Rb_mlfiz0Zg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Rb_mlfiz0Zg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/NCNlMtXLEKOg4PUhGmxM0gXB9iI\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLm9xVEtDa0N6V05r",
+   "snippet": {
+    "publishedAt": "2018-02-20T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best Fails of the Week: T-Rex Can Shred! (February 2018 | FailArmy",
+    "description": "It's the end of another week, which means we have your best fails of the week. We've got monster's framing kids, T-Rex shredding the mountain, and a hilarious VR reaction. How funny was that badminton fail? They were never friends again (JK!). \n\n►►► SUBMIT YOUR VIDEOS! http://bit.ly/fasubmit \nSUBSCRIBE! http://bit.ly/fasubscribe\n\nFACEBOOK • http://bit.ly/fafbpage\nINSTAGRAM • http://bit.ly/fainsta\nTWITTER • http://bit.ly/fatweet\nTWITCH •  http://bit.ly/FailArmyTwitch\nCheck out FailArmy U!!! • http://bit.ly/failu\nFailArmy gear • http://bit.ly/failmerch\n\nWe've got friends in high places! Give them a watch: \n\nPeople Are Awesome - https://goo.gl/zDCbjj \nThe Pet Collective - https://goo.gl/vQI0He \nJukinVideo - https://goo.gl/7PG5MZ\nPoke My Heart - https://goo.gl/ZLwQ4k\nDaily Picks & Flicks - https://goo.gl/bVnuVE\n\nFailArmy is the world’s number one source for epic fail videos and hilarious compilations. We’re powered by fan submissions and feedback from all around the world, with over 30 million fans across digital platforms! \n\nTo license any of the videos shown on FailArmy, please visit Jukin Media at http://bit.ly/jukinlicense.\n\nVideos:\nGuy Spins on Pole and Breaks It https://goo.gl/sXQwwv\nDancer Loses Balance and Slams Floor https://goo.gl/zs7wqc\nGirl Knocks Toddler Down with Swing \nGreat Dane Tackles Person Sledding in T-Rex Costume https://goo.gl/KSnrcP\nGirl Eats Dog Biscuit https://goo.gl/fLj3oB\nMountain Biker Tips Over on Rocks https://goo.gl/WFF7RE\nGuy Feeding Llama Gets Sneezed On \nKid Kicks Soccer Ball Into Light Fixture \nToddler Hits Head and Falls Backward off Toy Car \nGirl Falls While Cross-Country Skiing https://goo.gl/ebNBYZ\nGirl Falls off Skateboard While Going Down Ramp \nSkateboarder Falls on Stomach While Attempting Kickflip \nGuy Freaks out Playing Virtual Reality Game \nUTV Flips During Race \nGuy Scares Woman with Fake Mouse \nToddler Blames Monster for Paint on Bathroom Wall \nDad Smashes Girl's Head Into Light Fixture While Dancing https://goo.gl/1jqmRV\nPower Goes out During Woman's Workout https://goo.gl/Eb8MBX\nGuy Hits Friend with Badminton Racket https://goo.gl/LCBir3\nDog Falls in Pool While Trying to Retrieve Ball \nGuy Crashes to Floor After Gymnastics Rings Break https://goo.gl/UMouBC\nGuy Crashes Into Trampoline During Group Dunk https://goo.gl/zo6GzT\nWoman Slides Down Slippery Rock Incline https://goo.gl/vbA8NX\nKid Faceplants While Sandboarding https://goo.gl/cK1JWB\nPug Falls off Pool Float https://goo.gl/69DH2T\nGuy Faceplants While Rail Grinding on Frozen Lake https://goo.gl/EEZZbc\nWakeboarder Fails Grind and Drags Stomach on Rail https://goo.gl/wF3HW1\nKid Faceplants Road After Jumping off Tree Stump https://goo.gl/WDTC6y\nGuy Uses Pressurized Tube to Blow Water out of Drain Sump https://goo.gl/AhnNBW\nGuy on BMX Performs Creative Stunts https://goo.gl/H6LNDX\nGuy Tries to Pop Champagne Bottle Open with Saber \nGuy Doing Wheelie on Motor Scooter Smashes Side of Garage \nGuy Hit in Face With Basketball \nSkier Faceplants While Attempting Small Jump \nLittle Boy Faceplants While Backflipping Into Foam Pit \nGuy Wrecks Motorcycle Attempting Wheelie \nGuy Fails to Backflip off Boat https://goo.gl/CZeJdL\nWoman Hits and Breaks Light with Yoga Ball \nWoman Falls on Ice While Curling https://goo.gl/pM5Zat\nGuy Falls in Water During Selfie Attempt https://goo.gl/UjJFjC\n\nBest Fails of the Week: T-Rex Can Shred! (February 2018 | FailArmy",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oqTKCkCzWNk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oqTKCkCzWNk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oqTKCkCzWNk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/oqTKCkCzWNk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/oqTKCkCzWNk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "oqTKCkCzWNk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/AACeust4Ficcon112SdJBeirZdE\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLmV3S2dHMF93bXA0",
+   "snippet": {
+    "publishedAt": "2018-01-25T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Throwback Fails: Saved It! (January 2018) | FailArmy",
+    "description": "It's Thursday, so we carefully put together a compilation of throwback fails. We have an awesome ATV fail, a cooking disaster, and more! Watch it quickly before your teacher/boss notices you and let us know your favorite below! \n\n►►► SUBMIT YOUR VIDEOS! http://bit.ly/fasubmit \nSUBSCRIBE! http://bit.ly/fasubscribe\n\nFACEBOOK • http://bit.ly/fafbpage\nINSTAGRAM • http://bit.ly/fainsta\nTWITTER • http://bit.ly/fatweet\nTWITCH •  http://bit.ly/FailArmyTwitch\nCheck out FailArmy U!!! • http://bit.ly/failu\nFailArmy gear • http://bit.ly/failmerch\n\nWe've got friends in high places! Give them a watch: \n\nPeople Are Awesome - https://goo.gl/zDCbjj \nThe Pet Collective - https://goo.gl/vQI0He \nJukinVideo - https://goo.gl/7PG5MZ\nPoke My Heart - https://goo.gl/ZLwQ4k\nDaily Picks & Flicks - https://goo.gl/bVnuVE\n\nFailArmy is the world’s number one source for epic fail videos and hilarious compilations. We’re powered by fan submissions and feedback from all around the world, with over 30 million fans across digital platforms! \n\nTo license any of the videos shown on FailArmy, please visit Jukin Media at http://bit.ly/jukinlicense.\n\nVideos:\nGuy Almost Blows up Bathtub https://goo.gl/pQVnqE\nWoman Falls While on Pogo Stick https://goo.gl/KZAjFm\nFire Erupts Underneath Car https://goo.gl/MHfB3P\nGuy Uses Coffee Table as Workout Bench and Breaks it https://goo.gl/ULBaZU\nDog Fails to Catch Hot Dog \nSkater Falls Off Rail and Faceplants \nFamily Crash on Slip N' Slide https://goo.gl/qR5wQf\nGuys Try to Ride Kayak https://goo.gl/28E3JS\nDrone Crashes While Giving Dog Treat https://goo.gl/mcVwTt\nLongboarding Cowboy Falls Into Bush https://goo.gl/yyEQB4\nMotorcyclist Falls off Teeter-Totter https://goo.gl/y7bM2V\nKid Attempts Frontflip Off Ottoman Unsuccessfully \nMan Falls Off Bicycle on Trail \nMan Faceplants Riding Hoverboard Cart \nDog Plays with Beetle in the House \nWoman Cracks Phone Trying to Open Bottle https://goo.gl/aTjCHe\nDad Crashes into Wall Attempting to Kill Moth https://goo.gl/dTepKc\nKid on Sled Gets Stuck under Fence https://goo.gl/Zzybeu\nGuy Spins Two Friends at the Park https://goo.gl/GSNBgm\nGirl Gets Tripped With Mat https://goo.gl/iLdj4P\nGirl Can't Board Kayak https://goo.gl/aMbUiE\nFirecracker Nearly Explodes in Guy's Hand https://goo.gl/aLUErZ\nDuo Falls out of Canoe and into Water https://goo.gl/yXv4LF\nGirls Fail to Cook Frozen Pizza https://goo.gl/Dsksjd\nGirl Tries to Do Donuts on ATV https://goo.gl/JstWiW\nToddler Wants to Go to the Bar \nKid Scatters Baby Powder All over Room \nKid Rides DIY Zip Line and Falls \nKid Falls Off Surface Lift While Skiing https://goo.gl/Fnw8aj\nGuy Rides Kayak Down Stairs and Into Lake \nGrandpa Complains About Not Being Allowed to Buy Game https://goo.gl/C8Dxpm\nBirds vs. Man \nGuy Fails to do Front Flip Off Table https://goo.gl/j34uH6\nBaby Throws Up on Mom's Face https://goo.gl/uDk18E\nDrone Crashes Into Waterfall https://goo.gl/Rpvz7r\nLittle Girl Accidentally Hits Head on Wall https://goo.gl/t7chwS\nWoman Flips Over Chair Attempting Yoga Pose https://goo.gl/vyTS4F\nGirl Riding Paddle Board With Dog Runs Into Rocks and Falls https://goo.gl/MrjfxN\nGuys Fall Through Net \nDancer Gets Knocked Down in Unexpected Mosh Pit \nGuy Falls in Box Jump Attempt https://goo.gl/wXr53h\nGuy Fails to Throw Ice Onto Concrete \nGuy Falls Trying to Run Away From Firework https://goo.gl/ZunQqw\nSuit Cases Fall Off Conveyor Belt https://goo.gl/QDbnjG\nGuy Attempts Gymnastics Move on Bars at Beach \nDelivery Man Runs Into Mailbox https://goo.gl/kLDydt\nGuy Breaks Chair https://goo.gl/MNzV1S\nGuy Falls Backward Into Canal https://goo.gl/g35KC8\nDad Falls Off Rope Swing https://goo.gl/TYUyz2\nGirl Falls off Table While Trying to Do Scorpion https://goo.gl/TwYXwm\nGuy Falls Off Bike Attempting Ramp Jump at Lake \nGuy Flies Off Inner Tube Into Snow \nWoman Tries to Look Sexy in the Water https://goo.gl/Nf8HKX\nWoman Ruins Welcome Mat With Lawn Mower \nGuy Gets Hit With Weight Doing Shoulder Workout https://goo.gl/hZ7DRL\nGirl Trips Over Ball https://goo.gl/cBfx6H\nHiker Falls While Filming Scenery https://goo.gl/89k7q6\n\nThrowback Fails: Saved It! (January 2018) | FailArmy",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ewKgG0_wmp4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ewKgG0_wmp4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ewKgG0_wmp4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ewKgG0_wmp4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ewKgG0_wmp4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ewKgG0_wmp4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/oPCsRC4x9OwmwSMXFVTj3pKMqpM\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLjNOdkFFRVFoYlBN",
+   "snippet": {
+    "publishedAt": "2018-01-16T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "International Fails From Around The World! (January 2018) | FailArmy",
+    "description": "Fails are funny in any culture and any language. We put together some hilarious fails from all over including Germany, Australia, the UK, and more. Quick question, since when do seat belts make a good workout? Which international fail is your favorite? Let us know in the comments below! \n \n►►► SUBMIT YOUR VIDEOS! http://bit.ly/fasubmit \nSUBSCRIBE! http://bit.ly/fasubscribe\n\nFACEBOOK • http://bit.ly/fafbpage\nINSTAGRAM • http://bit.ly/fainsta\nTWITTER • http://bit.ly/fatweet\nTWITCH •  http://bit.ly/FailArmyTwitch\nCheck out FailArmy U!!! • http://bit.ly/failu\nFailArmy gear • http://bit.ly/failmerch\n\nWe've got friends in high places! Give them a watch: \n\nPeople Are Awesome - https://goo.gl/zDCbjj \nThe Pet Collective - https://goo.gl/vQI0He \nJukinVideo - https://goo.gl/7PG5MZ\nPoke My Heart - https://goo.gl/ZLwQ4k\nDaily Picks & Flicks - https://goo.gl/bVnuVE\n\nFailArmy is the world’s number one source for epic fail videos and hilarious compilations. We’re powered by fan submissions and feedback from all around the world, with over 30 million fans across digital platforms! \n\nTo license any of the videos shown on FailArmy, please visit Jukin Media at http://bit.ly/jukinlicense.\n\nVideos:\nGirl Tries to Dance on Pole in Front of Eiffel Tower https://goo.gl/F9Yf7s\nLondon Girls Run Alongside Marathoners and Faceplant https://goo.gl/1YbrDk\nHorse Falls During Guard Change at Whitehall London https://goo.gl/9ac8os\nGuy Trips and Falls Running through Puddle https://goo.gl/Q9BCpm\nWindow Washer Plays with Cat https://goo.gl/Psdngq\nSurfer Falls Off Board While Sliding Down Sand Hill \nGuy Shatters Champagne Bottle with Knife \nGuy Fails to Kick Punching Bag https://goo.gl/bjSTWP\nFitness Trainer Does Exercises With Car Seat Belts https://goo.gl/Mz9ihF\nGirl Shuts Door on Father's Face https://goo.gl/uGYuv7\nKid Scorpions on Sand Dune https://goo.gl/Rra4Cz\nYogurts Get Stuck in Vending Machine \nGuy Falls Off ATV While Taking Sharp Turn \nHerd of Sheep Block Road https://goo.gl/DaQhkd\nGuy Drops Expensive Trombone https://goo.gl/zRqwnD\nGuy Flips SUV While Driving Down Steep Hill https://goo.gl/aB8D7h\nGuy Trips Over Rock While Playing Bagpipes \nGirl Faceplants While Throwing Boot Between Legs \nGuys Sit in Truck Floating in Ocean https://goo.gl/r1bGcB\nWoman's Scarf Blows Away in the Wind \nWoman Trips Over Barrier Fence https://goo.gl/LMQ18N\nDock Collapses During Beach Wedding https://goo.gl/dn1dbb\nGuy Loses Ball in River While Doing Juggling Tricks https://goo.gl/ND6Kiq\nDirt Bike Rider Falls Into River https://goo.gl/K54xqb\nLittle Girls Spray Foam All Over Bathroom \nFather Accidentally Makes Son Fall https://goo.gl/ckX9kt\nGuy Falls into River while Rowing \nPerson Falls Down During Traditional Dance https://goo.gl/cJ1781\nGuy Gets Slapped After Scaring Barber https://goo.gl/Nshn9u\nGuys Stack Beer Steins at Oktoberfest \nLion Punctures Car Tire https://goo.gl/dRLFkD\nGuy Spills Coffee From Ice Cream Cone https://goo.gl/Lyu8hj\nBoxer Dog Destroys Bed https://goo.gl/xWWfpD\nDog Slips off Log and Into Water https://goo.gl/wHaQ3f\n\nInternational Fails From Around The World! (January 2018) | FailArmy",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3NvAEEQhbPM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3NvAEEQhbPM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3NvAEEQhbPM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/3NvAEEQhbPM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/3NvAEEQhbPM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "3NvAEEQhbPM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/94D6wEj3kLnic8wP2rcFLB0EyLM\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLnR6aHJETUxGMmIw",
+   "snippet": {
+    "publishedAt": "2017-12-06T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Top Five Incredible Moments - Episode 3!",
+    "description": "Are you ready to see the incredible? It’s time for another Top Five Incredible Moments, brought to you by Hisense!  This month’s episode features highlighting, wingsuit flying and mountain biking in a cave! See the incredible on Hisense! \n\nThe Hisense H9 Plus 4K Smart TV is available at Best Buy, find out more at http://bit.ly/2hbxka9\n\n\n➤ Subscribe: http://bit.ly/PAASubscribe\n➤ Submit Videos: http://bit.ly/SubmitPAA\n\n\n➤ WATCH NEXT\n\n⇢ Best of the Week!\nhttps://www.youtube.com/watch?v=g-fCULPNd2I\n\n⇢ People Who Know No Fear!\nhttps://www.youtube.com/watch?v=xng00SU-pZ8\n\n\nFacebook: http://bit.ly/fPAA\nInstagram: http://bit.ly/InstaPAA\nTwitter: http://bit.ly/tweetPAA\n\nFor business and licensing inquiries: contact@peopleareawesome.com\n\nPEOPLE ARE AWESOME is the number one destination for amazing, original videos and compilations of ordinary people doing extraordinary things. We feature all sorts of different extreme sports and activities other amazing feats, including parkour, skateboarding, tricking, cliff diving, wingsuit flying, skiing, snowboarding, surfing, BMX, acrobatics, calisthenics, cheerleading, freestyle football, basketball dunks, extreme pogo, freerunning, cycling, kayaking, frisbee trick shots, golf, martial arts, BASE jumping and many, many more a host of other action sports! Whether you’re searching in 2015 or any other year, check out our amazing and original action sports videos in HD where we show you why we think people are awesome!\n\nTo license any of the videos shown on People are Awesome, visit Jukin Media at http://jukinmedia.com/licensing",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tzhrDMLF2b0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tzhrDMLF2b0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tzhrDMLF2b0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/tzhrDMLF2b0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/tzhrDMLF2b0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "tzhrDMLF2b0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/0OTiycNWkjbV2sij2B-WRX0GWGs\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLmtHYVVEM2hycDZB",
+   "snippet": {
+    "publishedAt": "2017-09-21T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "The Return of the Fail Ninja: Throwback Thursday (September 2017) || FailArmy",
+    "description": "Just when you thought it was safe to go back on the internet! The Fail Ninja has returned to wreak havoc on the unsuspecting masses. No one is safe from his wrath, not even Santa Claus! Have favorite? Let us know in the comments!! \n\n►►► SUBMIT YOUR VIDEOS! http://bit.ly/fasubmit \nSUBSCRIBE! http://bit.ly/fasubscribe\n\nFACEBOOK • http://bit.ly/fafbpage\nINSTAGRAM • http://bit.ly/fainsta\nTWITTER • http://bit.ly/fatweet\nTWITCH •  http://bit.ly/2j9rKEX\nCheck out FailArmy U!!! • http://bit.ly/failu\nDownload the FailArmy App!! \non iOS • http://bit.ly/faiOS \non Android •  http://bit.ly/fadroid \nFailArmy gear • http://bit.ly/failmerch\n\nFailArmy is the world’s number one source for epic fail videos and hilarious compilations. We’re powered by fan submissions and feedback from all around the world, with over 30 million fans across digital platforms! \n\nTo license any of the videos shown on FailArmy, please visit Jukin Media at http://bit.ly/jukinlicense.\n\nVideos:\nGuy Falls Down Collapsed Ladder https://goo.gl/YFeHTk\nPileup on Highway https://goo.gl/wC0rv3\nDog Doesn't Want to go Back to His Room https://goo.gl/JwQDAz\nGuy Falls Off Dirt Bike https://goo.gl/XpfCfs\nCostumed Santa Falls Down Skateboard Ramp https://goo.gl/6b6vnq\nGuy Breaks Diving Board https://goo.gl/ssfR9A\nDog Faceplants Grass after Jumping over Fence https://goo.gl/2Nnydj\nDrone Descends into Water https://goo.gl/IdWh7U\nGirl Falls off Broken Mechanical Bull https://goo.gl/iZDnB6\nGuy Face Plants During Backflip Attempt https://goo.gl/TXwbVU\nLittle Fighter Gets Kicked in Face https://goo.gl/36bjnL\nJumping Spider Scares Boy in Store https://goo.gl/zQrz8S\nGirl Can't Jump on Box https://goo.gl/bp0MjQ\nGuy Accidentally Gets Hit by Skateboard During Flip https://goo.gl/1BXsGr\nKarma Causes Cat to Fall Off Table https://goo.gl/M6MIWx\nSnowmobile Attempts Jump and Falls https://goo.gl/UP9jFB\nMountain Biker Flies over Handlebar https://goo.gl/Kt7FQI\nMariachi Fail https://goo.gl/bK86Qh\nRiver Crossing https://goo.gl/HgX7Y8\nDance FP https://goo.gl/nezZ5W\nDancer Loses Skirt https://goo.gl/WWMRvd\nBack of Car https://goo.gl/yz17s1\nFitness Faceplant https://goo.gl/i1Mx8j\nRoundhouse https://goo.gl/6tUUEN\nSegway Crash https://goo.gl/QXxfub\nMTB Fail https://goo.gl/BempzA\nI'm Sorry, My Daughter Just Fell https://goo.gl/QpvvJt\nDaughter's Snowboarding Fail https://goo.gl/kCyxHn\nMotorcyclist Loses Control & Crashes Over Guardrail https://goo.gl/VHa9QH\nKarate Kick Fail https://goo.gl/u8YrJZ\nFailure To Mount https://goo.gl/5XYxzq\nEmployee Fall https://goo.gl/1feQQR\nMy Sister's Cat https://goo.gl/H62pCA\nEpic Shuffle Fail https://goo.gl/4v8Bu8\nBase Jumper Trips & Falls Off Building https://goo.gl/HqKY3f\nSanta Falls Out Of Boat Into River https://goo.gl/v1MRvG\nSkateboarder Trips & Spills Coffee https://goo.gl/kwpcZ8\nGirl Faceplants Doing Suicides In Gym https://goo.gl/EjmiB9\nBro Tries To Jump Into a Raised Pool https://goo.gl/1uReZY\nRunner Trips At Beginning of Sprint https://goo.gl/J9XuvD\nWedding Dress Model Runway Fail https://goo.gl/g8mceF\nTrampoline Related Events https://goo.gl/iuFmDA\nGamer Throws Controller After Loss Then Falls https://goo.gl/uw8DA8\nGuys Slips on Black Ice and Falls https://goo.gl/KYW8xJ\nIce Skating Fail https://goo.gl/Ftj1T1\nBad Swimming Pool Fall https://goo.gl/zrt7YN\nMarathon Fail https://goo.gl/3FnR4v\nKung Fu Fail https://goo.gl/JJs34i\nBackyard Soccer Ball Fail https://goo.gl/LTeTrZ\nReverse Race & Fall https://goo.gl/jYJRCn\nSundrop Dance Commercial Fail https://goo.gl/vHYKzA\nDouble Bike Crash https://goo.gl/fsWbMx\nWedding Lightning Strike https://goo.gl/fF1kDx\nTrampoline Fail Into Hole https://goo.gl/vVUkM2\nHorse Fail Into Trees https://goo.gl/TjKAGf\nBike Rollers Fail https://goo.gl/TfLzmi\nLady Trips & Falls On Face https://goo.gl/TLsbLZ\nPromposal Fall https://goo.gl/VsFRWK\nDiving Board Dance & Fall https://goo.gl/BLKNkb\nFall Texting https://goo.gl/wWKgkh\nThunderstruck Drunk Fail https://goo.gl/8vBdaU\nWe Fall https://goo.gl/nRTTD8\nBoys https://goo.gl/sr9WyN\nDrunk Girl Falls https://goo.gl/21e4Zi\nFalling Stupidly https://goo.gl/Rm5tSL\nFalling Fat https://goo.gl/o2PpZ6\nGroom Drops Bride https://goo.gl/9XgHYM\nGangnam Style Fail https://goo.gl/WQ3nBq",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kGaUD3hrp6A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kGaUD3hrp6A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kGaUD3hrp6A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/kGaUD3hrp6A/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/kGaUD3hrp6A/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "kGaUD3hrp6A"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/um_SuD0cExrPFyUiRllTgGGdu_Y\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLm55c20tYUhXQWNV",
+   "snippet": {
+    "publishedAt": "2017-09-20T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Where'd you go?: Fails of the Week (August 2017) || FailArmy",
+    "description": "Submit your video and you could win Brad Paisely concert tickets!! http://bit.ly/2tQQuH6\n\nWe're at the end of the week and we've curated the best fails of the week for your enjoyment! We've got a few workout fails, a sticky rail and a hilarious slip n' slide. Have a favorite? Le us know in the comments and submit your video to www.failarmy.com if you have one!! Later dudes. \n\n►►► SUBMIT YOUR VIDEOS! http://bit.ly/fasubmit \nSUBSCRIBE! http://bit.ly/fasubscribe\n\nFACEBOOK • http://bit.ly/fafbpage\nINSTAGRAM • http://bit.ly/fainsta\nTWITTER • http://bit.ly/fatweet\nTWITCH •  http://bit.ly/2j9rKEX\nCheck out FailArmy U!!! • http://bit.ly/failu\nDownload the FailArmy App!! \non iOS • http://bit.ly/faiOS \non Android •  http://bit.ly/fadroid \nFailArmy gear • http://bit.ly/failmerch\n\nFailArmy is the world’s number one source for epic fail videos and hilarious compilations. We’re powered by fan submissions and feedback from all around the world, with over 30 million fans across digital platforms! \n\nTo license any of the videos shown on FailArmy, please visit Jukin Media at http://bit.ly/jukinlicense.\n\nVideos: \nGuy Tries to Slide down Rail https://goo.gl/tExBas\nSkater Falls Off Rail and Faceplants \nGirl Falls Into Mud During Rope Swing Attempt \nFerret Attempts Jump Off Drawers \nGirl Wearing Onesie Falls off Chair \nGuy Tries to Jump off Balcony and Onto Tree \nWoman Drove Car on Freeway While Putting on Shirt https://goo.gl/1VFvmg\nMan Attempts Cartwheel on Beam https://goo.gl/DUaFNg\nGuy Tumbles Off Snow Mobile https://goo.gl/xRVHmB\nGirl Takes Harsh Dive Into Pool https://goo.gl/wroqiM\nGuys Load Antlers into Truck and Play at the Lake https://goo.gl/MJjKNn\nGuy Lands on Groin Attempting Scooter Jump https://goo.gl/mbwroc\nBirthday Candle Burns Guy's Hair https://goo.gl/2JkaFB\nGuy Attempts to Flip Off Tree and Falls on Back https://goo.gl/2iiiJL\nToddler Runs Into Dad's Nose https://goo.gl/L9ReeW\nGuys Get Thrown off Jet Ski https://goo.gl/cEhfow\nWoman Falls While on Pogo Stick https://goo.gl/5Ji7k3\nGuy Uses Coffee Table as Workout Bench and Breaks it https://goo.gl/sCX7VB\nFamily on Slip N' Slide https://goo.gl/UUua4g\nGuys Try to Ride Kayak https://goo.gl/ds5uok\nDrone Goes Into Dog https://goo.gl/c6vqxa\nLongboarding Cowboy Falls Into Bush https://goo.gl/PzXVDU\nMotorcyclist Falls off Teeter-Totter https://goo.gl/arptYX\nKid Attempts Frontflip Off Ottoman Unsuccessfully \nMan Falls Off Bicycle on Trail \nDog Plays with Beetle in the House",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nysm-aHWAcU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nysm-aHWAcU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nysm-aHWAcU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/nysm-aHWAcU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/nysm-aHWAcU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "nysm-aHWAcU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/FNRq-9ONF9lJYeuMqEDcPBUuduU\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLjhRRElUeFljMDJZ",
+   "snippet": {
+    "publishedAt": "2017-09-19T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "The Best Fail Reactions: Now That's Funny! (September 2017) || FailArmy",
+    "description": "Have you ever had a funny reaction your friends won't let you live down? We thought we should combine the best fail reactions into one video for your enjoyment! Let us know which one is your favorite below. If you have a funny reaction of your own, submit it at failarmy.com. \n\n►►► SUBMIT YOUR VIDEOS! http://bit.ly/fasubmit \nSUBSCRIBE! http://bit.ly/fasubscribe\n\nFACEBOOK • http://bit.ly/fafbpage\nINSTAGRAM • http://bit.ly/fainsta\nTWITTER • http://bit.ly/fatweet\nTWITCH •  http://bit.ly/2j9rKEX\nCheck out FailArmy U!!! • http://bit.ly/failu\nDownload the FailArmy App!! \non iOS • http://bit.ly/faiOS \non Android •  http://bit.ly/fadroid \nFailArmy gear • http://bit.ly/failmerch\n\nFailArmy is the world’s number one source for epic fail videos and hilarious compilations. We’re powered by fan submissions and feedback from all around the world, with over 30 million fans across digital platforms! \n\nTo license any of the videos shown on FailArmy, please visit Jukin Media at http://bit.ly/jukinlicense.\n\nVideos: \n\nSlowMo Punch Freak Out https://goo.gl/97yD9P\nDriver's Funny Reaction to Getting Rear-Ended https://goo.gl/ve5vz5\nGoose Regret https://goo.gl/xf4iNL\nFunny Tattoo Scream https://goo.gl/gXUk52\nGhost Pepper Challenge https://goo.gl/8RqVXH\nFlower Cat https://goo.gl/aJLGav\nFerry Freakout https://goo.gl/mWqbuQ\nIt Do Go Down https://goo.gl/RKd4kW\nGirl Freaks Out on Ride https://goo.gl/QxdQyn\nButt on Fire Prank https://goo.gl/6KM5Kq\nSilly String Freak Out https://goo.gl/yNVbZZ\nBoy Eats Wasabi https://goo.gl/Cxy1Rq\nWoman Feeds Buffalo Through Car Window https://goo.gl/V85H44\nGuy Falls Off TV Stand Attempting to Open Bottle \nBoy Gets Excited Choosing Paint Colors https://goo.gl/7f4UFc\nDriver Scares Mother Awake https://goo.gl/hLPNPp\nGuy Freaks Out During Virtual Reality \nKid Puts Poppers Under Toilet Seat \nBaby Reacts to Cake https://goo.gl/qduQQ8\nSon Wakes Mom With Airhorn https://goo.gl/JsA915\nKid Can't Stop on Zip Line \nMan Attempts to Balance Beer on his Head \nMalamute Howls Along with Siren \nMom Freaks out When Son Speeds https://goo.gl/z2ZiBH\nWoman Makes Baby Noises at Sheep https://goo.gl/MrnEYu\nGuy Fails on High Jump Into Pool https://goo.gl/Us73ok\nTwo Men Try To Catch a Mouse https://goo.gl/M753em\nDuo Tries to Do Acro-Yoga on the Beach https://goo.gl/Pp5gcE\nHail Storm Breaks Out During Hot Weather \nDog Gets Confronted After Chewing up Tissue Paper \nGirl Gets Scared Opening Wine Bottle https://goo.gl/pSYXZn\nGuy Shows Mom Prank Haircut https://goo.gl/acr627\nA Father has his Back Waxed \nGuy Punches Seat after Waking up Scared https://goo.gl/CFs7ur\nKid Crashes Power Wheel https://goo.gl/TbQ5cj\nFrustrated Golfer Breaks Open Keg \nGuy Can't Handle Eyebrow Wax \nMan Freaks Out Over Moth in House https://goo.gl/3pdj9U",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8QDITxYc02Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8QDITxYc02Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8QDITxYc02Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/8QDITxYc02Y/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/8QDITxYc02Y/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "8QDITxYc02Y"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Yw-M3vyDD5od-rYOA2G9QA4ER0Q\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLnYwS2ZpblltOXJJ",
+   "snippet": {
+    "publishedAt": "2017-08-15T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Let's Order In Tonight!: Cooking Food Fails (August 2017) || FailArmy",
+    "description": "Some people just can't cook, if you're one of those people just get some takeout or order in. From funny food fails to faulty cooking equipment, here are some of the best cooking fails submitted to us over the last year or so. Sit back, relax, eat some snacks and let us know your thoughts down below!\n\n►►► SUBMIT YOUR VIDEOS! http://bit.ly/fasubmit \nSUBSCRIBE! http://bit.ly/fasubscribe\n\nFACEBOOK • http://bit.ly/fafbpage\nINSTAGRAM • http://bit.ly/fainsta\nTWITTER • http://bit.ly/fatweet\nTWITCH •  http://bit.ly/2j9rKEX\nCheck out FailArmy U!!! • http://bit.ly/failu\nDownload the FailArmy App!! \non iOS • http://bit.ly/faiOS \non Android •  http://bit.ly/fadroid \nFailArmy gear • http://bit.ly/failmerch\n\nFailArmy is the world’s number one source for epic fail videos and hilarious compilations. We’re powered by fan submissions and feedback from all around the world, with over 30 million fans across digital platforms! \n\nTo license any of the videos shown on FailArmy, please visit Jukin Media at http://bit.ly/jukinlicense.\n\nVideos: \nGirl Gets Face Stuck in Pumpkin https://goo.gl/qX7aUy\nTaco Mascot into Car https://goo.gl/dpHMAA\nBoy's got his free taco https://goo.gl/o79ckZ\nGrandpa's Teeth Fall Into Cake https://goo.gl/eFjx3K\nGuy Falls in Hibachi https://goo.gl/nVF3GM\nGuy Drops Food Tower \nWind Blows Food at Guy https://goo.gl/rsrrQ9\nEating Ice Cream Fail https://goo.gl/NZB9Dg\nLittle Girl Accidentally Drops Popsicle https://goo.gl/xRx3S5\nAmateur Cook Lights Stove on Fire \nBoy Scares Mom in Kitchen https://goo.gl/fzNeiK\nKid Smacks Big Mac out of Other Kid's Hand https://goo.gl/PkT9k9\nOld Man Burns Popcorn https://goo.gl/FcukD1\nMan Eats Donuts While Doing Pushups https://goo.gl/W1JUrw\nGuy Drops Stack of Food on Table https://goo.gl/gaVb9u\nGuy Opens Grill and is Surprised by Explosion of Fire https://goo.gl/mdtDuV\nGuys Accidentally Drop Turkey into Pot of Oil https://goo.gl/nCrQmS\nGuy Opens Empty Bag of Chips https://goo.gl/d5AiaJ\nMan Scares Wife While She Cooks Dinner https://goo.gl/Mok9Pr\nDad Tries to Move BBQ Grill Down Stairs https://goo.gl/Rrjpib\nBaby Drops Yogurt and Cries https://goo.gl/Wh8iNW\nGuy Drops Food Tower https://goo.gl/i6QJSD\nHot Soup Spills on Guy's Hand https://goo.gl/mG7QGL\nGirl Spills Entire Jug of Rice https://goo.gl/4GaRXr\nFriend Drops Entire Pizza on Floor https://goo.gl/U5Xco7\nSeagull Steals Man's Dinner https://goo.gl/2N9U2z\nGirl Gets Excited Over Strawberries https://goo.gl/q8wPQL\nBaby Makes Funny Reactions to Food https://goo.gl/WRoNS9\nGirl Gets Face Smashed in Ice Cream https://goo.gl/Vx8Wjm\nDog Eats Burger https://goo.gl/HMNAt5\nCake Smashes into Woman's Face During Selfie https://goo.gl/Lmgc39\nGuy Knocks Over Wine Glass While Messing Around With Stick https://goo.gl/Y1bh3e\nGuy Spills Beer on Laptop https://goo.gl/ykG1CH\nLittle Girl Gets Fruit Intervention https://goo.gl/y1QFu3\nBaby Stunned to See Beet Root Juice All Over Sister https://goo.gl/w7HFwR\nJuicer Spins Out of Control https://goo.gl/8xfFVY\nWoman Sets Conventional Oven on Fire https://goo.gl/ADSZCU",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/v0KfinYm9rI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/v0KfinYm9rI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/v0KfinYm9rI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/v0KfinYm9rI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/v0KfinYm9rI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "v0KfinYm9rI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/wx2r_9ZUQjmvRwAQdKSeUZ6Dhx4\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLlJZQ2xiTzV1alFr",
+   "snippet": {
+    "publishedAt": "2017-08-14T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "FailArmy After Dark: Let The Tuna Go! (Ep. 5)",
+    "description": "FailArmy After Dark is here, which means it's Saturday!! We've got sharks going after a diver, funny work fails and an expert on concerts! Have a favorite? Leave us a comment below, and let us know what you think of FailArmy After Dark!! \n\n►►► SUBMIT YOUR VIDEOS! http://bit.ly/fasubmit \nSUBSCRIBE! http://bit.ly/fasubscribe\n\nFACEBOOK • http://bit.ly/fafbpage\nINSTAGRAM • http://bit.ly/fainsta\nTWITTER • http://bit.ly/fatweet\nTWITCH •  http://bit.ly/2j9rKEX\nCheck out FailArmy U!!! • http://bit.ly/failu\nDownload the FailArmy App!! \non iOS • http://bit.ly/faiOS \non Android •  http://bit.ly/fadroid \nFailArmy gear • http://bit.ly/failmerch\n\nFailArmy is the world’s number one source for epic fail videos and hilarious compilations. We’re powered by fan submissions and feedback from all around the world, with over 30 million fans across digital platforms! \n\nTo license any of the videos shown on FailArmy, please visit Jukin Media at http://bit.ly/jukinlicense.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RYClbO5ujQk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RYClbO5ujQk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RYClbO5ujQk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/RYClbO5ujQk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/RYClbO5ujQk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "RYClbO5ujQk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/C5QTkPBQ6IwDoxg-aFm47Nb7Ae4\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLmxZU0ZWcDRBWnVJ",
+   "snippet": {
+    "publishedAt": "2017-08-08T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Get A New Hobby!! (August 2017) || FailArmy",
+    "description": "Having a hobby is important, but there are some hobbies that are not meant for all; including parkour, flying drones or golfing! Leave a comment and let us know your favorite, or what kind of fails we should do next!  \n\n►►► SUBMIT YOUR VIDEOS! http://bit.ly/fasubmit \nSUBSCRIBE! http://bit.ly/fasubscribe\n\nFACEBOOK • http://bit.ly/fafbpage\nINSTAGRAM • http://bit.ly/fainsta\nTWITTER • http://bit.ly/fatweet\nTWITCH •  http://bit.ly/2j9rKEX\nCheck out FailArmy U!!! • http://bit.ly/failu\nDownload the FailArmy App!! \non iOS • http://bit.ly/faiOS \non Android •  http://bit.ly/fadroid \nFailArmy gear • http://bit.ly/failmerch\n\nFailArmy is the world’s number one source for epic fail videos and hilarious compilations. We’re powered by fan submissions and feedback from all around the world, with over 30 million fans across digital platforms! \n\nTo license any of the videos shown on FailArmy, please visit Jukin Media at http://bit.ly/jukinlicense.\n\nVideos: \nYoyo to the Face https://goo.gl/Vqw4v4\nMartial Arts by Poolside \nYoga Girl Washed Away https://goo.gl/aNheDt\nPaintballer Smashes Face Into Barrel https://goo.gl/N1uRPs\nBreakdancer Smashes Mirror https://goo.gl/KTfWvd\nNunchucks Nut Shot https://goo.gl/zsst29\nPikachu Cosplay Fail https://goo.gl/d6fivp\nKendama Juggling Fail https://goo.gl/AWYhtu\nFisherman Hit in Groin with Lure https://goo.gl/edRqSy\nHorse and Rider Faceplant https://goo.gl/Wc8ntt\nJuggler Hits Self in Face with Pins https://goo.gl/53KxU5\nGrandpa While Bowling https://goo.gl/tYP2Em\nGuy's Arms Gets Stuck in Gold Club Bag https://goo.gl/kNddNM\nGuy Tests Out DIY Zip Line \nGuy Off Tall Bike https://goo.gl/bEXr64\nToy Plane Goes into Drone https://goo.gl/gpRFJ9\nGuy Attempts to Hit Golf Ball Off Beer Bottle https://goo.gl/fkq5nW\nGuy Fails During Wall Flip Attempt https://goo.gl/BytVG8\nDrone Goes Into Tree https://goo.gl/AiQWCm\nGuy Onto Bowling Lane \nGuy After Getting Duct Taped to Wall https://goo.gl/MRKybT\nGirl Faceplants while Doing Tricks on Pogo Stick https://goo.gl/6VVRSq\nBoy Hits Himself with Bo Staff https://goo.gl/ebYWA2\nGuy Gets Smacked in the Face with Homemade Weight \nBoy Tries to Break Stick https://goo.gl/TjzQbC\nMan Attempts Karate Kick https://goo.gl/Yivb5E\nBoy Goes into Door While Attempting Disappearing Act \nMan Slips off Golf Range https://goo.gl/JwZ2eC\nGuy Drives RC Copter Into Wall https://goo.gl/j6wCpx\nGuitar Flies Off Strap https://goo.gl/pyx67Q\nDrunk Man Tries to Bowl Without Bowling Shoes https://goo.gl/RgYy3P\nWeights Fly Off During Front Squat Attempt https://goo.gl/sSmLJU\nMan Walking on Stilts \nGirl Slips Off Handstand Stilts https://goo.gl/bTjd7F\nWoman Attempts Jump On Wooden Pallets with Unicycle https://goo.gl/eFUPrJ\nGirl Attempts Handstand on Paddleboard https://goo.gl/6L8St5\nGuy Can't Climb Salmon Ladder \nGuy Lands a Toy Airplane https://goo.gl/KZquHA\nKid Attempts to Jump Into River and Slips https://goo.gl/2UUez8\nGuy Breaks Glass While Juggling https://goo.gl/VVVxYL\nGirl Wipes Out on Icy Trampoline https://goo.gl/2Ltf4z\nGirls Wearing Onesies Fail at Acroyoga https://goo.gl/SQnQos\nClown Gets Kicked in the Face https://goo.gl/hsRRP5\nRock Climber Swings Off Wall Into Table https://goo.gl/t7SgTS",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/lYSFVp4AZuI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/lYSFVp4AZuI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/lYSFVp4AZuI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/lYSFVp4AZuI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/lYSFVp4AZuI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "lYSFVp4AZuI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/VSNorQg6YcTf7Fyn7b4LDe_tfZU\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLkh3SE1hQVJnV1g4",
+   "snippet": {
+    "publishedAt": "2017-07-30T08:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "FailArmy Presents: People Are Awesome! Wins vs. Fails #4",
+    "description": "We've got another round of Wins vs. Fails with People Are Awesome for you to enjoy!! Let us know your favorites in the comments section and as always, submit your funny fails to us on FailArmy.com!!\n\n►►► Enjoy awesome people? Check out People Are Awesome: https://goo.gl/zDCbjj\n\nSUBMIT YOUR VIDEOS! http://bit.ly/fasubmit \nSUBSCRIBE! http://bit.ly/fasubscribe\n\nFACEBOOK • http://bit.ly/fafbpage\nINSTAGRAM • http://bit.ly/fainsta\nTWITTER • http://bit.ly/fatweet\nTWITCH •  http://bit.ly/2j9rKEX\nCheck out FailArmy U!!! • http://bit.ly/failu\nDownload the FailArmy App!! \non iOS • http://bit.ly/faiOS \non Android •  http://bit.ly/fadroid \nFailArmy gear • http://bit.ly/failmerch\n\nFailArmy is the world’s number one source for epic fail videos and hilarious compilations. We’re powered by fan submissions and feedback from all around the world, with over 30 million fans across digital platforms! \n\nTo license any of the videos shown on FailArmy, please visit Jukin Media at http://bit.ly/jukinlicense.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HwHMaARgWX8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HwHMaARgWX8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HwHMaARgWX8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/HwHMaARgWX8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/HwHMaARgWX8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "HwHMaARgWX8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/dF7NHdEEOo7Uctry-BZ2Qorvbcc\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLlBEaFZKZkVGeGlr",
+   "snippet": {
+    "publishedAt": "2017-07-28T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best Fails of the Year 2017 (So Far) || FailArmy",
+    "description": "We're over halfway through 2017, so let's take a look back on the best fails of the year so far! This has been a great year for failure. Humanity never ceases to amaze us with the creative ways in which our species fails; and we thank you for your continued support! We love you all! Don't forget to submit your videos to failarmy.com\n\n►►► SUBMIT YOUR VIDEOS! http://bit.ly/fasubmit \nSUBSCRIBE! http://bit.ly/fasubscribe\n\nFACEBOOK • http://bit.ly/fafbpage\nINSTAGRAM • http://bit.ly/fainsta\nTWITTER • http://bit.ly/fatweet\nTWITCH •  http://bit.ly/2j9rKEX\nCheck out FailArmy U!!! • http://bit.ly/failu\nDownload the FailArmy App!! \non iOS • http://bit.ly/faiOS \non Android •  http://bit.ly/fadroid \nFailArmy gear • http://bit.ly/failmerch\n\nFailArmy is the world’s number one source for epic fail videos and hilarious compilations. We’re powered by fan submissions and feedback from all around the world, with over 30 million fans across digital platforms! \n\nTo license any of the videos shown on FailArmy, please visit Jukin Media at http://bit.ly/jukinlicense.\n\nVideos: \nSea Lion Drags Girl Into Water https://goo.gl/4XrfEc\nPileup at Bike Race https://goo.gl/bY66BG\nGirls Attempt to Create Funny Video and Break Swing Set https://goo.gl/HuPKYU\nQuad Into Car https://goo.gl/ZJwkGG\nKayaker Gets Stuck in Hydraulic https://goo.gl/aQKP4u\nGuy Accidentally Collapses Roof https://goo.gl/TeVj9C\nDrunk Guy in Hallway \nGuy Slips off Edge of Canyon and Into Water https://goo.gl/5QeXdc\nGender Reveal Box on Kid https://goo.gl/Y64kQF\nBall in Claw Machine Bounces Back Into Pile https://goo.gl/EfuKRe\nDrag Race Begins in Collision https://goo.gl/zugQwU\nGuy off Ladder after Dropping Chandelier https://goo.gl/hv9Ecc\nGuy in Wheelchair Fails to Back Away From Fireworks https://goo.gl/CtxMDw\nLittle Brother Throws Brush at Sister's Head https://goo.gl/fcVv7u\nGirl Accidentally Spills Coffee on Compute https://goo.gl/s8JHj9\nWoman Collapses in Inflatable Hammock https://goo.gl/VcTt1k\nMotorcycle Wheelie Attempt \nBlack Bear Attacks Man https://goo.gl/ZQgvDP\nGuy Accidentally Smashes Light With Pool Stick https://goo.gl/FXGNiH\nBaby Boy Makes a Mess \nDog Accidentally Jumps Into Pond https://goo.gl/1DuvgV\nKid Flat On His Back While Attempting to Backflip \nGuy Has a Close Encounter with Giraffe https://goo.gl/AXQb1J\nMen Fail to Put Roof Onto Sixteen-Foot Metal Support https://goo.gl/NJsKUr\nFirearm Flies out of Girl's Hands https://goo.gl/vNbgAU\nSnow Canoe Hits Girl https://goo.gl/4tfBjN\nPole Breaks as Dancer Does Spin https://goo.gl/aKh3ZM\nFallen Trees Trap Car on Road https://goo.gl/mvw7iP\nDog Eats Food with a Face https://goo.gl/9k9C4h\nBroken Guitar Hits Guy's Nuts https://goo.gl/FLhkFi\nGo Kart Rider Gets Rear-Ended While Trying to Take a Selfie https://goo.gl/1F34FU\nBird Attacks Man https://goo.gl/nBVaFU\nSkier Attempts Jump Across Street \nGuy on Inner Tube into Dog https://goo.gl/B8SKzQ\nGuy Attempts to Do Side Flip Across Gap https://goo.gl/SJSB7V\nGuy Bets He Can Lift 185 Pound Benchpress https://goo.gl/Hdw18K\nMother Duck Attacks Camera Man https://goo.gl/yaR1ue\nGuy Scares Dad with Leaf Blower https://goo.gl/LqWRqF\nSnowmobile Attempts Jump https://goo.gl/3Uhyfh\nCrane Onto Street https://goo.gl/ZWEigD\nExcavator Losing Control https://goo.gl/1zjKre\nGuy Through Roof at Fast Food Restaurant https://goo.gl/2MsUFv\nGuy Motorcycle Attempting to Wheelie https://goo.gl/vJDW2a\nGolf Ball Bounces Back to Starting Point https://goo.gl/uM9PYW\nGuy Fails to Cross Bridge While Boating https://goo.gl/G7WWnu\nPole Dancer Accidentally Kicks Self in Head With High Heel https://goo.gl/wLBxf8\nDrone Flies Into Mother's Hair https://goo.gl/dz21ya\nGuy in Hang Glide Attempt https://goo.gl/sxDvCT\nGuy Bounces off Velcro Wall https://goo.gl/9dkuV2\nPickup Truck Runs Straight Into a Snow Bank https://goo.gl/3bBbyc\nGirl Rides Bike Down Dirt Hill and Faceplants https://goo.gl/RMt8Co\nGuy Into Creek From Tree Trunk https://goo.gl/6dQ8ST\nAmateur Cook Lights Stove on Fire \nWild Turkey Attacks Photographer https://goo.gl/jYCgRV\nGuy Accidentally Kicks Woman in Face While Pole Dancing https://goo.gl/Rs61AB\nGuy Slips Off Boat Before Diving Into Water https://goo.gl/PWxJNJ\nElephant Seal Rolls Down Hill https://goo.gl/zjJJvY\nGuy Attempts to Break Through Wood Plank https://goo.gl/5sKNSi\nBoat Tips over after Disembarking https://goo.gl/q4bUZs\nGuy Goes Flying Off Snowmobile https://goo.gl/W7D3a2\nDrunk Man Faceplants into Laundry Basket https://goo.gl/HALvtF\nDuck Walks Across Wet Concrete https://goo.gl/2cjuQ1\nGlider into Tree https://goo.gl/weRHGU\nMoped Rider https://goo.gl/WTSg4A\nGuy Flies off Launched Snowmobile https://goo.gl/xrXrM7\nGuy's Head Gets Stuck Between Train Doors https://goo.gl/cJi715\nCrowd Gets Hit by Firework Embers https://goo.gl/xJvXzH\nRiver Zip-Line Tree Branch Fail https://goo.gl/EhYVwb",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PDhVJfEFxik/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PDhVJfEFxik/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PDhVJfEFxik/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/PDhVJfEFxik/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/PDhVJfEFxik/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "PDhVJfEFxik"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/W8WowegfM-9_qafXRFN0nRStpdg\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLmVlZkJ3bU5ZM3Y0",
+   "snippet": {
+    "publishedAt": "2017-07-25T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Just Grow Up!: Act Your Age Fails (July 2017) || FailArmy",
+    "description": "Sometimes adults still need a bit of maturing to do to act their age. Enjoy some of these hilarious fails, and share with someone who needs to grow up! Have a favorite? Let us know in the comments below!  \n\n►►► SUBMIT YOUR VIDEOS! http://bit.ly/fasubmit \nSUBSCRIBE! http://bit.ly/fasubscribe\n\nFACEBOOK • http://bit.ly/fafbpage\nINSTAGRAM • http://bit.ly/fainsta\nTWITTER • http://bit.ly/fatweet\nTWITCH •  http://bit.ly/2j9rKEX\nCheck out FailArmy U!!! • http://bit.ly/failu\nDownload the FailArmy App!! \non iOS • http://bit.ly/faiOS \non Android •  http://bit.ly/fadroid \nFailArmy gear • http://bit.ly/failmerch\n\nFailArmy is the world’s number one source for epic fail videos and hilarious compilations. We’re powered by fan submissions and feedback from all around the world, with over 30 million fans across digital platforms! \n\nTo license any of the videos shown on FailArmy, please visit Jukin Media at http://bit.ly/jukinlicense.\n\nVideos: \nWife Knocks Out Husband on Playground https://goo.gl/zXRJGe\nDad Tricks Toddler with Fake Plastic Hand https://goo.gl/YMrXrW\nMom in Kiddie Pool https://goo.gl/4gm4d3\nDad Tricks Kids Into Climbing Stairs Painted on Wall \nMom Freaks Out on Waterslide https://goo.gl/1dzNDp\nGrandma During Hopscotch https://goo.gl/vp6Fhu\nGrandma Pogo Stick Fail https://goo.gl/rjjnPy\nMom Drags Kid Through Easter Egg Hunt https://goo.gl/PAX6bo\nLittle Girl Confuses Weed and Weeds https://goo.gl/cRP4hK\nKid Flips Off Camera \nKid Mispronounces Goofy https://goo.gl/n2ZS1u\nGuy Scorpions on Slide \nGuy Sticks Finger in Wife's Mouth Instead of Straw https://goo.gl/xvLK6A\nKnight Duel Kick to the Head! \nFlower Man Walks Down the Aisle https://goo.gl/azykjo\nGrandmother Teaches Granddaughter How to Use Pogo Stick  https://goo.gl/DtwKds\nToddler Tries to Say Frog https://goo.gl/4J5CX3\nMom's Dentures drops out of Mouth https://goo.gl/YGrLqE\nDad Tries to Backflip off Boat into Water https://goo.gl/XeqJyE\nGirls Attempt Acrobat Moves \nDad Gets Stuck on Side of Bouncy House https://goo.gl/F7DUYx\nGirl Tries to Ride Luggage Cart https://goo.gl/SRLWfh\nRollerskaters Collide Into Each Other https://goo.gl/EAk2f2\nGirl Over Seesaw https://goo.gl/awRj3q\nGrandpa Fails to Do Trick on Mini Bike \nMan Jumps in Pool and Splashes Couple https://goo.gl/UuzLik\nGuy Loses Shorts while Swinging on Trapeze https://goo.gl/83Zkm8\nGuy Tries to Sit on LayBag https://goo.gl/LLPRgr\nGuy Knocks Friend's Ice Cream out of Cone https://goo.gl/6RoX9T\nWoman's Teeth drops Out During Game https://goo.gl/9jbSEh\nHammock Breaks While Friends Swing Guy Inside \nGrown Man Rides Small Skateboard https://goo.gl/bttoxm\nMother into Daughter While on Slip 'N Slide. https://goo.gl/erBYVb",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/eefBwmNY3v4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/eefBwmNY3v4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/eefBwmNY3v4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/eefBwmNY3v4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/eefBwmNY3v4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "eefBwmNY3v4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/_StEga5P091TiKgOgzHzyXnXFiY\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLkpCM01xSXBOWGhB",
+   "snippet": {
+    "publishedAt": "2017-07-18T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Expensive Fails: That's Going To Cost You! (July 2017)",
+    "description": "These people should have remembered they're one big fail from losing their expensive toys! Here are some of the most expensive fails we've accumulated for your enjoyment. Have a favorite? Let us know in the comments below!! \n\n►►► SUBMIT YOUR VIDEOS! http://bit.ly/fasubmit \nSUBSCRIBE! http://bit.ly/fasubscribe\n\nFACEBOOK • http://bit.ly/fafbpage\nINSTAGRAM • http://bit.ly/fainsta\nTWITTER • http://bit.ly/fatweet\nTWITCH •  http://bit.ly/2j9rKEX\nCheck out FailArmy U!!! • http://bit.ly/failu\nDownload the FailArmy App!! \non iOS • http://bit.ly/faiOS \non Android •  http://bit.ly/fadroid \nFailArmy gear • http://bit.ly/failmerch\n\nFailArmy is the world’s number one source for epic fail videos and hilarious compilations. We’re powered by fan submissions and feedback from all around the world, with over 30 million fans across digital platforms! \n\nTo license any of the videos shown on FailArmy, please visit Jukin Media at http://bit.ly/jukinlicense.\n\nVideos: \nPhone Shelves Collapse https://goo.gl/RFG35e\nRing Falls into Waterfall https://goo.gl/49uLre\nBoat Parking Catastrophe https://goo.gl/hfxRGT\nSwegway Explodes on Sidewalk https://goo.gl/wkyE2N\nWine Bottle Breaks Toilet https://goo.gl/cMQCov\nTruck Takes Out Ducati https://goo.gl/uac5iU\nContractor Falls Through Roof https://goo.gl/25RKRx\nRoof Breaks Under Dancing Man https://goo.gl/rMFzHT\nKid Breaks iPad https://goo.gl/LQwtWx\nDog Snags Quadcopter Off Table https://goo.gl/FWtEtj\nConstruction Site Accident \nCamera Gets Sucked Out of Airplane Window https://goo.gl/56REMb\nWine Shelf Collapses on Floor https://goo.gl/Z8JVQ7\nDude Drops Laptop Into Ocean https://goo.gl/c7uxvh\nGuy Knocks Over Television While Dancing https://goo.gl/tiJMER\nGuy Creates Mind Trick With Toy Car https://goo.gl/E8aqny\nBaseball Breaks Camera https://goo.gl/NdpQTc\nCar Gets Stuck in Driveway https://goo.gl/o72r3e\nDrone Pilot Crashes Machine Multiple Times https://goo.gl/zPVBfP\nCamera Gets Sucked out of Airplane Window https://goo.gl/tLQLH5\nCar Drives Through Fence and Crushes Lawn https://goo.gl/CCBXni\nParked Luxury Car Is Covered in Bird Droppings https://goo.gl/K53N6x\nWoman Falls Into Pool With Phone https://goo.gl/omDrR1\nUnicyclist Smashes Escalator \nHoverboard Explodes and Catches Fire https://goo.gl/JbzjF7\nGirl Drops Camera During Selfie https://goo.gl/gQcxYW\nGuy Attempts to Open Champagne Bottle With Nunchucks https://goo.gl/yruadk\nSports Car Bumps into Car Trying to Film on his Phone https://goo.gl/ztbWwb\nMan Rips Through Trampoline https://goo.gl/3GWL7a\nFast Car Spins out of Control https://goo.gl/psiq5Q\nGirl Accidentally Spills Coffee on Computer https://goo.gl/zHYoix\nGuy's Phone Flies out of His Pocket while Skydiving https://goo.gl/w9i6cA\nSunglasses Fly off Girl's Face https://goo.gl/tzDr5Y\nSUV Drives Into Ditch https://goo.gl/GZTG9C\nParked Car is Covered in Bird Poop https://goo.gl/oRLFzr\nMan's Car Catches on Fire https://goo.gl/4CZjjT\nRace Car Driver Roof Unlatches https://goo.gl/Q6Dm9e\nLuxury Car Crashes Into Another https://goo.gl/XF3bia\nEscaped Bull Terrorizes Street https://goo.gl/YG3GMQ\nDriver Tries to J-Turn https://goo.gl/icz7MG\nAftermath of Luxury Cars Crashing Into Each Other https://goo.gl/TFqC28\nGuy Crashes Drone Attempting to Launch From Moving Boat https://goo.gl/uPVawi",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JB3MqIpNXhA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JB3MqIpNXhA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JB3MqIpNXhA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/JB3MqIpNXhA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/JB3MqIpNXhA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 20,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "JB3MqIpNXhA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/mJ2nxRPbUvBuht6r2eflirbsdok\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLk9XWjNfVTlPR2x3",
+   "snippet": {
+    "publishedAt": "2017-07-16T00:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "FailArmy After Dark: It's Party Time (ep. 1)",
+    "description": "Kick your Saturday night off with this mixed bag of compilations and funny videos. Whether you're getting ready to head out for the night or bringing the party home, get it started with FailArmy After Dark. We’re trying this out this out, so let us know what you think in the comments below!\n\n►►► SUBMIT YOUR VIDEOS! http://bit.ly/fasubmit \nSUBSCRIBE! http://bit.ly/fasubscribe\n\nFACEBOOK • http://bit.ly/fafbpage\nINSTAGRAM • http://bit.ly/fainsta\nTWITTER • http://bit.ly/fatweet\nTWITCH •  http://bit.ly/2j9rKEX\nCheck out FailArmy U!!! • http://bit.ly/failu\nDownload the FailArmy App!! \non iOS • http://bit.ly/faiOS \non Android •  http://bit.ly/fadroid \nFailArmy gear • http://bit.ly/failmerch\n\nFailArmy is the world’s number one source for epic fail videos and hilarious compilations. We’re powered by fan submissions and feedback from all around the world, with over 30 million fans across digital platforms! \n\nTo license any of the videos shown on FailArmy, please visit Jukin Media at http://bit.ly/jukinlicense.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/OWZ3_U9OGlw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/OWZ3_U9OGlw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/OWZ3_U9OGlw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/OWZ3_U9OGlw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/OWZ3_U9OGlw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 21,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "OWZ3_U9OGlw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/6QZRdWbt4r2wiJkD8OsIT5pInhE\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLmFGalZuSmJkNjhv",
+   "snippet": {
+    "publishedAt": "2017-07-13T08:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Classic Redneck Waterslide: Throwback Fails (July 2017)",
+    "description": "We went back into the FailArmy vault to pull out some awesome throwbacks. Enjoy some classic redneck fails, funny kids, and some hysterical workout fails. Have a video of your own? Submit it to FailArmy.com. \n\n►►► SUBMIT YOUR VIDEOS! http://bit.ly/fasubmit \nSUBSCRIBE! http://bit.ly/fasubscribe\n\nFACEBOOK • http://bit.ly/fafbpage\nINSTAGRAM • http://bit.ly/fainsta\nTWITTER • http://bit.ly/fatweet\nTWITCH •  http://bit.ly/2j9rKEX\nCheck out FailArmy U!!! • http://bit.ly/failu\nDownload the FailArmy App!! \non iOS • http://bit.ly/faiOS \non Android •  http://bit.ly/fadroid \nFailArmy gear • http://bit.ly/failmerch\n\nFailArmy is the world’s number one source for epic fail videos and hilarious compilations. We’re powered by fan submissions and feedback from all around the world, with over 30 million fans across digital platforms! \n\nTo license any of the videos shown on FailArmy, please visit Jukin Media at http://bit.ly/jukinlicense.\n\nVideos: \nFather Makes Painful DIY Waterslide https://goo.gl/vjR1xM\nMan Jumps Through a Crowd https://goo.gl/C3udWg\nBoy Scouts Test DIY Raft https://goo.gl/HnbgzN\nGirl through Glass Table https://goo.gl/EK7oBA\nGuy Through Ice, Friends Save Him https://goo.gl/J8Hcw6 Sisters Attempt To Wrestle https://goo.gl/T1r8y2 Guy Goes Bowling https://goo.gl/Pz4DE2\nGirl Has Trouble Eating Milkshake After Surgery https://goo.gl/8XDk4v\nBoogie Board Flies out of Control https://goo.gl/dC7iJN\nKid Drops Cake after It's Finished Cooking https://goo.gl/qE9jkd\nGuy Tries to Do Handstand on Stool https://goo.gl/EW3B3B\nTruck Drives on Highway with Only Three Wheels https://goo.gl/qWuBBG\nKid Flies off Treadmill https://goo.gl/VqDAJS\nKid on Scooter Eats the Halfpipe https://goo.gl/3HqvHy\nKid Attempts Bench Press and Fails https://goo.gl/pJ4Tsm\nGirl Trying to Walk Up Snowy Hill in Heels https://goo.gl/ckE8b2\nBike Trick Goes Wrong https://goo.gl/iwsRP3\nSkurfing Gone Wrong https://goo.gl/Lno4q7 Girl While Crossing Stream https://goo.gl/A2kkiJ\nGuy Slides Down Mud at Music Festival https://goo.gl/B9zvpK\nBike Rider Face Plants Into Mud https://goo.gl/tdfjB6\nBaby Wants to Touch Dad's Coffee https://goo.gl/tun78n\nSkateboarder Wipes out on Pavement https://goo.gl/piDB7h\nSkier Tries to Backflip off Ramp https://goo.gl/SXWrhQ\nGuy Tries to Throw Leaf Skimmer https://goo.gl/fJicjT\nWaterskiing Bride Hits the Sand https://goo.gl/5U2knF\nTruck's Wheel Bounces while Driving on Highway https://goo.gl/u6thHQ\nDrone into Boat and into Waterdial https://goo.gl/H7Z6KK\nGirl Flies over Horse's Head https://goo.gl/sK6ab7\nKid Has Bowling Troubles https://goo.gl/6eXzNd\nLittle Brother Steals Sisters Makeup https://goo.gl/St4DSY\nGirl Drops Birthday Cake https://goo.gl/tW14yH\nGirl Punches Self in Face Playing Boxing Game https://goo.gl/KEcQKe\nguy trying skateboard trick https://goo.gl/MnouWG\nGirl Loses Balance on Swegway https://goo.gl/uV2HHz\nKid Fails To Hit Golfball https://goo.gl/c4wwNd\nKid Drops Into Ramp on Scooter  https://goo.gl/q2ttUS\n Guy Skips Across Water after Barefoot Waterski Fail https://goo.gl/jyiVSY\nLawn Mower Pulls Car Behind https://goo.gl/njcRbk\nGolfer Breaks Club on Tree https://goo.gl/3LXUjm\nOff-Road Vehicle Tumbles down Mountain https://goo.gl/8QyhXV\nDog knocks over bikini girl https://goo.gl/e11iYs\nGuy Lands On Rail In Between His Legs https://goo.gl/ohwA5j\nDog off dock https://goo.gl/Gzm6zE\nbus Plows Through Seven Cars on Highway https://goo.gl/41wmAU\nFriends Try to Reenact Famous Dance Scene https://goo.gl/TgLku3\nGrill explodes https://goo.gl/4Yfz1E\nTeens Break Bridge lands in Ditch https://goo.gl/k1LjoU\nBaby Face Plants at Indoor Playground https://goo.gl/RikHi1\nDog Trying to Fetch Ball https://goo.gl/HMPHwy\nDrone into Tree https://goo.gl/r6QrLm\n Girl Attempts Three Handsprings Plus a Full but Fails https://goo.gl/g7MeHf\nDog Runs Headfirst into Step https://goo.gl/kqnRxy\nParaglider into Trees https://goo.gl/mc9a8z\nGuy Gets Too Close to Wild Seal https://goo.gl/mDcwvH\nNew Driver Keeps Stalling https://goo.gl/NHvyEB\nCat boxes with dog https://goo.gl/xcSv7t\nReds big fail https://goo.gl/a4kva5\nCanoe slip https://goo.gl/7bHT4x\nBaby throws up on dog https://goo.gl/6ZZcus\nMan Drops Hot Dog https://goo.gl/LBy4ke\nMotorcyclist Wheelies and at Intersection https://goo.gl/x8gyQv\nFork Lift Driver Saves Keg https://goo.gl/UmEHTm\nTeen after Bailing Parkour Stunt https://goo.gl/P3jxj1\nStudent Swims in Flooded Cardiff Street https://goo.gl/y5utXP\nWoman Scares Best Friend with Bull Frog https://goo.gl/FwuULM",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aFjVnJbd68o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aFjVnJbd68o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aFjVnJbd68o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/aFjVnJbd68o/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/aFjVnJbd68o/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 22,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "aFjVnJbd68o"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Hy4YWZP9f_6F8VlMIHsN7qjBPAs\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLjdjU2xfZWJqUjc4",
+   "snippet": {
+    "publishedAt": "2017-07-11T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Hilarious Science Fails (July 2017) || FailArmy",
+    "description": "Science is all around us, and there's a ton of fails that come with a breakthrough. So we decided to put together a comp in honor of all the scientists out there! Have a favorite? Let us know in the comments! Have a video of your own? Submit it at FailArmy.com. \n\n►►► SUBMIT YOUR VIDEOS! http://bit.ly/fasubmit \nSUBSCRIBE! http://bit.ly/fasubscribe\n\nFACEBOOK • http://bit.ly/fafbpage\nINSTAGRAM • http://bit.ly/fainsta\nTWITTER • http://bit.ly/fatweet\nTWITCH •  http://bit.ly/2j9rKEX\nCheck out FailArmy U!!! • http://bit.ly/failu\nDownload the FailArmy App!! \non iOS • http://bit.ly/faiOS \non Android •  http://bit.ly/fadroid \nFailArmy gear • http://bit.ly/failmerch\n\nFailArmy is the world’s number one source for epic fail videos and hilarious compilations. We’re powered by fan submissions and feedback from all around the world, with over 30 million fans across digital platforms! \n\nTo license any of the videos shown on FailArmy, please visit Jukin Media at http://bit.ly/jukinlicense.\n\nVideos:\nJug Full of Methane in Hallway https://goo.gl/JKCeW5\nBalloon Filled with Propane https://goo.gl/LU6Ks2\nElephant Toothpaste Experiment Gets All Over Dude https://goo.gl/sskBfB\nDog Ruins Egg Drop Project https://goo.gl/FHfYo2\nCoca Cola Balloon Experiment Goes Wrong \nElephant Toothpaste Goes Wrong https://goo.gl/h7RzHS\nStudent Shatters Beaker https://goo.gl/eKAH1S\nMan with Mentos and Dr. Pepper \nBoy Breaks Glass with Voice \nWatermelon in Front of Girls https://goo.gl/avRNRp\nSolar Powered Glassware Fail \nTeacher Plays Water Bottle Prank on Student https://goo.gl/F5UfQd\nGuy Tries to Move Bottle Filled with Dry Ice https://goo.gl/qqcqKK\nRocket Blows Up https://goo.gl/N3MjSy\nGuy Gets Science Experiment All Over Face and Hair https://goo.gl/o1U6hg\nGuy Tries to Modify Potato Cannon to Be Stronger https://goo.gl/2edaJi\nBottle Launches and Hits Boy Between Legs https://goo.gl/zkpdh6\nBaking Soda Experiment https://goo.gl/q8NKa2\nGirl Gets Egg Experiment Wrong https://goo.gl/2UHuau\nChemistry Experiment Goes Wrong https://goo.gl/fPiqvv\nElephant Toothpaste Science Project Gone Wrong https://goo.gl/YHknDT\nWater Bottle in Guy's Hand https://goo.gl/npVdJd\nDiet Coke and Mentos Experiment Fail https://goo.gl/YhU8aG\nBottle Rocket Hits Cameraman https://goo.gl/9Mz9Jm\nBottle Rocket Headshot https://goo.gl/xDf5MV\nEgg Experiment Take 2 https://goo.gl/17jHCX\nLittle Girl Vinegar Experiment Fail https://goo.gl/kBPQS5\nScience Project Nutshot https://goo.gl/WRsWwe\nBaking Soda in Kid's Face https://goo.gl/GndGny\nElectroshock Demonstration Fail https://goo.gl/6gkWxS\nPoor Aluminum Fail https://goo.gl/fbGQz5\nNitrogen Experiment https://goo.gl/9z4Gfs\nLantern Experiment Fail https://goo.gl/3HNVUy\nUmbrella Jump Experiment https://goo.gl/nTxc8E",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7cSl_ebjR78/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7cSl_ebjR78/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7cSl_ebjR78/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/7cSl_ebjR78/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/7cSl_ebjR78/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 23,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "7cSl_ebjR78"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/YdGxj7cUUiimqsC5vMwgq_Iy_Lk\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLkFhdzR4c1Z4LUkw",
+   "snippet": {
+    "publishedAt": "2017-07-07T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Rapper Slips off the Stage!!: Fails of the Week (July 2017)",
+    "description": "Happy Friday! We have a fresh batch of fails from across the internet to help you kick off the weekend! In this compilation you will find a rapper who falls off the stage, an unfortunate interaction with a lion, and more. Have a great weekend, everybody!\n\n►►► SUBMIT YOUR VIDEOS! http://bit.ly/fasubmit \nSUBSCRIBE! http://bit.ly/fasubscribe\n\nFACEBOOK • http://bit.ly/fafbpage\nINSTAGRAM • http://bit.ly/fainsta\nTWITTER • http://bit.ly/fatweet\nTWITCH •  http://bit.ly/2j9rKEX\nCheck out FailArmy U!!! • http://bit.ly/failu\nDownload the FailArmy App!! \non iOS • http://bit.ly/faiOS \non Android •  http://bit.ly/fadroid \nFailArmy gear • http://bit.ly/failmerch\n\nFailArmy is the world’s number one source for epic fail videos and hilarious compilations. We’re powered by fan submissions and feedback from all around the world, with over 30 million fans across digital platforms! \n\nTo license any of the videos shown on FailArmy, please visit Jukin Media at http://bit.ly/jukinlicense.\n\nVideos:\n\n \nTwo Skateboarders Fall Together After Trick Attempt https://goo.gl/L7rGj9\nDog Jumps on Boy Trying to Get Bubbles https://goo.gl/5w5SDQ\nKid Falls Through Roof https://goo.gl/k9qg3M\nGuy Eats it on High Bar https://goo.gl/vdrUv6\nLion Attacks Car on Safari Ride https://goo.gl/xASYMv\nMan Falls Trying to Jump Over Fence https://goo.gl/xhN1FV\nBoy Falls Trying To Jump From Couch https://goo.gl/C5QHd4\nLight Post Falls on Vehicle https://goo.gl/Grfqo8\nGuy Flops into Foam Pit https://goo.gl/2GDA4b\nDirt Biker Nose Dives on Trail https://goo.gl/Q4Dbcf\nGuy Tries to Swing and Flip Off Tree Branch and Falls https://goo.gl/A5TMVN\nMan Gets Crushed by Barbell https://goo.gl/5eXwT6\nJoust Attempt Ends in Fall https://goo.gl/wuCzLW\nSkateboarder Shows Off Failed Attempts https://goo.gl/fGB3n2\nGirl Flips Off Diving Board and Does Bellyflop https://goo.gl/D6eqVN\nSemi Truck Crashes into Car https://goo.gl/Bj5SCg\nTwo Men Fall off a Canoe https://goo.gl/vVJGUU\nMan Trips on Fallen Tree https://goo.gl/ZRR4aU\nMan Gets Hit by Ball after Falling Off Skateboard https://goo.gl/Pm7CZh\nPlastic Plate Flies Off SUV and Crashes into Car https://goo.gl/9uyTke\nTank Crashes into Lamp Post https://goo.gl/GMtZxT\nMan Falls While Trying to Spray Coworker with Wine https://goo.gl/mwuNin\nMotorcyclist Attempt to Get Up Steep Hill https://goo.gl/CYLKDp\nBiker Attempts to Jump Over Bench and Falls https://goo.gl/cfdZC8\nGirl Breaks Sunglasses After Falling Off Skateboard https://goo.gl/25VSEM\nWoman Practices Machine Gun Tricks https://goo.gl/KCycgE\nGuy Falls Hard on Back After Flipping Off Swing https://goo.gl/wS9mKn\nWoman Falls Down Doorsteps https://goo.gl/MMp1zT\nFriends Fall Off Moving Car https://goo.gl/RUXJcL\nMan Breaks Ramp Attempting Stunt on Bike https://goo.gl/VtYpS5\nCyclist Faceplants on Frozen Lake https://goo.gl/UuvZWw\nGuy Falls off Chair While Singing https://goo.gl/fhTJYA\nMan Falls Off Bicycle on Trail https://goo.gl/PyjydA\nGender Reveal Box Falls on Kid https://goo.gl/yHx2cs\nMan Slips Off Stage https://goo.gl/qtGc2s\nCat Launches Toy in Other Cat's Face https://goo.gl/Cc7cB7",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Aaw4xsVx-I0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Aaw4xsVx-I0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Aaw4xsVx-I0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Aaw4xsVx-I0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Aaw4xsVx-I0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 24,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Aaw4xsVx-I0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/AxjWpulIprIHTnhVaGXoVwqha2s\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLnBNRHRpYmMxM2Zj",
+   "snippet": {
+    "publishedAt": "2017-05-21T00:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Sea lion drags girl into Steveston waters",
+    "description": "Watch as a sea lion drags a young girl into the waters at the Steveston Fisherman's Wharf, Richmond B.C. Canada.\n\nThe girl was rescued by her family members and bystanders. Nobody was injured in the incident. \n\nMay 20, 2017 6:46PM\n\n* Jukin Media Verified *\nFind this video and others like it by visiting https://www.jukinmedia.com/licensing/view/958632\nFor licensing / permission to use, please email licensing(at)jukinmedia(dot)com.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pMDtibc13fc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pMDtibc13fc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pMDtibc13fc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/pMDtibc13fc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 25,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "pMDtibc13fc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Tut2EdVz-Hhw5B1xbcNx5-CBAug\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLjd2SFZuSUt2T044",
+   "snippet": {
+    "publishedAt": "2017-05-11T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Throwback Thursday: That was amazing! (May 2017)",
+    "description": "This week for Throwback Thursday, we're going back for some awesome scares, a unicycle fail and an amazing diving board fail. Comment your favorite clip below and don't forget to send us your funny fail videos to FailArmy.com! \n\n►►► SUBMIT YOUR VIDEOS! http://bit.ly/fasubmit \nSUBSCRIBE! http://bit.ly/fasubscribe\n\nFACEBOOK • http://bit.ly/fafbpage\nINSTAGRAM • http://bit.ly/fainsta\nTWITTER • http://bit.ly/fatweet\nTWITCH •  http://bit.ly/2j9rKEX\nCheck out FailArmy U!!! • http://bit.ly/failu\nDownload the FailArmy App!! \non iOS • http://bit.ly/faiOS \non Android •  http://bit.ly/fadroid \nFailArmy gear • http://bit.ly/failmerch\n\nFailArmy is the world’s number one source for epic fail videos and hilarious compilations. We’re powered by fan submissions and feedback from all around the world, with over 30 million fans across digital platforms! \n\n\nTo license any of the videos shown on FailArmy, please visit Jukin Media at http://bit.ly/jukinlicense.\n\nThrowback Thursday: That was amazing! (May 2017)\nhttps://youtu.be/7vHVnIKvON8",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7vHVnIKvON8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7vHVnIKvON8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7vHVnIKvON8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/7vHVnIKvON8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/7vHVnIKvON8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 26,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "7vHVnIKvON8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/2szlJA-rC1ZiQzSciALIa2oBhEc\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLlEwNTlET2hHYzBJ",
+   "snippet": {
+    "publishedAt": "2017-04-28T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "PEOPLE ARE AWESOME 2017 | BEST OF THE MONTH (APRIL)",
+    "description": "This People are Awesome Best of the Month video compilation for April 2017 features some amazing people doing incredible things! Everything from extreme sports to fitness to gymnastics and trick shots! Thanks to all the awesome people who submitted their best videos for this People are Awesome 2017 compilation!\n\nWATCH NEXT:\n\nBest of the Month - March 2017:\nhttps://www.youtube.com/watch?v=kE7srDfJExI\n\nCheck out Fails of the Week on Fail Army:\nhttps://www.youtube.com/watch?v=oV3ggYuwQ-Y&list=PLOWSbqDrrI5QU6-kEuXq2eFqWZ3po6yHh\n\nMUSIC:\n\nRicky Mears - Threads\nhttps://soundcloud.com/future/ricky-mears-threads\nhttps://fanlink.to/g8M\n\nORIGINAL VIDEOS:\n\n0:00 - https://goo.gl/AafdJC\n0:04 - https://goo.gl/0rvAr4\n0:17 - https://goo.gl/fPH2cr\n0:24 - https://goo.gl/PxHVGh\n0:37 - https://goo.gl/VOE1QK\n0:47 - https://goo.gl/McpM4j\n0:56 - https://goo.gl/RK4YnL\n1:03 - https://goo.gl/6GJZES\n1:09 - https://goo.gl/w5GRAr\n1:11 - https://goo.gl/I5PIoD\n1:16 - https://goo.gl/thJLuO\n1:22 - https://goo.gl/Yiznyp\n1:24 - https://goo.gl/cyQAhB\n1:38 - https://goo.gl/ZvppSy\n1:42 - https://goo.gl/oh8PKw\n1:48 - https://goo.gl/j8x3Rw\n2:06 - https://goo.gl/H8FqXe\n2:11 - https://goo.gl/lGoJCR\n2:25 - https://goo.gl/5IPvIj\n2:34 - https://goo.gl/Y5LjKp\n2:43 - https://goo.gl/qbCEWU\n2:46 - https://goo.gl/ql8WUH\n3:02 - https://goo.gl/8lmCMU\n3:10 - https://goo.gl/ed6fJY\n3:17 - https://goo.gl/3PGjeg\n3:19 - https://goo.gl/6i9D6w\n3:29 - https://goo.gl/gOWDcL\n3:38 - https://goo.gl/E18Wqx\n3:51 - https://goo.gl/O56gHZ\n3:56 - https://goo.gl/lKYSMk\n4:06 - https://goo.gl/6i9D6w\n4:11 - https://goo.gl/lnstnn\n4:15 - https://goo.gl/ErKOMr\n4:30 - https://goo.gl/qHX8qe\n4:33 - https://goo.gl/6i9D6w\n\nFor business and licensing enquiries: contact@peopleareawesome.com\n\nThanks for watching PEOPLE ARE AWESOME 2017 videos, amazing original videos and compilations of ordinary people doing extraordinary things! We put together People are Awesome for the best of the week, best of the month and best of the year! Check out our channel for more People are Awesome compilation videos. \n\nTo license any of the videos shown on People are Awesome, visit Jukin Media at http://jukinmedia.com/licensing",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Q059DOhGc0I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Q059DOhGc0I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Q059DOhGc0I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Q059DOhGc0I/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Q059DOhGc0I/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 27,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Q059DOhGc0I"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/wykggPcF1_m3iys5bkAawxvfYHY\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLlE5VktqRnh5UmU0",
+   "snippet": {
+    "publishedAt": "2017-04-18T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Top 10 Music Festival Moments || JukinVideo Top Ten",
+    "description": "Coachella starts this weekend and we are getting into the spirit of festival season with this compilation of our Top 10 Music Festival Moments! Whether you are into EDM, rap, country, or rock, we have a video for you! Stay safe and hydrated, festivalers!\nWatch Next:\n\nhttps://www.youtube.com/watch?v=q6a2mR3lQtQ&list=PLz9JxPpKRG-Se7PqbLwGiI19K5kPcGU5i&index=1&t=3s\n\nhttps://www.youtube.com/watch?v=Y5JhcMFRGI4&t=14s&list=PLC9EEBDE84F2D9D94&index=1\n\nOriginal Links: \n\n10. Wake Up Call: https://www.youtube.com/watch?v=Wwy45984MB8\n9. Crowd Rafting: https://www.youtube.com/watch?v=_eLlQpelY6Y\n8. Festive Proposal: https://www.youtube.com/watch?v=OSxDqzjVwWM\n7. Fiery Tornado: https://www.youtube.com/watch?v=z_O80wupQ_s\n6. Too Much Partying: https://www.youtube.com/watch?v=fCO-8B33zxg\n5. Gliding Right In: https://www.youtube.com/watch?v=XfxlZXEJcPM\n4. When Music Is Life: https://www.youtube.com/watch?v=Qe2RCY1dtbQ\n3. Doppleganger: https://www.youtube.com/watch?v=cBVJ3gYojeI\n2. Free Drone: https://www.youtube.com/watch?v=hd_LvBX7vr4\n1. Target Practice: https://www.youtube.com/watch?v=gr2tegHGo64\n\nSUBSCRIBE for awesome videos every day!: http://bit.ly/JukinVideo\nSubmit your video here: http://bit.ly/3-submit-here\n\nLIKE us on FACEBOOK: http://bit.ly/JukinVideoFB\nFOLLOW us on TWITTER: http://bit.ly/JukinVideoTwitter\nShort vids on INSTAGRAM: http://bit.ly/JukinVideoInstagram\nShorter vids on VINE:  http://bit.ly/JukinVideoVine\n\nJukinVideo is the leading viral video community channel dedicated to showcasing the hottest UGC videos from across the web. We love videos and find the best ones to share with you here, from fail videos to ice bucket challenges, and soccer tricks to a baby reacting to Katy Perry's Dark Horse.  The JukinVideo team scours the web 24/7 to find the latest trends and hottest videos.  Subscribe to see them first!\n\nTo license any of the videos shown on JukinVideo, visit Jukin Media at http://jukinmedia.com/licensing",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Q9VKjFxyRe4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Q9VKjFxyRe4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Q9VKjFxyRe4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Q9VKjFxyRe4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Q9VKjFxyRe4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 28,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Q9VKjFxyRe4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/V1KNfwC2j5B-GwWqMN5dwomqZEw\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLndZMjRFY043bnZF",
+   "snippet": {
+    "publishedAt": "2017-04-17T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "BEST POOL & SNOOKER TRICK SHOTS!",
+    "description": "This week's People are Awesome compilation features the best pool trick shots! These guys have some epic trick shots that are impressive and creative! Thanks to everyone who submitted their greatest pool trick shots and to thanks to you for watching this insane trick shots compilation! Whether you are a fan of 8 ball pool, snooker or billiards we hope you enjoy these perfect trick shots!\n\nSubscribe: http://bit.ly/PAASubscribe\nSubmit a Video: http://bit.ly/67-submit-here\n\nThanks to test amazing pool players for their awesome trick shots:\n\nSteve Markle\nhttps://www.youtube.com/channel/UCeCTXF26doBJ5FdlZSLxEvg\n\nJaden Dupree\nhttps://www.youtube.com/channel/UCOzAA0I-Nls0IgW-ryQkxEA\n\nCharles Lakey\nhttps://www.youtube.com/channel/UC2VT2DsM-7zIrkHlAa3d-yw\n\nJonacris Bandillo\nhttps://www.youtube.com/channel/UCxdEwGErVFa9P9qgex2A9CA\n\nFrederic Dionet\nhttps://www.youtube.com/channel/UCOJ3OylXFTj-mx_OihOkVUw\n\nWilliam DeYonker\nhttps://www.youtube.com/channel/UCOoJhTO2n4r9osEue1RD63g\n\nMatthew Webber\nhttps://www.facebook.com/StingerTrickshots/\n\nFacebook: https://www.facebook.com/peopleareawesome\nInstagram: https://instagram.com/AllPeopleAreAwesome\nTwitter: http://www.twitter.com/PAAVideos\nReddit: http://www.reddit.com/r/peopleareawesome\nVK: http://www.vk.com/PAAVideos\n\nFor business and licensing enquiries: contact@peopleareawesome.com\n\nPEOPLE ARE AWESOME is the number one destination for amazing, original videos and compilations of ordinary people doing extraordinary things. We feature all sorts of different extreme sports and activities other amazing feats, including parkour, skateboarding, tricking, cliff diving, wingsuit flying, skiing, snowboarding, surfing, BMX, acrobatics, calisthenics, cheerleading, freestyle football, basketball dunks, extreme pogo, freerunning, cycling, kayaking, frisbee trick shots, golf, martial arts, BASE jumping and many, many more a host of other action sports! Whether you’re searching in 2015 or any other year, check out our amazing and original action sports videos in HD where we show you why we think people are awesome!\n\nTo license any of the videos shown on People are Awesome, visit Jukin Media at http://jukinmedia.com/licensing",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wY24EcN7nvE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wY24EcN7nvE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wY24EcN7nvE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/wY24EcN7nvE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/wY24EcN7nvE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 29,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "wY24EcN7nvE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/K74X7TS49RR9s_b34RPKQEmX1fs\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLnpjTER6UzdLWUM0",
+   "snippet": {
+    "publishedAt": "2017-04-13T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Close Calls Compilation from the JukinVideo Vault",
+    "description": "Is it near hit or near miss? It doesn't matter because we're calling this compilation Close Calls! From almost getting hit by a plane and a train to almost falling off a cliff, here are some people that barely escaped their potential death.\n\nWatch Next:\n\nhttps://www.youtube.com/watch?v=HtpbW4UP0uM&list=PLz9JxPpKRG-RMcih7fFaQDzoqZIXR0c2x&index=1\n\n https://www.youtube.com/watch?v=q6a2mR3lQtQ&index=1&t=1s&list=PLz9JxPpKRG-Se7PqbLwGiI19K5kPcGU5i\n\nSUBSCRIBE for awesome videos every day!: http://bit.ly/JukinVideo\nSubmit your video here: http://bit.ly/3-submit-here\n\nLIKE us on FACEBOOK: http://bit.ly/JukinVideoFB\nFOLLOW us on TWITTER: http://bit.ly/JukinVideoTwitter\nShort vids on INSTAGRAM: http://bit.ly/JukinVideoInstagram\nShorter vids on VINE:  http://bit.ly/JukinVideoVine\n\nJukinVideo is the leading viral video community channel dedicated to showcasing the hottest UGC videos from across the web. We love videos and find the best ones to share with you here, from fail videos to ice bucket challenges, and soccer tricks to a baby reacting to Katy Perry's Dark Horse.  The JukinVideo team scours the web 24/7 to find the latest trends and hottest videos.  Subscribe to see them first!\n\nTo license any of the videos shown on JukinVideo, visit Jukin Media at http://jukinmedia.com/licensing",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/zcLDzS7KYC4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/zcLDzS7KYC4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/zcLDzS7KYC4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/zcLDzS7KYC4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/zcLDzS7KYC4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 30,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "zcLDzS7KYC4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/l7pQ-NkpYlCfJG70Ox54_cg1FKY\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLkc4UWI4RU9mOHBn",
+   "snippet": {
+    "publishedAt": "2017-04-13T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Extreme Downhill Drift Trike, Street Luge & Inline Skating!",
+    "description": "This high speed downhill line on drift trike, street luge and inline skating is AWESOME! Filmed on GoPro POV! Thanks to Pedro Priego, Agro Drift Trike, Noel Jarillo & Inline Downhill Spain for the clip! Which would you ride, the drift trike, street luge or skates?!\n\nMUSIC \nTitle: Priority One & TwoThirds - Hunted (feat. Jonny Rose)\niTunes Download Link: https://itunes.apple.com/us/album/hunted-feat.-jonny-rose-single/id1041171380\nListen on Spotify: http://open.spotify.com/album/60Wu5MAaFCZyuyY5eY9125\nVideo Link: https://www.youtube.com/watch?v=F7Uz_XD3Lhk\n\nThanks for watching People are Awesome.\n\nWatch Next:\nSkiing Without Snow:\nhttps://www.youtube.com/watch?v=HtD_vTuBgGU\n\nSlackline Tricks & Backflips:\nhttps://www.youtube.com/watch?v=IcL2W5SgAEA\n\nDrift trikes are tricycles that have slick rear wheels designed to drift, the sport originated in New Zealand and now popular around the world. Street luge, also known as land luge or road luge was born in Southern California as downhill skateboarders found they could reach faster speeds by lying down on their skateboards.\n\nSubscribe: http://bit.ly/PAASubscribe\nSubmit a Video: http://bit.ly/67-submit-here\n\nFacebook: https://www.facebook.com/peopleareawesome\nInstagram: https://instagram.com/AllPeopleAreAwesome\nTwitter: http://www.twitter.com/PAAVideos\nReddit: http://www.reddit.com/r/peopleareawesome\nVK: http://www.vk.com/PAAVideos\n\nFor business and licensing enquiries: contact@peopleareawesome.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/G8Qb8EOf8pg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/G8Qb8EOf8pg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/G8Qb8EOf8pg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/G8Qb8EOf8pg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/G8Qb8EOf8pg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 31,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "G8Qb8EOf8pg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/WdkOhnIB-lDw8yS00vU4TAwqQ8c\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLlJPWGJCaGNMTldr",
+   "snippet": {
+    "publishedAt": "2017-04-13T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Dangerous Puppies | Cute Dog Video Compilation 2017",
+    "description": "From puppies attacking bigger dogs, puppies barking at random objects, to puppies trying to bite their owners, these are just a few of the dangerous puppies you'll find in this dangerous puppies video compilation.\n\nThe Pet Collective is home to the top trending clips, most entertaining memes, and funniest animal videos online.  Simply put, we think animals are the best ever. If you agree, let’s make it YouTube official right here, right meow:\n\nSubscribe to The Pet Collective: http://bit.ly/tpcsub\nWebsite: http://www.thepetcollective.tv\nFacebook: http://www.facebook.com/thepetcollective\nInstagram: http://www.instagram.com/petcollectivetv\nPinterest: http://pinterest.com/petcollectivetv/\n\nSubmit your fun pet videos here: http://bit.ly/76-submit-here\n\nTo license any of the videos shown on the The Pet Collective, visit Jukin Media at http://jukinmedia.com/licensing\n\nTitles/Original Links:\nJack Russell Terrier Puppies Wrestle \nhttps://www.youtube.com/watch?v=FprWq09e6l8\n\nFrench Bulldog Puppy Bites Owner in Vulnerable Spot \nhttps://www.youtube.com/watch?v=KZro_yvs9xM\n\nPuppy Nibbles on Owner's Ear \nhttps://instagram.com/p/BRORcqdBRsS/\n\nTiny Puppy Tries to Befriend Cat \nhttps://www.youtube.com/watch?v=9mlmFunGnUM\n\nPuppy Won't Let Big Brother Sleep \nhttps://instagram.com/p/BGPyT3zL3Mi/\n\nPuppy Copies Sunbathing Cat \nhttps://www.youtube.com/watch?v=jQI5CJ5q-Eg\n\nBulldog Puppy Barks at Water Bottle \nhttps://www.youtube.com/watch?v=vnqywtFJUw8\n\nPuppy Barks at Pumpkins \nhttps://www.youtube.com/watch?v=zG6CA-mxHh0\n\nBaby Cuddles with American Bully Puppy \nhttps://www.facebook.com/i.love.dogs111/videos/1061032670610163\n\nDog Hates Mysterious Object on Sidewalk \nhttps://www.youtube.com/watch?v=DCNlqxGFjvo\n\nGolden Retriever Puppy Tries to Bite Camera \nhttps://instagram.com/p/_rrdBbpRjt/\n\nBig Dog Afraid of Small Puppy \nhttps://instagram.com/p/BDFmdOyNifm/\n\nPuppy Attacks Bigger Dog \nhttps://www.youtube.com/watch?v=L73UFwIAdTc",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ROXbBhcLNWk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ROXbBhcLNWk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ROXbBhcLNWk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ROXbBhcLNWk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ROXbBhcLNWk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 32,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ROXbBhcLNWk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/eQ0vj-KWgZHC4OPdY8G8PzPaNvI\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLlk1SmhjTUZSR0k0",
+   "snippet": {
+    "publishedAt": "2017-04-10T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Top 10 Cool Cars Compilation || JukinVideo Top Ten",
+    "description": "Cool cars, awesome cars, fast cars, unique cars, we have it all in this ultimate cars compilation! From crashes to drifting to losing tires here are the Top 10 most amazing car moments!\n\nWatch Next:\n\nhttps://www.youtube.com/watch?v=X_hO_a7bRdI&list=PLC9EEBDE84F2D9D94&index=1\n\nhttps://www.youtube.com/watch?v=ISqAc5_ixto&t=18s&index=1&list=PLz9JxPpKRG-Se7PqbLwGiI19K5kPcGU5i\n\nOriginal Links: \n\n10. Tractor Alert: https://www.youtube.com/watch?v=c31qcSJsHLM\n9. Tire Drifting: https://www.youtube.com/watch?v=YXyWb6s7mOc\n8. Robots In Disguise: https://www.youtube.com/watch?v=M5MMyTOpV7M\n7. Jump Up and Shout: https://www.youtube.com/watch?v=_iuklLMN-IA\n6. Got To Reach 88mph: https://www.youtube.com/watch?v=7FbpWbvS0BY\n5. Casual Drive: https://www.youtube.com/watch?v=gRWz8Hj-ngY\n4. Close Calls: https://www.youtube.com/watch?v=W2IBJJg9SW8\n3. Figure 8 Race: https://www.youtube.com/watch?v=wZKqhvch3mU\n2. Defies Gravity: https://www.youtube.com/watch?v=8K_Gktnuaok\n1. Got To Finish: https://www.youtube.com/watch?v=KUh94uoRuMU\n\nSUBSCRIBE for awesome videos every day!: http://bit.ly/JukinVideo\nSubmit your video here: http://bit.ly/3-submit-here\n\nLIKE us on FACEBOOK: http://bit.ly/JukinVideoFB\nFOLLOW us on TWITTER: http://bit.ly/JukinVideoTwitter\nShort vids on INSTAGRAM: http://bit.ly/JukinVideoInstagram\nShorter vids on VINE:  http://bit.ly/JukinVideoVine\n\nJukinVideo is the leading viral video community channel dedicated to showcasing the hottest UGC videos from across the web. We love videos and find the best ones to share with you here, from fail videos to ice bucket challenges, and soccer tricks to a baby reacting to Katy Perry's Dark Horse.  The JukinVideo team scours the web 24/7 to find the latest trends and hottest videos.  Subscribe to see them first!\n\nTo license any of the videos shown on JukinVideo, visit Jukin Media at http://jukinmedia.com/licensing",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Y5JhcMFRGI4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Y5JhcMFRGI4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Y5JhcMFRGI4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Y5JhcMFRGI4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Y5JhcMFRGI4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 33,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Y5JhcMFRGI4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/qsPeaePKvNRiNnJREzHSjxUuxyo\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLlhfaE9fYTdiUmRJ",
+   "snippet": {
+    "publishedAt": "2017-04-03T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Top 10 Magical Animals || JukinVideo Top Ten",
+    "description": "DO YOU BELIEVE IN MAGIC?! Well, animals don't. Unless they're in a Disney movie. Check out 10 animals that faced some magic paw on. Get it? Instead of head on? No one is reading this...\n\nWatch Next:\n\nhttps://www.youtube.com/watch?\nv=3fnpTvZPeEY&index=1&t=4s&list=PLC9EEBDE84F2D9D94\n\nhttps://www.youtube.com/watch?v=ISqAc5_ixto&index=1&list=PLz9JxPpKRG-Se7PqbLwGiI19K5kPcGU5i\n\nOriginal Links: \n\n10. Magic and Technology: https://www.youtube.com/watch?v=xL9TDpXfxQg\n9. Walking on Water: https://www.youtube.com/watch?v=_WQkxTwvrHQ\n8. How Does He Do It?: https://www.facebook.com/mattgmagic/videos/1213463142033922/\n7. Magical Drawer: https://www.youtube.com/watch?v=RhRUJxAN38w\n6. Doggy Magic Trick: https://www.youtube.com/watch?v=bFyscf7OKN0\n5. Appear Out Of Thin Air: https://www.youtube.com/watch?v=KRqnIPDZVq0\n4. Wizard Cat: https://www.youtube.com/watch?v=zKa92AeSByo\n3. Lovely Assistant: https://instagram.com/p/BL-FkQOg1nN/\n2. Pick A Card: https://www.youtube.com/watch?v=PHgytr5LiBI\n1. Monkey Magic: https://vine.co/v/iZAAq1Tv3e2\n\nSUBSCRIBE for awesome videos every day!: http://bit.ly/JukinVideo\nSubmit your video here: http://bit.ly/3-submit-here\n\nLIKE us on FACEBOOK: http://bit.ly/JukinVideoFB\nFOLLOW us on TWITTER: http://bit.ly/JukinVideoTwitter\nShort vids on INSTAGRAM: http://bit.ly/JukinVideoInstagram\nShorter vids on VINE:  http://bit.ly/JukinVideoVine\n\nJukinVideo is the leading viral video community channel dedicated to showcasing the hottest UGC videos from across the web. We love videos and find the best ones to share with you here, from fail videos to ice bucket challenges, and soccer tricks to a baby reacting to Katy Perry's Dark Horse.  The JukinVideo team scours the web 24/7 to find the latest trends and hottest videos.  Subscribe to see them first!\n\nTo license any of the videos shown on JukinVideo, visit Jukin Media at http://jukinmedia.com/licensing",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/X_hO_a7bRdI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/X_hO_a7bRdI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/X_hO_a7bRdI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/X_hO_a7bRdI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/X_hO_a7bRdI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 34,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "X_hO_a7bRdI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Q9JRMZxDO8HGL9A2gGv1pSuPZC0\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLmtFN3NyRGZKRXhJ",
+   "snippet": {
+    "publishedAt": "2017-03-27T00:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "PEOPLE ARE AWESOME 2017 | BEST OF THE MONTH (March)",
+    "description": "Subscribe: http://bit.ly/PAASubscribe\nSubmit a Video: http://bit.ly/67-submit-here\n\nWatch Next:\n\nFacebook: https://www.facebook.com/peopleareawesome\nInstagram: https://instagram.com/AllPeopleAreAwesome\nTwitter: http://www.twitter.com/PAAVideos\nReddit: http://www.reddit.com/r/peopleareawesome\nVK: http://www.vk.com/PAAVideos]\n\nMusic:\n\nTitle: Rich Edwards - Where I'll Be Waiting (feat. Cozi Zuehlsdorff)\niTunes Download Link: https://itunes.apple.com/us/album/monstercat-best-of-house/id1185235931\nListen on Spotify: https://open.spotify.com/album/0ZXyclbcq1VUnXY9p2iVlF\nVideo Link: https://www.youtube.com/watch?v=RZRerd7A-aY\n\nOriginal Videos:\n\n0:00 - https://instagram.com/p/BQMLlKfjs_Q/\n0:10 - https://instagram.com/p/BRvadGbh414/\n0:17 - https://www.youtube.com/watch?v=m5cUmKu7FnE\n0:23 - https://www.youtube.com/watch?v=6mc1goVL9zw\n0:32 - https://www.facebook.com/thales.alexandre.56/videos/1050313991764864/\n0:39 - https://www.youtube.com/watch?v=31to1gNSxkk\n0:44 - https://www.instagram.com/p/BQEgnEjFRRL/\n0:47 - https://instagram.com/p/BPgPL-1BjOt/\n0:56 - https://www.facebook.com/adan.perezplaza/videos/10211399687020755/\n0:58 - https://instagram.com/p/BRYLVxrjUin/\n1:02 - https://www.youtube.com/watch?v=SsSH9ORNz_U\n1:06 - https://www.instagram.com/p/BRLJoP4A-Nx/\n1:08 - https://www.facebook.com/peter.kurer/videos/1033215280062139/\n1:10 - https://instagram.com/p/BQ-uUfZADKF/\n1:14 - https://www.facebook.com/peter.kurer/videos/1033215280062139/\n1:19 - https://www.youtube.com/watch?v=GTVYd9_UqTg\n1:25 - https://www.youtube.com/watch?v=gjXS4bvuDK8\n1:32 - https://www.youtube.com/watch?v=ouKBAM59cZY\n1:41 - https://www.youtube.com/watch?v=SsSH9ORNz_U\n1:47 - https://www.instagram.com/p/BRPq09fFb-b/\n1:58 - https://www.instagram.com/p/BQo6rx5g3P1/\n2:05 - https://www.facebook.com/moiseevictor/\n2:14 - https://www.facebook.com/jade.riebold\n2:21 - https://www.youtube.com/watch?v=S0ujbDA81Vk\n2:24 - https://www.facebook.com/adan.perezplaza/videos/10211399687020755/\n2:28 - https://www.youtube.com/watch?v=b62QxnF3IPE\n2:33 - https://www.facebook.com/MalleWorkout/videos/652750848243006/\n2:44 - https://www.facebook.com/106565526358813/videos/423187804696582/\n2:51 - https://www.youtube.com/watch?v=SsSH9ORNz_U\n2:59 - https://www.youtube.com/watch?v=BzLuNXK8q-o\n3:03 - https://www.youtube.com/watch?v=S0ujbDA81Vk\n\nFor business and licensing enquiries: contact@peopleareawesome.com\n\nPEOPLE ARE AWESOME is the number one destination for amazing, original videos and compilations of ordinary people doing extraordinary things. We feature all sorts of different extreme sports and activities other amazing feats, including parkour, skateboarding, tricking, cliff diving, wingsuit flying, skiing, snowboarding, surfing, BMX, acrobatics, calisthenics, cheerleading, freestyle football, basketball dunks, extreme pogo, freerunning, cycling, kayaking, frisbee trick shots, golf, martial arts, BASE jumping and many, many more a host of other action sports! Whether you’re searching in 2015 or any other year, check out our amazing and original action sports videos in HD where we show you why we think people are awesome!\n\nTo license any of the videos shown on People are Awesome, visit Jukin Media at http://jukinmedia.com/licensing",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kE7srDfJExI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kE7srDfJExI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kE7srDfJExI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/kE7srDfJExI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/kE7srDfJExI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 35,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "kE7srDfJExI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/n_amKGTSdP_vvrHgyJnNhboW4_8\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLm94R2pNYUx2aVdz",
+   "snippet": {
+    "publishedAt": "2017-03-24T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Fails of the Week: Big Air, Bigger Fails! (March 2017) || FailArmy",
+    "description": "We've got a ton of big time fails this week like ski fails, nut shots and fireworks fails. Plus, a guy got his head stuck in the subway. Let us know which clip made you laugh the hardest in the comments and as always, send us your funny fails to FailArmy.com!! \n\n►►► SUBMIT YOUR VIDEOS! http://bit.ly/fasubmit \nSUBSCRIBE! http://bit.ly/fasubscribe\n\nFACEBOOK • http://bit.ly/fafbpage\nINSTAGRAM • http://bit.ly/fainsta\nTWITTER • http://bit.ly/fatweet\nTWITCH •  http://bit.ly/2j9rKEX\nCheck out FailArmy U!!! • http://bit.ly/failu\nDownload the FailArmy App!! \non iOS • http://bit.ly/faiOS \non Android •  http://bit.ly/fadroid \nFailArmy gear • http://bit.ly/failmerch\n\nFailArmy is the world’s number one source for epic fail videos and hilarious compilations. We’re powered by fan submissions and feedback from all around the world, with over 30 million fans across digital platforms! \n\nTo license any of the videos shown on FailArmy, please visit Jukin Media at http://bit.ly/jukinlicense.\n\nSkier Wipes out after Huge Jump and Loses Skis https://goo.gl/CcLuvZ\nSkier Wipes out after Huge Jump and Loses Skis https://goo.gl/CcLuvZ\nGirl Flips Pancake Onto Face https://goo.gl/wbHWa5\nGuy Jumps Over Parking Meter and Falls n/a\nGuy Slips off Edge of Canyon and Into Water https://goo.gl/RMBNWn\nGuy's Head Gets Stuck Between Train Doors https://goo.gl/JA2qPv\nGuy Falls Through Ceiling https://goo.gl/F8noKm\nGuy Doesn't Land in Foam Pit https://goo.gl/z3XTnd\nGuy Lights Cigarette With Nose and Catches Hair on Fire https://goo.gl/LgxzxZ\nKid Falls While Playing Virtual Reality https://goo.gl/3NqQOU\nGuys Use Plastic Wrap as Trampoline https://goo.gl/VtUaQ2\nCheerleader Accidentally Kicks Guy in Face https://goo.gl/rtTN7s\nBike Riders mess During Snow Race https://goo.gl/tZqIVM\nHorse Runs Wild and Unseats Rider https://goo.gl/JwQzev\nGirl Trips onto Walkway https://goo.gl/hB4aTj\nGuy Gets Hit in Nuts by Paintball device https://goo.gl/RgFA5z\nBald Guy Tries to Show off on FlowRider https://goo.gl/yK3SEP\nBike Riders mess During Snow Race https://goo.gl/tZqIVM\nGuy Attempts to Flip Off Tree and Falls https://goo.gl/PyZqas\nSkier Flips Across Powder https://goo.gl/u3yYGD\nGuy Shows Off Juggling Skills https://goo.gl/xqBKVG\nCar Gets T-Boned after Making Left Turn https://goo.gl/YFeGZU\nSkier Crashes after Stunt Show https://goo.gl/5MjR7z\nSemi Truck Collapses on Car https://goo.gl/vYPQvZ\nGirl Cannot Balance on Paddle Board https://goo.gl/LbaXT1\nSnowboarder Falls After Jump https://goo.gl/RhFKuT\nBiker Nose Dives Into Dirt https://goo.gl/A2dItf\nGuy Jumps Over Fence and Breaks It https://goo.gl/J3iZ1Q\nGuy Fails Twice on Snowmobile https://goo.gl/FpYUqH\n\nFails of the Week: Big Air, Bigger Fails! (March 2017) || FailArmy",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oxGjMaLviWs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oxGjMaLviWs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oxGjMaLviWs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/oxGjMaLviWs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/oxGjMaLviWs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 36,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "oxGjMaLviWs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/8ppKpHrt8mr_K1TSK65iANuDCdE\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLmQzTlZBS3RMcEI0",
+   "snippet": {
+    "publishedAt": "2017-03-13T00:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "PEOPLE ARE AWESOME | BEST OF THE WEEK (Ep. 20)",
+    "description": "This week's People are Awesome best videos of the week compilation for March 2017 features all sorts of amazing skills and incredible tricks! Including parkour, gymnastics, skateboarding, basketball trick shots, rollerskating, hooping, skiing and much more!\n\nSubscribe: http://bit.ly/PAASubscribe\nSubmit a Video: http://bit.ly/67-submit-here\n\nMusic:\n\nTitle: Soupandreas & inverness - Tumbling Down\niTunes Download Link: https://itunes.apple.com/us/album/tumbling-down-single/id1182141887\nListen on Spotify: https://open.spotify.com/album/55RoYKUUkQWi95FfbNS7gU\nVideo Link: https://www.youtube.com/watch?v=QHg7ppl8D0k\n\nOriginal Videos:\n\n\n\n0:00 - https://instagram.com/p/BLhvD_MjplE/\n0:07 - https://www.youtube.com/watch?v=gMwez2w6j-Q\n0:16 - https://www.instagram.com/p/BPr4tVLBDQ8/\n0:24 - https://www.instagram.com/p/BNtloCgg8np/\n0:40 - https://www.instagram.com/p/BQ8UmCojeG-/\n0:48 - https://vimeo.com/197897914\n0:51 - https://www.youtube.com/watch?v=SsSH9ORNz_U\n0:53 - https://www.facebook.com/220772774665920/videos/1272848312791689/\n0:59 - https://www.instagram.com/p/BMzXz-gg_Yk/\n1:00 - https://www.youtube.com/watch?v=ouKBAM59cZY\n1:03 - https://www.youtube.com/watch?v=SsSH9ORNz_U\n1:07 - https://www.instagram.com/p/BPyo_bGh27T/\n1:11 - https://www.youtube.com/watch?v=ouKBAM59cZY\n1:17 - https://www.facebook.com/anthonyrobertskiing\n1:21 - https://www.youtube.com/watch?v=gMwez2w6j-Q\n1:25 - https://www.youtube.com/watch?v=R7eyyHUGUag\n1:40 - https://www.instagram.com/p/BMzXz-gg_Yk/\n1:43 - https://instagram.com/p/BLhvD_MjplE/\n1:46 - https://www.youtube.com/watch?v=SsSH9ORNz_U\n1:52 - https://twitter.com/juliejamrock/status/833799435536756736\n2:04- https://www.facebook.com/220772774665920/videos/1272848312791689/\n2:16 - https://www.youtube.com/watch?v=V7Bv0_vwg3s\n2:23 - https://www.instagram.com/p/BMVAZEphXu9/\n2:28 - https://www.youtube.com/watch?v=SsSH9ORNz_U\n2:33 - https://www.youtube.com/watch?v=SsSH9ORNz_U\n2:35 - https://www.youtube.com/watch?v=ijBDQdt6pNw\n2:37 - https://www.youtube.com/watch?v=ouKBAM59cZY\n2:40 - https://www.youtube.com/watch?v=gMwez2w6j-Q\n2:42 - https://www.instagram.com/p/BMzXz-gg_Yk/\n2:44 - https://vimeo.com/197897914\n2:47 - https://www.instagram.com/ellietsmart/\n2:50 - https://www.instagram.com/p/BQHlpmVAgBi/\n2:58 - https://www.youtube.com/watch?v=Dn0IbxU2XvI\n3:05 - https://www.facebook.com/fagerlibrothers/videos/849945081776448/\n\n\nFacebook: https://www.facebook.com/peopleareawesome\nInstagram: https://instagram.com/AllPeopleAreAwesome\nTwitter: http://www.twitter.com/PAAVideos\nReddit: http://www.reddit.com/r/peopleareawesome\nVK: http://www.vk.com/PAAVideos\n\nFor business and licensing enquiries: contact@peopleareawesome.com\n\nPEOPLE ARE AWESOME is the number one destination for amazing, original videos and compilations of ordinary people doing extraordinary things. We feature all sorts of different extreme sports and activities other amazing feats, including parkour, skateboarding, tricking, cliff diving, wingsuit flying, skiing, snowboarding, surfing, BMX, acrobatics, calisthenics, cheerleading, freestyle football, basketball dunks, extreme pogo, freerunning, cycling, kayaking, frisbee trick shots, golf, martial arts, BASE jumping and many, many more a host of other action sports! Whether you’re searching in 2015 or any other year, check out our amazing and original action sports videos in HD where we show you why we think people are awesome!\n\nTo license any of the videos shown on People are Awesome, visit Jukin Media at http://jukinmedia.com/licensing",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/d3NVAKtLpB4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/d3NVAKtLpB4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/d3NVAKtLpB4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/d3NVAKtLpB4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/d3NVAKtLpB4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 37,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "d3NVAKtLpB4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/CXvZccWy8YbnB9KkMGGYCPPGfTk\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLldmMUl2dnZaYTZV",
+   "snippet": {
+    "publishedAt": "2017-03-08T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Private video",
+    "description": "This video is private.",
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 38,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Wf1IvvvZa6U"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/HeMUhOFdNGWCTaWJyfBMGHUIQVA\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLkR0QlFpckRQNjFZ",
+   "snippet": {
+    "publishedAt": "2017-03-06T00:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "PEOPLE ARE AWESOME | BEST VIDEOS OF THE WEEK (Ep. 19)",
+    "description": "This week's People are Awesome best videos of the week compilation for March 2017 features all sorts of amazing skills and incredible tricks! Including parkour, gymnastics, skateboarding, trick shots, basketball, rollerskating, hooping, skiing and much more!\n\nMore People are Awesome: \n\nFacebook: https://www.facebook.com/peopleareawesome\nInstagram: https://instagram.com/AllPeopleAreAwesome\nTwitter: http://www.twitter.com/PAAVideos\n\nFor business and licensing enquiries contact: contact@peopleareawesome.com \n\nMusic:\nTitle: Conro - Chardonnay (feat. Karra)\n\nOrginal Videos:\n\n0:00 - https://www.instagram.com/EjikMEM/\n0:06 - https://www.youtube.com/watch?v=ijBDQdt6pNw\n0:10 - https://www.youtube.com/watch?v=fGsh0ORNMtk\n0:15 - www.youtube.com/thehoodcrew\n0:18 - https://www.youtube.com/watch?v=fGsh0ORNMtk\n0:23 - https://instagram.com/p/BNhoWJHB9XH/\n0:27 - https://www.youtube.com/watch?v=K09bN_Mgwp8\n0:37 - https://www.instagram.com/p/BLjYjrUBdgT/\n0:47 - www.youtube.com/thehoodcrew\n0:52 -\n https://www.facebook.com/100012814540959/videos/258858964551253/\n0:59 - www.youtube.com/thehoodcrew\n1:01 - https://www.instagram.com/p/BLwhuwBjn-L/\n1:05 - https://www.instagram.com/carltelsa10/?hl=en \n1:09 - www.youtube.com/thehoodcrew\n1:11 - https://www.instagram.com/p/BLwhuwBjn-L/\n1:17 - https://www.instagram.com/p/BNw1cXqBMwU/\n1:32 - https://www.instagram.com/EjikMEM/\n1:37 - https://instagram.com/p/BNhoWJHB9XH/\n1:46 - www.youtube.com/thehoodcrew\n1:49 - https://www.instagram.com/pettermoeller/\n2:00 - https://www.youtube.com/watch?v=ijBDQdt6pNw\n2:07 - https://www.instagram.com/p/BLjYjrUBdgT/\n2:14 - https://www.instagram.com/p/BLwhuwBjn-L/\n2:34 - https://www.instagram.com/p/BQ1AEr8D8KP/\n2:40 - www.youtube.com/thehoodcrew\n2:43 - https://www.instagram.com/p/BLwhuwBjn-L/\n2:48 - https://www.instagram.com/Barbie.patin/\n2:50 - https://www.youtube.com/watch?v=hqbNfC62tN4\n3:01 - https://www.instagram.com/p/BLwhuwBjn-L/\n3:07 - https://twitter.com/Jsteele7777/status/836797534802751488\n\nPEOPLE ARE AWESOME is the number one destination for amazing, original videos and compilations of ordinary people doing extraordinary things. We feature all sorts of different extreme sports and activities other amazing feats, including parkour, skateboarding, tricking, cliff diving, wingsuit flying, skiing, snowboarding, surfing, BMX, acrobatics, calisthenics, cheerleading, freestyle football, basketball dunks, extreme pogo, freerunning, cycling, kayaking, frisbee trick shots, golf, martial arts, BASE jumping and many, many more a host of other action sports! Whether you’re searching in 2017 or any other year, check out our amazing and original action sports videos in HD where we show you why we think people are awesome!\n\nTo license any of the videos shown on People are Awesome, visit Jukin Media at http://jukinmedia.com/licensing",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DtBQirDP61Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DtBQirDP61Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DtBQirDP61Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/DtBQirDP61Y/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/DtBQirDP61Y/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 39,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "DtBQirDP61Y"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/6mOyvNDk9btdPsibvJxuKDNOTOI\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLktxYVBWQkdYcVlR",
+   "snippet": {
+    "publishedAt": "2017-03-04T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best Videos Compilation February 2017 || JukinVideo",
+    "description": "I can't believe February is already over. If you were too busy this month quitting your New Year's Resolutions and trying to find a Valentine, here is a recap compilation of the best videos from the month!\n\nOriginal Link: \n\nInnovative Slinky: https://www.youtube.com/watch?v=ZqDsDgNolG0\nRoomba Cat: http://weibo.com/tv/v/EvpA7omiN?fid=1034:407e8bd780e454d1168dc3c4d077398e\nLearning Physics: https://www.youtube.com/watch?v=uMGBvcGBZL8\nPriorities: https://www.facebook.com/rafael.aybar.5/videos/10154906945469194/\nHat Trick: https://www.youtube.com/watch?v=GHflT_gV9-w\nThat's One Way: https://twitter.com/jgrebes/status/830498931800993793\nGuard Dog: https://instagram.com/p/BQWt7pKBcnC/\nDriving On Ice: https://www.facebook.com/ryan.mullen.39545/videos/10208936239579060/\nPiggy Back Goals: http://vimeo.com/205578870\nWon't Accept Defeat: https://instagram.com/p/BQg5DnSlfXC/\nHot New iPhone: https://twitter.com/briannaolivas_/status/834556234166448128\nRat Removal: https://twitter.com/jodeball4REALZ/status/832625265239060481\nDouble Dog Dare Ya: https://www.youtube.com/watch?v=JVsuRiwiVGw\nChew Your Food: https://www.facebook.com/Snakehandlertsv/videos/1840942489492730/\nWants A Snack: https://www.youtube.com/watch?v=RukF64mS6FQ\nOut of Control: https://www.youtube.com/watch?v=9t38j3GlS1c\nBackyard Fun!: https://www.youtube.com/watch?v=yPfgaUYP3SQ\nIn The Face: https://www.youtube.com/watch?v=EvKBzkFk4AQ\nNew Bike Design: https://www.youtube.com/watch?v=BeOS9pG6vjU\nHome Grown Weed: https://twitter.com/daxholt/status/834204732843438080\nSwimming With Sharks: https://instagram.com/p/BQgMBl7A1Vr/\nGroup Effort: Submission\nUnique Vehicle: https://instagram.com/p/BQi89-8gwxT/\nDogs Arguing: https://www.youtube.com/watch?v=tJ8eTb6xr_k\nI'm Flying: https://www.youtube.com/watch?v=hjHWK2MpTCs\nComing in Fast: https://www.youtube.com/watch?v=JH9b14c7BhQ\n\n\nSUBSCRIBE for awesome videos every day!: http://bit.ly/JukinVideo\nSubmit your video here: http://bit.ly/3-submit-here\n\nLIKE us on FACEBOOK: http://bit.ly/JukinVideoFB\nFOLLOW us on TWITTER: http://bit.ly/JukinVideoTwitter\nShort vids on INSTAGRAM: http://bit.ly/JukinVideoInstagram\nShorter vids on VINE:  http://bit.ly/JukinVideoVine\n\nJukinVideo is the leading viral video community channel dedicated to showcasing the hottest UGC videos from across the web. We love videos and find the best ones to share with you here, from fail videos to ice bucket challenges, and soccer tricks to a baby reacting to Katy Perry's Dark Horse.  The JukinVideo team scours the web 24/7 to find the latest trends and hottest videos.  Subscribe to see them first!\n\nTo license any of the videos shown on JukinVideo, visit Jukin Media at http://jukinmedia.com/licensing",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KqaPVBGXqYQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KqaPVBGXqYQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KqaPVBGXqYQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/KqaPVBGXqYQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 40,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "KqaPVBGXqYQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/I6jhbg0hJZhXcnTH5uQS-u_gVmY\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLldkMDVQOTZXMDcw",
+   "snippet": {
+    "publishedAt": "2017-03-02T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Epic Wins Compilation from the JukinVideo Vault",
+    "description": "Fails have taken over the internet but it's time to make way for some epic wins! Whether they are nailing their awesome tricks or just coming up with genius ideas, all of these people are winning. Here is our throwback compilation of epic wins from the Vault!\n\n\nSUBSCRIBE for awesome videos every day!: http://bit.ly/JukinVideo\nSubmit your video here: http://bit.ly/3-submit-here\n\nLIKE us on FACEBOOK: http://bit.ly/JukinVideoFB\nFOLLOW us on TWITTER: http://bit.ly/JukinVideoTwitter\nShort vids on INSTAGRAM: http://bit.ly/JukinVideoInstagram\nShorter vids on VINE:  http://bit.ly/JukinVideoVine\n\nJukinVideo is the leading viral video community channel dedicated to showcasing the hottest UGC videos from across the web. We love videos and find the best ones to share with you here, from fail videos to ice bucket challenges, and soccer tricks to a baby reacting to Katy Perry's Dark Horse.  The JukinVideo team scours the web 24/7 to find the latest trends and hottest videos.  Subscribe to see them first!\n\nTo license any of the videos shown on JukinVideo, visit Jukin Media at http://jukinmedia.com/licensing",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Wd05P96W070/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Wd05P96W070/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Wd05P96W070/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Wd05P96W070/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Wd05P96W070/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 41,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Wd05P96W070"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/bZMh1afY5o3aARWoVgF0GBiN4n4\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLlVRTTRfWlNGcldR",
+   "snippet": {
+    "publishedAt": "2017-03-01T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "YouTuberのドッキリまとめ：「寝起きドッキリ」【Video Pizza】",
+    "description": "■参加YouTuberのみなさん\nYU-P / すずしょうと / サラトーク\n\n■参加YouTuberの元動画\n【寝起きドッキリ】YU-Pの眉毛を内緒で染めてみた。\nhttps://www.youtube.com/watch?v=tU2jTsmkTDY \n\n弟を起こしたらまさき取締役がいたら？ドッキリしたら大ケガ（？）ｗｗ\nhttps://www.youtube.com/watch?v=p4O4A9dHOeU\n\n寝起きデスソースドッキリ！【ｻﾗﾄｰｸ#66】Waking up in Blair's Sauces and Snacks Shot\nhttps://www.youtube.com/watch?v=4IDzQ3DnTa4\n\n■参加YouTuberのチャンネルをぜひ登録してください\nYU-P: https://www.youtube.com/user/YUPch\nすずしょうと: https://www.youtube.com/channel/UCQl75_ZOEV_pu6kzspZ-Bug\nサラトーク:  https://www.youtube.com/channel/UCI5EaVk4SqQ381xZkPK-jBA\n\n\n■この動画がいいと思ったら、ぜひこれも観てね！♪\n\n・【足でスイカ割りする美人】YouTuberがネットで話題のおもしろ動画をチェック\nhttps://www.youtube.com/watch?v=JXgq_7sw5wk\n・笑ったら負けの爆笑アフレコ：「さて、天国へ」（ヨッピー編）\nhttps://www.youtube.com/watch?v=SGWB9oxJD8g\n・伝説の歌？！　動物が叩くめっちゃイケてるドラムリズム【シュール】\nhttps://www.youtube.com/watch?v=oBgxRiNkJEw\n・笑ったら負けの爆笑アフレコ：「起きてるやろ？」（睡眠編）\nhttps://www.youtube.com/watch?v=hRJigEMYXFY\n・メントスコーラ大惨事のYouTuberまとめ【パート２：女子メントスコーラ】\nhttps://www.youtube.com/watch?v=aVryG58eJNo\n・【○○から花火？！】YouTuberがネットで話題のおもしろ動画をチェック\nhttps://www.youtube.com/watch?v=Jy3qAAPYndo\n・【なわとび】かっこいい驚愕の縄跳びスゴ技まとめ\nhttps://www.youtube.com/watch?v=OVIUYfW6BNc\n・【ムキムキ】筋肉女子のガチ筋トレ激アツまとめ\nhttps://www.youtube.com/watch?v=WCdkFhzTHAQ\n・赤ちゃんが大好きな可愛い犬たちの厳選まとめ【癒し】\nhttps://www.youtube.com/watch?v=EC52V0DQAjs\n\n＝＝＝＝＝＝＝＝＝＝＝\n■Video Pizza（ビデオピッツァ）とは？\n「元気でポジティブ」をコンセプトに世界の面白動画を集めた楽しいチャンネルです。まとめ動画を主として犬や猫、鳥などのペット動画、人の凄技やかっこいい・クールなトリックおよび可愛い赤ちゃんや動物などに癒される幸せになる動画を毎日配信しています。\n\nそれ以外にも、今までにないアフレコ、YouTuberの人気ネタのまとめ動画や日本のトップYouTuberとコラボしたオリジナル動画を配信しています。\n\n＝＝＝＝＝＝＝＝＝＝＝\nUUUMが運営するブランドチャンネルです。\n本動画で使用する動画素材はすべてライセンス許諾されております。本チャンネルの動画を無断で転載、二次利用することを禁止致します。二次利用をご希望の際はお問い合わせください。\nhttp://www.uuum.co.jp/inquiry_promotion\n\n動画素材提供：Jukin Media\n画像素材提供：PIXTA\n\nビデオピッツァで使うBGMと効果音：\nhttp://dova-s.jp/\nhttp://www.music-note.jp/\nhttp://soundeffect-lab.info/\n\n(c) UUUM (c) Jukin Media\nhttp://www.uuum.jp/\nhttp://www.jukinmedia.com/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UQM4_ZSFrWQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UQM4_ZSFrWQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UQM4_ZSFrWQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/UQM4_ZSFrWQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/UQM4_ZSFrWQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 42,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "UQM4_ZSFrWQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/BUD-YBrof7NtU6KvymrcmzbU3Vo\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLl9xNHVIRkVUQ0lR",
+   "snippet": {
+    "publishedAt": "2017-02-28T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Private video",
+    "description": "This video is private.",
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 43,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_q4uHFETCIQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/5A3AgEhURCuA3x5i4X4l1Ah3HxA\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLjQ2bnhuNmVMNzZN",
+   "snippet": {
+    "publishedAt": "2017-02-28T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Best Videos Compilation Week 4 February 2017 || JukinVideo",
+    "description": "Here is our compilation of all the the best, most trending videos on the internet from this week! Everything from the elderly playing with balloons to a girl proposing to her hot nurse in the hospital, we've got something for you! Enjoy!\n\nWatch Next:\n\nhttps://www.youtube.com/watch?v=hNh-x8-CqcU&t=1s&list=PLz9JxPpKRG-Se7PqbLwGiI19K5kPcGU5i&index=1\n\nhttps://www.youtube.com/watch?v=iaLSZ_PtTF0&list=PLC9EEBDE84F2D9D94&index=1\n\nOriginal Link:\n\nSet to Airplane Mode: https://www.youtube.com/watch?v=CkEr-dVCmfY\nGot To Wear A Helmet: https://www.youtube.com/watch?v=wknXHUoJ9OQ\nPuppy At Heart: N/A\nSlipping and Sliding: https://www.youtube.com/watch?v=lu0rbWOikps\nComing Home: https://www.youtube.com/watch?v=e_zXxjKwYfU\nBouncing Around: https://www.youtube.com/watch?v=iMpO32spd7M\nEgg-Ception: https://www.youtube.com/watch?v=qfRUC9aP4ZM\nHidden Waterslide: https://www.youtube.com/watch?v=Y-faeeytevc\nA Protective Mom: https://www.youtube.com/watch?v=b6LD4a9OxjM\nShake It Off: https://instagram.com/p/BPYTe6ogmhZ/\nConfesses Her Love: https://www.youtube.com/watch?v=PE_TiQ1E0UI\nBalloon Game: https://www.facebook.com/504001009763818/videos/515250288638890/\nDidn't Put It In Park: https://www.youtube.com/watch?v=FAqPlUedt-I\nFresh Powder: https://www.facebook.com/carriegwilliams/videos/10155662426199535/\nBungee Jumping: https://instagram.com/p/7BRvq9tEZl/\nGoing For A Hole In 1: https://www.youtube.com/watch?v=rhFo8Y7Nrs4\nNew Best Friends: https://www.youtube.com/watch?v=gzmyQakpTPM\nGreatest Invention: https://www.instagram.com/vernbestintheworld/\nDoggy Head Massage: https://www.facebook.com/nick.ingram.94/videos/10154946465207808/\nCleaning Out The Car: https://www.youtube.com/watch?v=v0dLPRE4kUQ\nKitty Kisses: https://www.youtube.com/watch?v=qmaBvVOuU7I\nGetting Rid Of A Rat: https://twitter.com/jodeball4REALZ/status/832625265239060481\nDone With Walking: https://instagram.com/p/BQQsd-qASZ3/\nLike A Boomerang: https://instagram.com/p/BQVnxR5B7iQ/\n \n\nSUBSCRIBE for awesome videos every day!: http://bit.ly/JukinVideo\nSubmit your video here: http://bit.ly/3-submit-here\n\nLIKE us on FACEBOOK: http://bit.ly/JukinVideoFB\nFOLLOW us on TWITTER: http://bit.ly/JukinVideoTwitter\nShort vids on INSTAGRAM: http://bit.ly/JukinVideoInstagram\nShorter vids on VINE:  http://bit.ly/JukinVideoVine\n\nJukinVideo is the leading viral video community channel dedicated to showcasing the hottest UGC videos from across the web. We love videos and find the best ones to share with you here, from fail videos to ice bucket challenges, and soccer tricks to a baby reacting to Katy Perry's Dark Horse.  The JukinVideo team scours the web 24/7 to find the latest trends and hottest videos.  Subscribe to see them first!\n\nTo license any of the videos shown on JukinVideo, visit Jukin Media at http://jukinmedia.com/licensing",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/46nxn6eL76M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/46nxn6eL76M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/46nxn6eL76M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/46nxn6eL76M/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/46nxn6eL76M/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 44,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "46nxn6eL76M"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/m9ImGib7Pwlw4EhvHwDwx3XP73c\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLllOZlRNMEV1bGJr",
+   "snippet": {
+    "publishedAt": "2017-02-20T00:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "PEOPLE ARE AWESOME 2017 (Kids Edition) | Amazing Talented Kids Compilation",
+    "description": "Check out more awesome kids in our new video: https://www.youtube.com/watch?v=-UybwoT0DEw\n\nThe next generation of People are Awesome video stars are here! This compilation features amazingly talented kids have some incredible skills! Including snowboarding, snowboarding, trick shots to gymnastics. These awesome little kids are the youngest stars of People are Awesome!\n\nMore People are Awesome: \n\nFacebook: https://www.facebook.com/peopleareawesome\nInstagram: https://instagram.com/AllPeopleAreAwesome\nTwitter: http://www.twitter.com/PAAVideos\n\nFor business and licensing enquiries contact: contact@peopleareawesome.com \n\nMUSIC: \nTitle: Draper - Ready For Us (feat. Sykes)\niTunes Download Link: https://itunes.apple.com/ca/album/ready-for-us-feat.-sykes-single/id1127488292\nListen on Spotify: https://open.spotify.com/album/696FPNqsacccgiZgRbxKPB\nVideo Link: https://www.youtube.com/watch?v=YcK3XCEeTsg\n\n0:00 - https://www.youtube.com/watch?v=DpRFtt6oCeI\n0:03 - https://www.instagram.com/isabelladawn11/\n0:07 - https://www.instagram.com/leavingearth/\n0:11 - https://instagram.com/p/BGp0TNlmXiB/\n0:16 - https://www.instagram.com/p/BAIRDMElrhP/\n0:25 - https://instagram.com/p/BAhCtyHMLde/\n0:40 - https://www.instagram.com/leavingearth/\n0:46 - https://instagram.com/p/BPA5kRDjJ_f/\n0:59 - https://www.youtube.com/watch?v=b3meR0HdkuM\n1:04 - https://www.youtube.com/watch?v=5J1hXlom_sQ\n1:08 - https://www.instagram.com/samayacg/\n1:15 - https://www.facebook.com/jon.bates.522fitcoach/videos/10209514288039915/\n1:19 - https://www.youtube.com/watch?v=ZrTURkM3k4c\n1:25 - https://www.instagram.com/p/BMSKqevhiMe/\n1:40 - https://instagram.com/p/_KaJfdIRPo/\n1:45 - https://www.youtube.com/watch?v=6oKP5KiFy_Q\n1:50 - https://www.youtube.com/watch?v=OigwalexMaw\n1:53 - https://instagram.com/p/BCY_6sCyvxk/\n1:59 - https://www.youtube.com/watch?v=oYE99kAvkHE\n2:07 - https://www.youtube.com/watch?v=DpRFtt6oCeI\n2:09 - https://www.instagram.com/keylskills/\n2:13 - https://instagram.com/p/BGotYuhp6fJ/\n2:18 - https://www.instagram.com/Vicky_violet_sapphire/\n2:30 - https://www.youtube.com/watch?v=DpRFtt6oCeI\n2:34 - https://instagram.com/p/5oUUjAMLST/\n2:40 - https://www.instagram.com/p/BNPhSaYBonB/\n2:52 - https://www.youtube.com/watch?v=KuvmR20yCe8\n2:54 - https://www.facebook.com/danieljtrujilloskate\n2:58 - https://instagram.com/p/BBevrIiSOAy/\n3:01 - https://www.youtube.com/watch?v=TjBFLi1P9kY\n3:07 - https://www.youtube.com/watch?v=DpRFtt6oCeI\n3:11 - https://www.facebook.com/vincent.walker.7359/posts/10103345529474178\n3:15 - https://instagram.com/p/BDOEvSvtcLw/\n\n\nPEOPLE ARE AWESOME is the number one destination for amazing, original videos and compilations of ordinary people doing extraordinary things. We feature all sorts of different extreme sports and activities other amazing feats, including parkour, skateboarding, tricking, cliff diving, wingsuit flying, skiing, snowboarding, surfing, BMX, acrobatics, calisthenics, cheerleading, freestyle football, basketball dunks, extreme pogo, freerunning, cycling, kayaking, frisbee trick shots, golf, martial arts, BASE jumping and many, many more a host of other action sports! Whether you’re searching in 2016 or any other year, check out our amazing and original action sports videos in HD where we show you why we think people are awesome!\n\nTo license any of the videos shown on People are Awesome, visit Jukin Media at http://jukinmedia.com/licensing",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YNfTM0Eulbk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YNfTM0Eulbk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YNfTM0Eulbk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/YNfTM0Eulbk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/YNfTM0Eulbk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 45,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "YNfTM0Eulbk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/j-QctDlR3fL1x13JWUWZD3BD2ms\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLjc0MVhEZUxMbTRN",
+   "snippet": {
+    "publishedAt": "2017-02-02T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Funny Rodent Videos Compilation from the JukinVideo Vault",
+    "description": "It's Groundhog Day 2017 so we're celebrating with a compilation filled with funny rodent videos (not just rats and mice)!  As Bill Murray has learned, things tend to repeat themselves on this special day.\n\nWatch Next:\n\n https://www.youtube.com/watch?v=iyzywI3W97A&index=1&list=PLz9JxPpKRG-RMcih7fFaQDzoqZIXR0c2x&t=2s\n\n https://www.youtube.com/watch?v=-9MEU79uGCg&index=1&list=PLz9JxPpKRG-Se7PqbLwGiI19K5kPcGU5i&t=6s\n\nSUBSCRIBE for awesome videos every day!: http://bit.ly/JukinVideo\nSubmit your video here: http://bit.ly/3-submit-here\n\nLIKE us on FACEBOOK: http://bit.ly/JukinVideoFB\nFOLLOW us on TWITTER: http://bit.ly/JukinVideoTwitter\nShort vids on INSTAGRAM: http://bit.ly/JukinVideoInstagram\nShorter vids on VINE:  http://bit.ly/JukinVideoVine\n\nJukinVideo is the leading viral video community channel dedicated to showcasing the hottest UGC videos from across the web. We love videos and find the best ones to share with you here, from fail videos to ice bucket challenges, and soccer tricks to a baby reacting to Katy Perry's Dark Horse.  The JukinVideo team scours the web 24/7 to find the latest trends and hottest videos.  Subscribe to see them first!\n\nTo license any of the videos shown on JukinVideo, visit Jukin Media at http://jukinmedia.com/licensing",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/741XDeLLm4M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/741XDeLLm4M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/741XDeLLm4M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/741XDeLLm4M/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/741XDeLLm4M/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 46,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "741XDeLLm4M"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/UQVPNXINl5b_6Vt1te1P8PJYRM8\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLklTRGFXLVJhXy1J",
+   "snippet": {
+    "publishedAt": "2017-01-20T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "SKIING SIMU... WAIT WHAT? - Skeal - Simulator Spotlight (Gameplay)",
+    "description": "Skeal is just your average ski simulator and... wait. Hold on. What? What even is this?\n\nFacebook: https://www.facebook.com/VideoGamsCanada\nTwitter: https://twitter.com/VideoGamsCanada\n\nPlay Skeal: http://whymog.itch.io/skeal-web",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ISDaW-Ra_-I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ISDaW-Ra_-I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ISDaW-Ra_-I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ISDaW-Ra_-I/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ISDaW-Ra_-I/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 47,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ISDaW-Ra_-I"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/nUN9gqVP-eYkxlk438KwM_8lT6s\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLjRLZUhVSHdWQXA0",
+   "snippet": {
+    "publishedAt": "2016-12-30T16:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "New Year's Video Compilation 2016 from the JukinVideo Vault",
+    "description": "We're celebrating the end of 2016 with a party themed video compilation filled with all our favorite New Year's Eve traditions: fireworks, champagne, dancing and party fails!  From all of us at JukinVideo, be safe this New Year's Eve and have a fantastic 2017!\n\nWatch Next:\n https://www.youtube.com/watch?v=u-FIglqLVZY&index=4&list=PLz9JxPpKRG-QOsK5iRkxkJicbxYXPQnPe\n\nhttps://www.youtube.com/watch?v=TWhOPBZQ1l4\n\n\nSUBSCRIBE for awesome videos every day!: http://bit.ly/JukinVideo\nSubmit your video here: http://bit.ly/3-submit-here\n\nLIKE us on FACEBOOK: http://bit.ly/JukinVideoFB\nFOLLOW us on TWITTER: http://bit.ly/JukinVideoTwitter\nShort vids on INSTAGRAM: http://bit.ly/JukinVideoInstagram\nShorter vids on VINE:  http://bit.ly/JukinVideoVine\n\nJukinVideo is the leading viral video community channel dedicated to showcasing the hottest UGC videos from across the web. We love videos and find the best ones to share with you here, from fail videos to ice bucket challenges, and soccer tricks to a baby reacting to Katy Perry's Dark Horse.  The JukinVideo team scours the web 24/7 to find the latest trends and hottest videos.  Subscribe to see them first!\n\nTo license any of the videos shown on JukinVideo, visit Jukin Media at http://jukinmedia.com/licensing",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4KeHUHwVAp4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4KeHUHwVAp4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4KeHUHwVAp4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/4KeHUHwVAp4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/4KeHUHwVAp4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 48,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4KeHUHwVAp4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/kXEHP3ouvq4bKAbAp2Efk67Q8qM\"",
+   "id": "TExQRGlzOXBqWHVxeUk3UllMSi1UVFNBLk82TFFVS2xjTWVV",
+   "snippet": {
+    "publishedAt": "2016-12-25T00:00:00.000Z",
+    "channelId": "UCPDis9pjXuqyI7RYLJ-TTSA",
+    "title": "Cat attacks over Christmas gift.",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/O6LQUKlcMeU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/O6LQUKlcMeU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/O6LQUKlcMeU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/O6LQUKlcMeU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/O6LQUKlcMeU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "FailArmy",
+    "playlistId": "LLPDis9pjXuqyI7RYLJ-TTSA",
+    "position": 49,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "O6LQUKlcMeU"
+    }
+   }
+  }
+ ]
+}
