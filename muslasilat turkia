@@ -1,5 +1,5 @@
 {
-  "parmiter": [ 
+  "parmiter": [
     {
       "urlap": "org.archive.examplevideo",
       "b1": "5337188446",
@@ -14,6 +14,11 @@
   ],
   "magazani": [
     {
+      "user": "مسلسل جسور والجميلة",
+      "photo": "http://www.wataan.com/uploads/28102017-063253AM-1.jpg",
+      "viul": "https://raw.githubusercontent.com/atifff/mosika/master/مسلسل%20جسور%20والجميلة"
+    },
+    {
       "user": "مسلسل لن اتخلى ابد",
       "photo": "http://d.haberexen.com/news/452055.jpg",
       "viul": "https://raw.githubusercontent.com/atifff/mosika/master/%D9%85%D8%B3%D9%84%D8%B3%D9%84%20%D9%84%D9%86%20%D8%A7%D8%AA%D8%AE%D9%84%D9%89%20%D8%A7%D8%A8%D8%AF%D8%A7"
@@ -27,16 +32,21 @@
       "user": "الأزهار الحزينة",
       "photo": "http://img2.bokracdn.com/newbokra//28-06-2015/800x440/0558d3b59d8c39_thumbl.jpg",
       "viul": "https://raw.githubusercontent.com/atifff/mosika/master/الأزهار%20الحزينة"
-     },
+    },
     {
       "user": "الحب لا يفهم الكلام",
       "photo": "http://img2.bokracdn.com/newbokra//27-11-2016/800x440/00161311055430.jpg",
       "viul": "https://raw.githubusercontent.com/atifff/mosika/master/مسلسل%20الحب%20لا%20يفهم%20الكلام"
-     },
+    },
     {
       "user": "عشرين دقيقة  ",
       "photo": "http://images.alarab.com/data/tv/20130821193051.jpg",
       "viul": "https://raw.githubusercontent.com/atifff/mosika/master/20%20دقيقة"
+    },
+    {
+      "user": "للعشق جنون",
+      "photo": "http://shahid4u.tv/wp-content/uploads/2017/08/Ishqbaaz-490x640.jpg",
+      "viul": "https://raw.githubusercontent.com/atifff/mosika/master/للعشق%20جنون"
     }
   ]
 }
