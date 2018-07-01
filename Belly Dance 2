@@ -1,0 +1,2155 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/nDw5lfel2N3b_XX8jqIrUYPaQDM\"",
+ "pageInfo": {
+  "totalResults": 49,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/dydvyiyeqDZlT1MKa3RSVkFV3K8\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:30:00.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "YARA DAGHER VENUS 2017",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/K8J1ArPyNhU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/K8J1ArPyNhU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/K8J1ArPyNhU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/K8J1ArPyNhU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/K8J1ArPyNhU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "K8J1ArPyNhU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/nbSNyxyttUwgScGS-u4Znzu8B88\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:30:13.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Yara Dagher-Mediterranean Delight 2013, Greece, Closing Gala",
+    "description": "Yara Dagher from Syria performing at the \"Mediterranean Delight  Festival\"' 2013, Loutraki, Greece, Closing Gala.\nwww.bellydancefestival.net",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qUKq_phHebw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qUKq_phHebw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qUKq_phHebw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/qUKq_phHebw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/qUKq_phHebw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "qUKq_phHebw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/rP5MG7tv_fIvGffPJUVrvHlEOLA\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy41MjE1MkI0OTQ2QzJGNzNG",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:30:31.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "ELENA EGOROVA. BATEREFRLIK @AHSAN NAS 2013",
+    "description": "Permormance at the \"Ahsan Nas\" Gala-show (Odessa, Ukraine, 23-26/08/2013)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ySxV6xywzcc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ySxV6xywzcc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ySxV6xywzcc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ySxV6xywzcc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ySxV6xywzcc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ySxV6xywzcc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Lo-KpYPjKjLXenymhaDVW143xnk\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:30:42.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Vanessa Elizabeth @ Synthesis (2015 Jan)",
+    "description": "Synthesis: Contemporary - an evening on non-traditional belly dance solos and duets.\nHosted by Seraka Dance Company. \nThe Rocket Room, St. John's NL  |  2015 Sat Jan 24. \n\n\n✫ Web: www.seraka.com \n✫ Email: info@seraka.com \n✫ Twitter: @SerakaDanceCo \n✫ Facebook: www.facebook.com/SerakaDanceCo \n\nThis video is presented to you for entertainment value only.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/n5Em4_bx77c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/n5Em4_bx77c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/n5Em4_bx77c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/n5Em4_bx77c/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/n5Em4_bx77c/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "n5Em4_bx77c"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/LOwrL3VC3s5UrypquVIOpgoOr6c\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:30:51.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Bella Goldbaum-\"Habibi Ya Eini\" Festival 4, Oct 2013",
+    "description": "Bella Goldbaum-\"Habibi Ya Eini\" Festival 4, Oct 2013",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GAekhAIeUlw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GAekhAIeUlw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GAekhAIeUlw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/GAekhAIeUlw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/GAekhAIeUlw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "GAekhAIeUlw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/nv-6Ef_gdWhGpDfzO1h0GkiAn-E\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy41MzJCQjBCNDIyRkJDN0VD",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:31:00.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Ashmina Karem Drum solo",
+    "description": "Gala Internacional Egipto en Barcelona Febrero 2015\nVestuario: Gilda Zaldivar & Carmen Valdez\nCoreografia: Ashmina Karem",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8_ss4U_SY50/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8_ss4U_SY50/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8_ss4U_SY50/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/8_ss4U_SY50/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "8_ss4U_SY50"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/vSacqZy8j1S-WswkeTdCVRMQdpY\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy5DQUNERDQ2NkIzRUQxNTY1",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:31:12.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Yassmin (Samra ya samra) - الراقصة الروسية ياسمين",
+    "description": "Yassmin Page:\nhttps://orientaldancelover.blogspot.com.eg/p/yasmin-al-asuan-bellydancer.html\nYassmin Playlist:\nhttps://www.youtube.com/watch?v=09clGhuNTDY&list=PLfovO7iUJOqXvgTu-cTAl2xJ84Z8KMgeC\nرقص شرقى - إشترك فى القناة ليصلك فيديوهات الرقص البلدي\nSubscribe to the channel to receive free videos of municipal dance",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ziElNfSoBFQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ziElNfSoBFQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ziElNfSoBFQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ziElNfSoBFQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ziElNfSoBFQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/PDGkV3zbI6wU51CJVwjqBytMwCw\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy45NDk1REZENzhEMzU5MDQz",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:31:25.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Tabel .Y.I. BktJalil Remix HD",
+    "description": "Al Bint Al Arabia",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/odwOOVpMncQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/odwOOVpMncQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/odwOOVpMncQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/odwOOVpMncQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/odwOOVpMncQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "odwOOVpMncQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/fcQmK3XBBjSD4YHvc3souPT6DAg\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy5GNjNDRDREMDQxOThCMDQ2",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:31:35.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Amina Zhumagali! ALMAZ FESTIVAL 2018! Baladi with tabla",
+    "description": "Международный фестиваль Восточного танцевального искусства \"АЛМАЗ\" 2018\nГород Уфа\nОрганизатор: Яна Гильмутдинова\nПедагог: Индира Касимова\nДизайн: Индира касимова\nОркестр Балади+Табла Дети 10-11 лет любители - 1 место",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/v4aOqFn8vu4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/v4aOqFn8vu4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/v4aOqFn8vu4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/v4aOqFn8vu4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/v4aOqFn8vu4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "v4aOqFn8vu4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Jy4FInHBlqyIGlYS4gONJ24Xf1Y\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy40NzZCMERDMjVEN0RFRThB",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:31:43.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Amina Zhumagali! ALMAZ FESTIVAL 2018! Basbousa",
+    "description": "Международный фестиваль Восточного танцевального искусства \"АЛМАЗ\" 2018\nГород Уфа\nОрганизатор: Яна Гильмутдинова\nПедагог: Индира Касимова\nДизайн: Гульден Фаткулла\nОркестр Шааби Дети 10-11 лет продолжающие - 2 место",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RFnEj4xrwys/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RFnEj4xrwys/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RFnEj4xrwys/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/RFnEj4xrwys/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/RFnEj4xrwys/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "RFnEj4xrwys"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/xYU_VOzZiIAYO6ZcOGGIRO376a0\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy5EMEEwRUY5M0RDRTU3NDJC",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:31:50.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Orit Maftsir - Baladi and Shaabi with audience (Tales of Sahara 2013)",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/sFwocACCNx4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/sFwocACCNx4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/sFwocACCNx4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/sFwocACCNx4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/sFwocACCNx4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "sFwocACCNx4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/gHxHYYyX6yaDDlssHTSbhRTSy3E\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy45ODRDNTg0QjA4NkFBNkQy",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:32:02.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Orit Maftsir oriental class in Palmanova Italy 2016- bellydance music by Sayed Ballaha",
+    "description": "Bellysimo weeklong orgenized by Simona Minsini",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pxGVat29KUs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pxGVat29KUs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pxGVat29KUs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/pxGVat29KUs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/pxGVat29KUs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "pxGVat29KUs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/g3_Wk_PFntnQbJzEDloxjyjONu8\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy4zMDg5MkQ5MEVDMEM1NTg2",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:32:09.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Polina Mytko | Belly Dance | Melhem Barakat - Ala Babi Waef Amarein",
+    "description": "Polina Mytko at Oriental Fairytales 2015 Gala International",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KDxesDGgbUY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KDxesDGgbUY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KDxesDGgbUY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/KDxesDGgbUY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/KDxesDGgbUY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "KDxesDGgbUY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/OlT_IT1viNUze0clEi8xO4F3Uvk\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy41Mzk2QTAxMTkzNDk4MDhF",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:32:18.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Ewa Dziedziniewicz- Ala Babi Waef Amarin",
+    "description": "Shisha Party 2013\nImprovisation with the band of Katia Eshta",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6MJigUcoR_U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6MJigUcoR_U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6MJigUcoR_U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/6MJigUcoR_U/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "6MJigUcoR_U"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/QRJtyGB8GaUPTukI70CtIlPx1_U\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy5EQUE1NTFDRjcwMDg0NEMz",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:32:28.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Ala Babbi Waef Amareen (KL,Malaysia 2012)",
+    "description": "dancing to my all time favourite .....no choreography to this....expressed it thru lyrics and melody...\nThanks to Liz Chan from Khatira dance for inviting and organising this event..",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ip4s1zZRR4E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ip4s1zZRR4E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ip4s1zZRR4E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ip4s1zZRR4E/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ip4s1zZRR4E"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/PyEC_C0w3X_n4reZq6eT3NH7_Hw\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy41QTY1Q0UxMTVCODczNThE",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:32:36.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Anisah Bellydancer - Zahle - Gulf Hotel Bahrain - Ala Babi Wa2ef Amarein",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cFD91jiJHd8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cFD91jiJHd8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cFD91jiJHd8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/cFD91jiJHd8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/cFD91jiJHd8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "cFD91jiJHd8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/y54JT3WG-UIO9gVk7KWo7B9fj0g\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy4yMUQyQTQzMjRDNzMyQTMy",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:32:46.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "ZAINA Ewa Dziedziniewicz- Live Oriental Bazaar- Alby eshekha",
+    "description": "Performance with the Mazzikatea Orchestra during the gala show of the Oriental Bazaar Festival organised by Aleksei Riaboshapka \noriental-art.net, Kiev 2017",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oueORwvUG0Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oueORwvUG0Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oueORwvUG0Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/oueORwvUG0Y/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/oueORwvUG0Y/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "oueORwvUG0Y"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/BQI4nc00oQ01WiT51fg7e8UNm_4\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy45RTgxNDRBMzUwRjQ0MDhC",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:33:02.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Best California Belly Dancer \"Nathalie\" dancing \"An Eznak\" At Cairo Nights Show",
+    "description": "Best California Belly Dancer \"Nathalie\" dancing \"An Eznak\" At Cairo Nights show, at Beyond the Stars palace ,Glendale California 8/31/14\nMusic Dr Samy Farag\nproduced by Sphinx Records\nFilmed by Armen Aleksanyan",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QgcFYhYgrvQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QgcFYhYgrvQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QgcFYhYgrvQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "QgcFYhYgrvQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/exFWWGTx1nos_yH941DaQiUe3xo\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy5ENDU4Q0M4RDExNzM1Mjcy",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:33:10.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Margarita Darina, Shaabi. 6 \"Oriental Passion\" Festival Greece.",
+    "description": "Choreo by Lubna Emam\nCostume by Elena Rudkovskaya\nMusic by Reda Saad\nVideo by Darva photography",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2pBajdKRWLk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2pBajdKRWLk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2pBajdKRWLk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/2pBajdKRWLk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/2pBajdKRWLk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "2pBajdKRWLk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/ZBrjURROAVkYIOC6-mRJTDVSqcY\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy4yMDhBMkNBNjRDMjQxQTg1",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:33:20.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Школа классического восточного танца Nurishance",
+    "description": "http://vk.com/nuridance\nhttp://www.nurishance.ru/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/J0hZsBp2h6g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/J0hZsBp2h6g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/J0hZsBp2h6g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/J0hZsBp2h6g/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "J0hZsBp2h6g"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/uJ3YJ3WAj_hJVwRI0RtXdi_Fxrg\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy5GM0Q3M0MzMzY5NTJFNTdE",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:33:27.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "2017/07/08 Jimin Park 'Bahiya' in Pusan,Korea high quality ver.",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mpyKt19XObA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mpyKt19XObA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mpyKt19XObA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/mpyKt19XObA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/mpyKt19XObA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 20,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "mpyKt19XObA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/ZbkBmCTkgSLSYP2XgPzOsZSrXjo\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy4zRjM0MkVCRTg0MkYyQTM0",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:34:13.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Radmila Dobrynina at Ahlan wa Sahlan festival. summer 2015 Teachers Show",
+    "description": "Radmila Dobrynina at Ahlana wa Sahlan festival 2015 . Teachers show!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wchy-QMhDRI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wchy-QMhDRI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wchy-QMhDRI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/wchy-QMhDRI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/wchy-QMhDRI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 21,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "wchy-QMhDRI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/p0-sXb9EJKEao_qcNSQQrK0d758\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy45NzUwQkI1M0UxNThBMkU0",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:34:21.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Radmila Dobrynina at Ahlan wa Sahlana festival 2014. Gala closing",
+    "description": "Gala closing at Ahlan wa sahlan festival 2014. oriental and shaaby",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/CGPekp9EMAU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/CGPekp9EMAU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/CGPekp9EMAU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/CGPekp9EMAU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/CGPekp9EMAU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 22,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "CGPekp9EMAU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/XTneZFHmOfoeggjISiLLUN356EE\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy5DNzE1RjZEMUZCMjA0RDBB",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:34:30.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "EGYPT CUP-2016 BELLYDANCE GALA OPENING YULIA REDKOUS BELLYDANCER",
+    "description": "Egypt Cup-2016 by Katia Eshta superstar bellydancer gala opening show Yulia Redkous bellydancer (Russia) \nhttp://www.cairomirage.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/G2PcmywfLDw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/G2PcmywfLDw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/G2PcmywfLDw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/G2PcmywfLDw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/G2PcmywfLDw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 23,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "G2PcmywfLDw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Oo9bllY0IG6n_NM9WfYHvLu8QzE\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy43MTI1NDIwOTMwQjIxMzNG",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:34:42.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Sahar at Redwood Coast Bellydance Festival",
+    "description": "Redwood Coast Belly dance festival, Arcata, Sahar, belly dance",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ul5uyjoB6w8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ul5uyjoB6w8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ul5uyjoB6w8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 24,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ul5uyjoB6w8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/cwavpTPTqymhs9RImn5p_jLEhC4\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:34:50.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "رقص شرقي روعه علي اغنية انت واحشنى للنجم سعيد الحلو مع تحيات نيو ستار",
+    "description": ".\nمتنساش تعمل لايك (👍) وتشترك في القناة (✔) https://goo.gl/6j2R4y  . فعل زر التنبيهات (🔔) علشان تشوف الفيديو اول ما ينزل .\n----\nأتفرج اكتر علي أحلي رقص و اجمل الااغاني المصرية 2018 - 2019 \n1 : أحلي رقص مولع نار 2018\nhttps://goo.gl/BsHq3W\n2 : أجمل رقص دلع 2018  - 2019 \nhttps://goo.gl/r6X4ju\n3 : أقوي رقص حفلات 2018 - 2019 \nhttps://goo.gl/zwUeG3\n\nأستمتعوا معنا باقدم و أحدث الاغاني الشعبية\nـــــــــــــــــــــــــــــــــــــــــــــــــــــــ\nهذه القناة مدعومة برعاية شركة تكوين ، لطلب الأنضمام للشركة برجاء الأشتراك من اللينك التالي :\nhttps://goo.gl/VWD6VP\n\n© Powered by Takwene",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/i_AiiEVTPg0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/i_AiiEVTPg0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/i_AiiEVTPg0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/i_AiiEVTPg0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/i_AiiEVTPg0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 25,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "i_AiiEVTPg0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/H3NwhyzMcbKdhP9X-qmLKC9uHZA\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy4yQUE2Q0JEMTk4NTM3RTZC",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:35:00.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "رقص يهوس علي اغنية مفاضلش غير دمعه للنجم فهد عبد العزيز مع تحيات الخيام",
+    "description": ".\nمتنساش تعمل لايك (👍) وتشترك في القناة (✔) https://goo.gl/6j2R4y  . فعل زر التنبيهات (🔔) علشان تشوف الفيديو اول ما ينزل .\n----\nأتفرج اكتر علي أحلي رقص و اجمل الااغاني المصرية 2018 - 2019 \n1 : أحلي رقص مولع نار 2018\nhttps://goo.gl/BsHq3W\n2 : أجمل رقص دلع 2018  - 2019 \nhttps://goo.gl/r6X4ju\n3 : أقوي رقص حفلات 2018 - 2019 \nhttps://goo.gl/zwUeG3\n\nأستمتعوا معنا باقدم و أحدث الاغاني الشعبية\nـــــــــــــــــــــــــــــــــــــــــــــــــــــــ\nهذه القناة مدعومة برعاية شركة تكوين ، لطلب الأنضمام للشركة برجاء الأشتراك من اللينك التالي :\nhttps://goo.gl/VWD6VP\n\n© Powered by Takwene",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RPR1Su5pR94/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RPR1Su5pR94/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RPR1Su5pR94/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/RPR1Su5pR94/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/RPR1Su5pR94/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 26,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "RPR1Su5pR94"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/HBSH3uA-82rc1wdGLaHmudD4F4U\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy5DMkU4NTY1QUFGQTYwMDE3",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:35:07.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "رقص اخر حلاوه علي اغنية مش هنسهالك للنجمه مريم جمال مع تحيات انغام الشرقيه",
+    "description": ".\nمتنساش تعمل لايك (👍) وتشترك في القناة (✔) https://goo.gl/6j2R4y  . فعل زر التنبيهات (🔔) علشان تشوف الفيديو اول ما ينزل .\n----\nأتفرج اكتر علي أحلي رقص و اجمل الااغاني المصرية 2018 - 2019 \n1 : أحلي رقص مولع نار 2018\nhttps://goo.gl/BsHq3W\n2 : أجمل رقص دلع 2018  - 2019 \nhttps://goo.gl/r6X4ju\n3 : أقوي رقص حفلات 2018 - 2019 \nhttps://goo.gl/zwUeG3\n\nأستمتعوا معنا باقدم و أحدث الاغاني الشعبية\nـــــــــــــــــــــــــــــــــــــــــــــــــــــــ\nهذه القناة مدعومة برعاية شركة تكوين ، لطلب الأنضمام للشركة برجاء الأشتراك من اللينك التالي :\nhttps://goo.gl/VWD6VP\n\n© Powered by Takwene",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/akMY_Tc2T1A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/akMY_Tc2T1A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/akMY_Tc2T1A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/akMY_Tc2T1A/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/akMY_Tc2T1A/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 27,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "akMY_Tc2T1A"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/A2N4nJrg1U_q07U15svB7BHXoCU\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy44Mjc5REFBRUE2MTdFRDU0",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:35:15.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Yulia Volodarsky -belly dance",
+    "description": "Yulia Volodarsky -belly dance\nVideo : Avi Has\nEilat Festival",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/g1ifuqmM9Ps/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/g1ifuqmM9Ps/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/g1ifuqmM9Ps/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/g1ifuqmM9Ps/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/g1ifuqmM9Ps/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 28,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "g1ifuqmM9Ps"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/8evNQGzdMxP91-rfdUh7bxSjhnI\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy43NDhFRTgwOTRERTU4Rjg3",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:35:22.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "שרון כהן - פסטיבל ריקודי בטן \"חביבי יא עייני\"בשפיים 2011",
+    "description": "אתר הפסטיבל http://www.bellydance-israel.co.il/\r\nצילום :אבי חסון",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2vXfDagI8gM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2vXfDagI8gM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2vXfDagI8gM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/2vXfDagI8gM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/2vXfDagI8gM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 29,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "2vXfDagI8gM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/k-pEDWx5pRBGTpP2XWfe1p3OHIE\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy41QUZGQTY5OTE4QTREQUU4",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:35:30.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "שרון כהן וסבאח זבידה בריקוד מתוך רקדניות קהיר היכל המוסיקה העיראקית Iraqi music",
+    "description": "للاشتراك في القناة، انقر هنا\nhttps://www.youtube.com/user/tvir98?s...\nTo subscribe to the channel click here\nhttps://www.youtube.com/user/tvir98?s...\nלהרשמה לערוץ לחצו כאן \nhttps://www.youtube.com/user/tvir98?s...\n\nכל הזכויות שמורות ל היכל המוסיקה העיראקית © \nחומרי ארכיון ,כל העתקה חייבת בכתב אישור מהיכל המוסיקה העיראקית.\nאין להוריד,להעתיק,לשכפל,להפיץ בDVD,או למסחר את החומר המצולם והשמע.\nללא אישור מראש. \nהתוכנית משודרת בטלוויזיה בערוץ 98 \nב YES.HOT.\nיום שלישי 14:00\nשבת 13:30",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xORrnYeuZr8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xORrnYeuZr8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xORrnYeuZr8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/xORrnYeuZr8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/xORrnYeuZr8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 30,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "xORrnYeuZr8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/_GQdywfgrWKWP6200z7e1TBg6kY\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy4zRDBDOEZDOUM0MDY5NEEz",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:35:38.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Shenai a Falisha dancers- Mahragan shaabi (new shaabi)",
+    "description": "Shenai and Falisha dancers group performing mahragan shaabi on International Let´s dance festival Prague. \n\nwww.falisha.cz",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3NqX7sW8H1U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3NqX7sW8H1U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3NqX7sW8H1U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/3NqX7sW8H1U/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/3NqX7sW8H1U/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 31,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "3NqX7sW8H1U"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/eAjm2u_vGLrKXVfHSLzysk1ykNw\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy5CMEQ2Mjk5NTc3NDZFRUNB",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:35:47.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Oriental Fairytales 2014 Gala show - Aruena performing funny shaabi bellydance - Belgrade, Serbia",
+    "description": "Oriental Fairytales 2014 Festival organized by Aruena. Aruena performing funny shaabi bellydance. Choreo by Aruena. Enjoy!\nIf you want to organize belly dance event with Aruena as a teacher or performer or both, please feel free to contact us.\nOur mail: aruenaskolaplesa@gmail.com\nhttp://www.aruenaorijentalniples.com/",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/By7cNRL07EY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/By7cNRL07EY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/By7cNRL07EY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/By7cNRL07EY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/By7cNRL07EY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 32,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "By7cNRL07EY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/AkD2s-tyHidbTnrqbuXG-BoKTCU\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy42MTI4Njc2QjM1RjU1MjlG",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:35:56.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Ashmina Karem Shaabi ¨El KhoKha¨",
+    "description": "Bellydancer of the Universe 2012 Champion of Champion´s\n\nEvento organizado por Marina Tocavera\nGala Ruh en la ciudad de Monterrey Mexico.\n\n\nComparte escenario con la grandiosa Daria Mitskevich",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/puC2S3_Tki4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/puC2S3_Tki4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/puC2S3_Tki4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/puC2S3_Tki4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/puC2S3_Tki4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 33,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "puC2S3_Tki4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/XNMIzKeyPdxNKcxc3xDMCGRdj9c\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy45RjNFMDhGQ0Q2RkFCQTc1",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:36:04.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Iris Sukara Shaabi - Escola de Dansa Oriental Rosadela June 2012",
+    "description": "Iris Sukara interpretando el Shaabi ElBet ElGamda de en el VI festival de Fin de Curso Escola Rosadela.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nwDSwQDYZ5A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nwDSwQDYZ5A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nwDSwQDYZ5A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/nwDSwQDYZ5A/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/nwDSwQDYZ5A/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 34,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "nwDSwQDYZ5A"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/ra951idZGIdrviISfnk1lOU--XQ\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy40QTA3NTU2RkM1QzlCMzYx",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:36:11.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Rosadela in teachers gala - Ahlan Wa Sahlan 2011 - Maa Yemak",
+    "description": "Rosadela performing in the teachers gala, the firts spanish bellydancer who teach in this important festival organized  by Raqia Hassan in Egypt.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_tk7A5tKYow/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_tk7A5tKYow/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_tk7A5tKYow/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/_tk7A5tKYow/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 35,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_tk7A5tKYow"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/YCB7h7VuDgMi7Uv9VMF3FyivRFA\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy5BRjJDODk5REM0NjkzMUIy",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:36:47.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Elena Pirogova - improvisation with \"Al Azdeeka\" live band",
+    "description": "The performance on the Teacher's Show of International Ethno Dance Festival.\nSaint Petersburg. August, 2016.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pn1_8p_W0DU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pn1_8p_W0DU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pn1_8p_W0DU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/pn1_8p_W0DU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/pn1_8p_W0DU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 36,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "pn1_8p_W0DU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/IqN4uv5sKnQ4bFuPNg65MasQfIA\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy4xOTEzQzhBQzU3MDNDNjcz",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:36:56.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Elena Pirogova \"Pussy Cat\" on Galabeya Party in Tokyo",
+    "description": "The performance on Galabeya Party in Tokyo, Japan.\nJune, 2015.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qjpK_lz-8mg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qjpK_lz-8mg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qjpK_lz-8mg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/qjpK_lz-8mg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/qjpK_lz-8mg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 37,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "qjpK_lz-8mg"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/AaoT5W3SWNMMuhFsPNLvFahx_pg\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy5GNDg1Njc1QzZERjlFRjE5",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:37:03.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Elena Pirogova Street Shaaby - Nile Group Dance Party",
+    "description": "Choreography by Osama Emam.\nInternational Festival Nile Group, Cairo. June, 2014.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pB0y6i4Rdpo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pB0y6i4Rdpo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pB0y6i4Rdpo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/pB0y6i4Rdpo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/pB0y6i4Rdpo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 38,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "pB0y6i4Rdpo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/jAt_gm1OskIpsPzL0PlsSV8j2mI\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy4zQzFBN0RGNzNFREFCMjBE",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:37:14.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Elena Pirogova Street Shaaby. \"Ethno Dance - 2013\", Dance Party.",
+    "description": "Choreography by Ousama Emam.\nInternational Oriental Dance Festival \"Ethno Dance - 2013\".\nSaint-Petersburge. August, 2013.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/g-e6Fq62SEQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/g-e6Fq62SEQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/g-e6Fq62SEQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/g-e6Fq62SEQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/g-e6Fq62SEQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 39,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "g-e6Fq62SEQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/fqR_9hHAQoN9sZcmhwf2-Ufaii8\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy45NkVENTkxRDdCQUFBMDY4",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:37:22.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Elena Pirogova Street Shaabi - the 1st winner of \"Alessandria Cup\"",
+    "description": "\"Alessandria Cup\", Moscow.\nNovember, 2013.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TXk1CcpXCGk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TXk1CcpXCGk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TXk1CcpXCGk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/TXk1CcpXCGk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/TXk1CcpXCGk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 40,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "TXk1CcpXCGk"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/8wls1PolKcRZFwWHJzAFRp8NrHg\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy5DNkMwRUI2MkI4QkI4NDFG",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:37:30.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "стрит шааби",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/q4YQupH6_J0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/q4YQupH6_J0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/q4YQupH6_J0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/q4YQupH6_J0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/q4YQupH6_J0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 41,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "q4YQupH6_J0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/aS0b17u-zpU3nCcvAq1JJjjxqmk\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy5DRUQwODMxQzUyRTlGRkY3",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:37:37.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "اجمل رقص شرقي علي اجمل اغنيه كيفك  للنجم محسن هارون",
+    "description": "متنساش تعمل لايك (👍) وتشترك في القناة (✔) https://goo.gl/6j2R4y  . فعل زر التنبيهات (🔔) علشان تشوف الفيديو اول ما ينزل .\n----\nأتفرج اكتر علي أحلي رقص و اجمل الااغاني المصرية 2018 - 2019 \n1 : أحلي رقص مولع نار 2018\nhttps://goo.gl/BsHq3W\n2 : أجمل رقص دلع 2018  - 2019 \nhttps://goo.gl/r6X4ju\n3 : أقوي رقص حفلات 2018 - 2019 \nhttps://goo.gl/zwUeG3\nـــــــــــــــــــــــــــــــــــــــــــــــــــــــ\nهذه القناة مدعومة برعاية شركة تكوين ، لطلب الأنضمام للشركة برجاء الأشتراك من اللينك التالي :\nhttps://goo.gl/VWD6VP\n\n© Powered by Takwene",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FLZ8us5hWII/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FLZ8us5hWII/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FLZ8us5hWII/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/FLZ8us5hWII/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/FLZ8us5hWII/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 42,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "FLZ8us5hWII"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/15MUBUH7cgGsIL2Fdx11D-DBQHY\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy41MzY4MzcwOUFFRUU3QzEx",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:37:45.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Johara .Salsabellydance 2017 in Moscow. Gala Show.",
+    "description": "Dance marathon Salsabellydance 2017 in Moscow.\n. Organizer Lana Terra.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7tFthQDg0rc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7tFthQDg0rc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7tFthQDg0rc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/7tFthQDg0rc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/7tFthQDg0rc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 43,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "7tFthQDg0rc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/l0DzPA3rxjdsE7zyfpnU7GeQ0ao\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy4yQjZFRkExQjFGODk3RUFD",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:37:57.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Mercedes Nieto dancing to an oriental song",
+    "description": "Dancing to Hamada Hilal's song on the gala show of the 3rd CAIRO! Festival of Budapest, 14th of May, 2011. \r\nwww.cairofestival.com\r\nwww.nietomercedes.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/f6IapSKmJAU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/f6IapSKmJAU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/f6IapSKmJAU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/f6IapSKmJAU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/f6IapSKmJAU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 44,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "f6IapSKmJAU"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/1mXFKA-pqrWLQlbF15CSIk8VYIs\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy4yQUJFNUVCMzVDNjcxRTlF",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:38:06.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Mercedes Nieto, oriental dance: Al Atlal & Rien de rien",
+    "description": "Mercedes Ya Amar\" show in Paris, organized by Myrto and Association Zekrayet www.zekrayet.fr\nFriday, October 25th 2013\n\nChoreography: Mercedes Nieto\n\nMusic: \"Al Atlal\" from the CD \"Enti Ya Amar\", produced by Mercedes, re-arranged by Monier Abd el Aziz, original is by Oum Kalthoum; and the music of the special finale is \"Rien de Rien\" by Edith Piaf \nCostume: Sahar Okasha\nMusic is available on Mercedes' own CD that can be purchased online. Contact: info@nietomercedes.com",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wFrw1dclwgM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wFrw1dclwgM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wFrw1dclwgM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/wFrw1dclwgM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/wFrw1dclwgM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 45,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "wFrw1dclwgM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/petYd7yoVTocpbQVpscSzszOjFo\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy40QzRDOEU0QUYwNUIxN0M1",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:38:15.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Aida - Baladi (Improvisation), April 2012",
+    "description": "Baladi (Improvisation), April 2012 http://www.aida.ge/\nMusic: Hossam Ramzi",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-BKZXq_HZpo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-BKZXq_HZpo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-BKZXq_HZpo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-BKZXq_HZpo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 46,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-BKZXq_HZpo"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Uc3AYsDhtbd1KXR3FnROzxLAOPg\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy41RTNBREYwMkI5QzU3RkY2",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:38:22.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Aida - Baladi (Improvisation), May 2012",
+    "description": "Bellydance Festival \"Arus El Shark\"\nMusic by Hossam Ramzi.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Q_TdiyWnFVc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Q_TdiyWnFVc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Q_TdiyWnFVc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Q_TdiyWnFVc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 47,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Q_TdiyWnFVc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/kFZ2qNgpERAtarDhLW3NLfOrdoY\"",
+   "id": "UExFbkJQUl9fNER0WjZTRk5RRzJiRE1hc3RuTkdNbk9wYy5ENjI1QUI0MDI5NEQzODFE",
+   "snippet": {
+    "publishedAt": "2018-03-07T11:38:33.000Z",
+    "channelId": "UCA0pAZ5RXGjOJkWftslEOaQ",
+    "title": "Юля Редкоус Наил групп 2012 ноябрь",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KmWbjFTXlvA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KmWbjFTXlvA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KmWbjFTXlvA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/KmWbjFTXlvA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/KmWbjFTXlvA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "nabih tawfik",
+    "playlistId": "PLEnBPR__4DtZ6SFNQG2bDMastnNGMnOpc",
+    "position": 48,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "KmWbjFTXlvA"
+    }
+   }
+  }
+ ]
+}
