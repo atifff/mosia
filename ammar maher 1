@@ -1,2256 +1,0 @@
-{
- "kind": "youtube#playlistItemListResponse",
- "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/lazTD9SLAR0lmV_YE5B1yC23bfY\"",
- "nextPageToken": "CDIQAA",
- "pageInfo": {
-  "totalResults": 842,
-  "resultsPerPage": 50
- },
- "items": [
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/4byJMQBeB6l3FMa3ut0D56b6_Fs\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLmpjeFdfNHV4YTVF",
-   "snippet": {
-    "publishedAt": "2018-06-28T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "البنت بالبيت نادرة💪#تحشيش 2018😂 #حنوش واختة حنوشة #عمار ماهر 💯",
-    "description": "السلام عليككمم ياهلا باحلى اصدقائي شلونة المقطع ؟ عجبكم ؟ 😂😂😍 ...\n#طبعا هواية يكولولي هاي الحالة ومن المتابعيين هم حبيت امثلها الكم اذا مارين بحالات اكتبوا بالكومنتات وامثلها الكم وتعجبكم ان شاء الله واذا عدكم افكار تعجبكم امثلها كتبوها . وطبعا اني الحمد لله اشتغل ومو من هذة النوع التمبل وبس طلعات 😒💦😂😂 #شكد نكدر نوصل هذة المقطع لايكااااااات ؟؟ 😘😍 #احبكمم هوايةة والله 💜\n\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/jcxW_4uxa5E/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/jcxW_4uxa5E/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/jcxW_4uxa5E/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/jcxW_4uxa5E/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/jcxW_4uxa5E/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 0,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "jcxW_4uxa5E"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/miWqdGVPaOErrUwsUnhervjmMN8\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLjhteFkzYmgyUEpJ",
-   "snippet": {
-    "publishedAt": "2018-06-28T00:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "جاوبت على أسئلتكم📃#شنو سووة المتابعين من شافوني ؟😕#عمار ماهر💯# فلوك العمر🤩",
-    "description": "السلام عليكم شلونكم اخباركم ياربي بخير وصحة 😍😍😁ان شاء الله عجبكم الفلوك وجان يوم كلشش حلو لان شفت اصدقاء عمار ماهر وتونست بالمسبح لان ضايج والله صالي هواية ممتونس ولاطالع😭😂❤️ ووالباجر راح انزللكم مقطع يخبل على قناة #AMF فديتكم لاتتنسون تكتبون اسئلتكم حتى بالحلقة الخ هم اجاوب على الاسئلة احبكممم حييل والله وانتضرووا القادم روعة \n\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/8mxY3bh2PJI/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/8mxY3bh2PJI/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/8mxY3bh2PJI/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/8mxY3bh2PJI/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/8mxY3bh2PJI/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 1,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "8mxY3bh2PJI"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/WP8cC_VtsIreyUTvEoyUcABNlOI\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLmVzSWhQOWhfcWM0",
-   "snippet": {
-    "publishedAt": "2018-06-26T16:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "واخيرا خلصت امتحانات😍#شويت الكباب بالشمس🔥#صرت مصري #عمار ماهر 💯#فلوك عالمي💫",
-    "description": "السلام عليكم شلونكم اخباركم ياربي بخير طبعا اخوية جعفر تزوج بالفلوك الجاي اكلكم تفاصيل ومنو الاكبر اني لو هوة وياربي يوم الي الكم وتتزوجون واخلص منكم 😂😂😂😍اشاقة وياكم حبايبي احلى اصدقاء والله #احبكم حييل وياربي عجبكم الفلوك اكيد حلو😎😍😁\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/esIhP9h_qc4/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/esIhP9h_qc4/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/esIhP9h_qc4/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/esIhP9h_qc4/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/esIhP9h_qc4/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 2,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "esIhP9h_qc4"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/IvvxP2TvAOM9w_Gr1q1xdl6FzRc\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLm9qVlluOWZmeldn",
-   "snippet": {
-    "publishedAt": "2018-06-21T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "حركت طوبة حسوني🔥#شنو سويت ؟#كطعت سماعتة✂️#طن مقالب بحسوني✌️#عمار ماهر💯#ماتوكف ضحك😂",
-    "description": "السلام عليكم شلونكم اخباركم يارربي تكونون بخير😍 واخيرررا #طن مقالب لعيونكم#نكدر نوصل هذة المقطع #100 الف لايك احلى اصدقاء عمار ماهر ؟ 😘😂 #احنة كدها مو همة 😑✌️\n\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/ojVYn9ffzWg/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/ojVYn9ffzWg/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/ojVYn9ffzWg/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/ojVYn9ffzWg/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/ojVYn9ffzWg/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 3,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "ojVYn9ffzWg"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/35L4ImJCoDHhky0CHl7PS5zTBqk\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLkoySGdpLVE2TVU0",
-   "snippet": {
-    "publishedAt": "2018-06-20T16:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "لمن امك متشتريلك هدوم العيد كل يوم تكلك باجر#برنامج شلون بيكم # الحلقة الرابعة# حسنين ماهر",
-    "description": "السلام عليكم شلونكم شباب شلون صحتكم عيد سعيد للي معيد ورمضان كريم للصايم  ومع الاسف العيد صار ماموحد بين السنة الشيعة الله كريم وربي يوحد بين الجميع ويحفظهم وعذروني صارلي هواية ممنزل كملو المقطع في امان الله.\n\nادعمو الفيديوهات بالمشاركة مع الأهل و الحبايب و الكرايب و الأصدقاء ......\n\n?? شاهد المزيد من المقاطع من هنا : http://www.youtube.com/playlist?list=...\nانستكرام جعفر اخوية : Jaafar_j96\n\n?? قناتي حسنين ماهر كل أسبوع أو أكثر نزل مقطع شاء الله :\n\u200f https://www.youtube.com/channel/UCM35...\n\n?? قناة عمار ماهر أخوية القناة الرئيسيه  ادخل من الرابط :\n\u200fhttps://www.youtube.com/channel/UC66w...\n\n@ قناة عمار ماهر الثانيه ينزل بيه فلوكات و كواليس ادخل على القناة من الرابط :\n\u200f https://www.youtube.com/channel/UCG1P...\n\n#حسنين ماهر ال نجار \n#حسوني الأسدي \n#حنوسي ماهر \n\nشكرا لدعمكم المتواصل يا طيبين ربي يحفظكم من كل سوء و شر يا غاااالين \n\nبرامج التواصل الأجتماعي التابع لي بس ما افتحهن هواي ههههههههههه ....\n& تابعوني على تويتر https://twitter.com/Hassanein0Maher\n& تابعوني على الفيسبوك https://www.facebook.com/profile.php?...\n\nمع السلامة في أمان الله..........",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/J2Hgi-Q6MU4/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/J2Hgi-Q6MU4/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/J2Hgi-Q6MU4/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/J2Hgi-Q6MU4/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/J2Hgi-Q6MU4/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 4,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "J2Hgi-Q6MU4"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/WJcXE5lQitLEWLRsHYFJs9aLEzU\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLllNX3lJU1hYYzM0",
-   "snippet": {
-    "publishedAt": "2018-06-18T16:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "اشتريت راجمة تنوير🚀#كليجة امي عيدية العيد😋 #شوكت عيدت ؟#عمار ماهر💯 #تكملة الفلوك",
-    "description": "السلام عليكم ياهلاااا شلووونة االعيدد وياكم وشلونها العيديات ههههههع اني كلشي ماحصلت -_- هههههع المهم نزل التكملة مال فلوك واحتمال اليوم اروح للمنصور الي يريد يشوفني واصور فلوك اهناك اذا رحت المهم عجبكم هذة الفلوك فديتكم \n#الي مشاف البداية مالتة يروح يشوفها فوك بالدائرة \n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/YM_yISXXc34/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/YM_yISXXc34/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/YM_yISXXc34/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/YM_yISXXc34/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/YM_yISXXc34/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 5,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "YM_yISXXc34"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/QZPuP8eGRFF7MB0eC9vr_VVvToU\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLmNaQWtoODdfOXo4",
-   "snippet": {
-    "publishedAt": "2018-06-18T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "فلوك العيد 2018 #الممثل الجديد دودي شيريد ؟ #الجوراب القاتل😂 #عمار ماهر #فلوك ممتع 😍",
-    "description": "السلام عليكم شلونكم ياغاليين عيدددددددددددد سعيد وياربي يحقق الي بالكم وتبقون اصدقاء عمار ماهر لطول العمر 😂😂 طبعا هذة الفلوك طول شغلة اكثر من حلقات مراد علم دار من البارحة لليوم اشتغل بي ومانمت والله😂😂😂😂😂😭😭😭💦💔 وسويتة جزئين لان طول حيل والله وانطغة البرنامج 22 مرة بس اهم شي شغل مرتب مو مخربط مثل الجماعة 😑😂 والباجر ينزل التكملة لاتنسون تكتبون مدارسكم والجواب على السؤال ونوصل هذة المقطع #40 الف لايك اصدقائي #احبكم حيل 😍 وطبعا اسف على الكفرة الي طلعت بالمقطع مال بارحة الطفل استغفر الله ربي ما انتبهة وانتبوا على اخوانكم االصغار ترة كلشي يسمعون من الشارع اسف على الاطالة \n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/cZAkh87_9z8/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/cZAkh87_9z8/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/cZAkh87_9z8/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/cZAkh87_9z8/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/cZAkh87_9z8/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 6,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "cZAkh87_9z8"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Gx_bQDxGEVIPVIoFnBCxzJVrI1Q\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLmtOSTJ4OVdlWXZF",
-   "snippet": {
-    "publishedAt": "2018-06-15T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "اشتريت طوبة (كورة) أصلية 😎#شنو طابخين الجيران ؟ #انصدم حسوني من ابداعي 💯 #عمار ماهر #فلوك فخامة 🤙",
-    "description": "السلام عليكم شلونكم اخباركم ياربي تكونون بخير هذة الفلوك بقاني كاعد لل12 الظهر هههع وراها هم كعدت وكملتة المهم يعجبكم ويطلع حلو ياغاليين وانتضروا مقطع التحديات على قناتي الرئيسية AMF ان شاء الله يعجبككم ما اطول عليكم لاتنسون تخلون لايك #شكد نكدر نوصل المقطع ؟ (: وشير وتنطي رأيك بالفلوك وتجاوب على السؤال احبكم هوووايةةة \n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/kNI2x9WeYvE/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/kNI2x9WeYvE/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/kNI2x9WeYvE/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/kNI2x9WeYvE/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/kNI2x9WeYvE/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 7,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "kNI2x9WeYvE"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/SY4WGI_cvgRb7TL46qo71MA_j68\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLnMyOTNyb0huMURN",
-   "snippet": {
-    "publishedAt": "2018-06-15T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "جيل الايباد والعيدية 💵 #تحشيش 2018 😂#عمار ماهر 💯",
-    "description": "السلام عليكم شلونكم اخباركم صحتكم ياربي بخير وصحة عيد رمضان سعيد مبارك ههههع والله احتارينا هسة مو بدينا رمضان سوووه ليش العيد يسوة كل واحد وحد سنة وشيعة مع العلم مو كل الشيعة السبت نصهم يعني احنة ما نحجي بهاي الامور لان كلنا نكرها بس شنسوي لازم نسولف بيها احبكم حيل وربي يوفقكم وينجحكم حبايبي 😍😘😁\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/s293roHn1DM/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/s293roHn1DM/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/s293roHn1DM/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/s293roHn1DM/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/s293roHn1DM/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 8,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "s293roHn1DM"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/GmjIUcka6cfObVV9DZTOJ5K6Zys\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLllYbTEwT0xxcGpv",
-   "snippet": {
-    "publishedAt": "2018-06-09T16:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "الموهبة بشار عربي _ الذي تحدى فارس الحميد و الشلهوب🔥#تعلم تسديدة الكرة المقوسة😳 || 😎 نعم عمار ماهر �",
-    "description": "السلام عليكم ياهلا باصدقائي شلونكم اخباركم ياربي تكونون زينين واخيرا  راح اخلص امتحانات باقي امتحان واحد هذة مقطع التحديات وية بشار عربي صديقي انتضروني بمقاطع اجمل قريبا وراجعلكم نكدر نوصل المقطع #80 الف لايك ؟ 😍\n\n#قناة صديقي بشار عربي #انطلقووووا اصدقائي\nhttps://www.youtube.com/channel/UCqnqH8s3rPbYyKzm8HBRUNg\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/YXm10OLqpjo/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/YXm10OLqpjo/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/YXm10OLqpjo/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/YXm10OLqpjo/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/YXm10OLqpjo/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 9,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "YXm10OLqpjo"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/5B5CiEotmprSVgg2_kX2XC4gS8I\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLkpteG8xQndRWGpv",
-   "snippet": {
-    "publishedAt": "2018-06-06T16:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "فضيحة عمار بالموبايل😳 #مؤمل وحسوني كسروا الموبايل🙀 #تم الكشف ؟ #تحشيش 😂 #حسنين ماهر",
-    "description": "السلام عليكم شلونكم ان شاء الله زينين ربي يحفظكم لاتنسى تخلي لايك وتسوي شير للمقطع وشكرا الكم انتضروا قريبا بس يخلص عمار امتحانات اصور اكثر واحلى \n ........\n\nادعمو الفيديوهات بالمشاركة مع الأهل و الحبايب و الكرايب و الأصدقاء ......\n\n?? شاهد المزيد من المقاطع من هنا : http://www.youtube.com/playlist?list=...\nانستكرام جعفر اخوية : Jaafar_j96\n\n?? قناتي حسنين ماهر كل أسبوع أو أكثر نزل مقطع شاء الله :\n\u200f https://www.youtube.com/channel/UCM35...\n\n?? قناة عمار ماهر أخوية القناة الرئيسيه  ادخل من الرابط :\n\u200fhttps://www.youtube.com/channel/UC66w...\n\n@ قناة عمار ماهر الثانيه ينزل بيه فلوكات و كواليس ادخل على القناة من الرابط :\n\u200f https://www.youtube.com/channel/UCG1P...\n\n#حسنين ماهر ال نجار \n#حسوني الأسدي \n#حنوسي ماهر \n\nشكرا لدعمكم المتواصل يا طيبين ربي يحفظكم من كل سوء و شر يا غاااالين \n\nبرامج التواصل الأجتماعي التابع لي بس ما افتحهن هواي ههههههههههه ....\n& تابعوني على تويتر https://twitter.com/Hassanein0Maher\n& تابعوني على الفيسبوك https://www.facebook.com/profile.php?...\n\nمع السلامة في أمان الله..........",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/Jmxo1BwQXjo/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/Jmxo1BwQXjo/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/Jmxo1BwQXjo/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/Jmxo1BwQXjo/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/Jmxo1BwQXjo/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 10,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "Jmxo1BwQXjo"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/bkDKNcZusPTUcELI49WB3BT-uwA\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLjZ4bUZva01EeEk0",
-   "snippet": {
-    "publishedAt": "2018-06-05T00:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "ابو المولد 56 #لبست شمبوزة بدالة العرس #شسويت بمؤمل وحسوني ؟ #عمار ماهر #فلوك مختلف💯🔥",
-    "description": "السلام عليكم شلونكم اخباركم شفتوا شمبوزة طلعت عروسة وتخربط العريس واطشرت فلوسة ههههع طبعا اكثر فلوك تعبني هذة والله ضليت لل11 الصبح كاعد علمودة وهسة يلا كمل 😭😂💦💦 واخير المهم يعجبكم وطلع كلش حلو ياربي يحفظكم ويخليكم والكل اشوفكم بخير لاتنسون تخلون #لايك وتشاركون المقطع وتكتبون اسماء مدارسكم واسف مرة لخ للي ماذعت مدارسهم بعد ورانا فلوكات هواية ان شاء الله #وتجاوبون على السؤال #احبكممم 😍\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/6xmFokMDxI4/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/6xmFokMDxI4/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/6xmFokMDxI4/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/6xmFokMDxI4/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/6xmFokMDxI4/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 11,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "6xmFokMDxI4"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/M99X9fUujwfIK1EQBG0CiHfohUo\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLnRHb01tdTMzU3hR",
-   "snippet": {
-    "publishedAt": "2018-06-01T16:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "راح ازوج البزونة شمبوزتي #شنو مقادير حلاوة الشوفان اللذيذة ؟ #عمار ماهر #فلوك وناسة",
-    "description": "سلام عليكم شلونهم الحلوين صحتكم ياربي بخير وصحة وعافية وصيام مقبول شنو فطرتوا هههه عجبكم الفلوك لاتنسى تخلي لايك حبيبي وتسوي شير وتكتب اسم مدرستك وتجاوب على الكلمة واحبكم هواية والله واسف للي ما ذكرت اسم مدرستة انتضروا الفلوكات الجاية احلى ومقاطع على قناتي الرئيسية هم والله عندي امتحانات اندعولي بس خلي اكمل واتخرج ياغاليين وربي ينجحكم 😂😍😜\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/tGoMmu33SxQ/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/tGoMmu33SxQ/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/tGoMmu33SxQ/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/tGoMmu33SxQ/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/tGoMmu33SxQ/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 12,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "tGoMmu33SxQ"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Q6EAdUiV-Hs10lgykRirRFcU-qE\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLkZpbEhabTZjMnlr",
-   "snippet": {
-    "publishedAt": "2018-06-01T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "اذا دخلوا زعاطيط للفاتحة🔥#تحشيش 2018 😂 #عمار ماهر",
-    "description": "السلام عليكم شلونكم اخباركم ياربي بخير مشتاقلكم والله بقالي بس 3 امتحانات واخلص ياربي انجح اندعولي واتخرج 😭😂❤️ اذا عجبكم المقطع لا تنسى تخلي لايك وشير وتشارك المقطع وحطيتلكم كواليس انتضرونا بالعطلة راجعيلكم ياحلوين احبكم هووواية والله #فديتكم 😘\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/FilHZm6c2yk/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/FilHZm6c2yk/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/FilHZm6c2yk/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/FilHZm6c2yk/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/FilHZm6c2yk/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 13,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "FilHZm6c2yk"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/yAQJ-LKxTTSXkwJgNkyiF1gRM58\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLkdTaHhlWUdnbDln",
-   "snippet": {
-    "publishedAt": "2018-05-24T16:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "معانا العراقيين والنت 2018 #تحشيش انواع الشعب #حسنين ماهر",
-    "description": "السلام عليكم شلونكم رمضان كريم ياربي زينين وبخير وان شاء الله يعجبكم المقطع بعد عندي عطلة راح اكوم انزل مقاطع هواية وشكرا الكم \n ........\n\nادعمو الفيديوهات بالمشاركة مع الأهل و الحبايب و الكرايب و الأصدقاء ......\n\n?? شاهد المزيد من المقاطع من هنا : http://www.youtube.com/playlist?list=...\nانستكرام جعفر اخوية : Jaafar_j96\n\n?? قناتي حسنين ماهر كل أسبوع أو أكثر نزل مقطع شاء الله :\n\u200f https://www.youtube.com/channel/UCM35...\n\n?? قناة عمار ماهر أخوية القناة الرئيسيه  ادخل من الرابط :\n\u200fhttps://www.youtube.com/channel/UC66w...\n\n@ قناة عمار ماهر الثانيه ينزل بيه فلوكات و كواليس ادخل على القناة من الرابط :\n\u200f https://www.youtube.com/channel/UCG1P...\n\n#حسنين ماهر ال نجار \n#حسوني الأسدي \n#حنوسي ماهر \n\nشكرا لدعمكم المتواصل يا طيبين ربي يحفظكم من كل سوء و شر يا غاااالين \n\nبرامج التواصل الأجتماعي التابع لي بس ما افتحهن هواي ههههههههههه ....\n& تابعوني على تويتر https://twitter.com/Hassanein0Maher\n& تابعوني على الفيسبوك https://www.facebook.com/profile.php?...\n\nمع السلامة في أمان الله..........",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/GShxeYGgl9g/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/GShxeYGgl9g/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/GShxeYGgl9g/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/GShxeYGgl9g/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/GShxeYGgl9g/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 14,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "GShxeYGgl9g"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/N1mrSgOSfSDtMi3JRIjSyMxaqrY\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLkJXallKcVZtMkhF",
-   "snippet": {
-    "publishedAt": "2018-05-24T16:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "حسون وعمور #حسون خبث على عمور #وتم اعتقالة وتعذيبة #تحشيش 2018 #عمار ماهر",
-    "description": "السلام عليكم ياهلا وميت هلا شلونكم صحتكم والله مشتاقلكم بس امتحانات وهذة صورتة يعني اخذت يومين من ايام الدراسة وصورتة والله واندعولي اجاوب اليوم اول امتحان وربي يوفقكم كلكم #لاتنسى تضغط لايك وشير تنشر المقطع وية اصدقائك واهلك اذا صار تفاعل قوي انزل التكملة مال مقطع ما تدرون شنو صار بعدين بعمور #احبكم حيل والله \n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/BWjYJqVm2HE/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/BWjYJqVm2HE/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/BWjYJqVm2HE/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/BWjYJqVm2HE/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/BWjYJqVm2HE/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 15,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "BWjYJqVm2HE"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/ZdszL2bvLbPFoNwL3ar106oiZrc\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLlhGR1B0azIwd0hR",
-   "snippet": {
-    "publishedAt": "2018-05-18T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "اول يوم رمضان #شنو سويت لرمضان ؟ #دجاجة ابلاش #اسماء المدارس #عمار ماهر #فلوك رمضان",
-    "description": "السلام عليكم شلونكم صحتكم رمضان كريم على الجميع وياربي يحفظ الكل حتى اخوتنا المسيح وباقي الديانات ماكو فرق كلنا اخوان وربي يوحد السنة والشيعة ويفرج عن المظلومين احبكم حيل وهذة الفلوك صورتة لعيونكم وشوفوا شنو سويت لاتنسى تحط #لااااااااااايك حبيبي وشير للمقطع لكل اهلك واصدقائك #اذا تحبني مح😘\n#منو اسرع واحد راح يعرف الكلمة واكتبوا اسماء مدراسكم ياربي الكل اذيعهم...❤️\nياربي كلكم ناجحين اندعولي بالامتحانات بقة شكم يوم😭☹️\n#مقطع المقلب بمؤمل بي سر منو يعرفة ؟ #اتحداكم ..😏😉😁\nhttps://www.youtube.com/watch?v=4YntilL49UA&t=31s\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/XFGPtk20wHQ/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/XFGPtk20wHQ/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/XFGPtk20wHQ/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/XFGPtk20wHQ/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/XFGPtk20wHQ/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 16,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "XFGPtk20wHQ"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/vR6ltUjb6L49lPsQTdaxK3MeEkA\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLjRhNDhsVEpmdlNr",
-   "snippet": {
-    "publishedAt": "2018-05-18T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "تحديات رمضانية 2018 #تحدي_Juices frozen #تجمد عقلي#حسوني نحولت عينة #عمار ماهر#تحشيش😂😍",
-    "description": "السلام عليكككككم ياهلا وميت هلا باصدقائي شلوونكم ياربي بخير تحدددي يخببل وجديد من افكاري  ياربي يعجبكم لاتنسون نوصل مقطع التحديات لل#90 الف لايك تكدرون اصدقاء عمار ماهر لو لا ؟ فديتكم وهم انشر المقطع وية اهلك والاصدقاء ونشوف رأيهم بالتحدي #لاتنسون تنطون تحدياتكم واذا اشوف تحدي حلو وجديد اسوي #طبعا بلاعيمي هسة طاكة من ورة التحدي والله 😂😭❤️#صيوم مقبول من الجميع ياربي هذة التحدي صورتة البارحة بعد الفطور ياحلوين#وياربيي الكل ناجح بالامتحانات اندعولي فدوة راح تبدي امتحاناتي #احبكم \n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/4a48lTJfvSk/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/4a48lTJfvSk/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/4a48lTJfvSk/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/4a48lTJfvSk/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/4a48lTJfvSk/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 17,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "4a48lTJfvSk"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/g7YsRlgRrt7lLiMwZbRi8T__Kfs\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLjRZbnRpbEw0OVVB",
-   "snippet": {
-    "publishedAt": "2018-05-12T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "سوينة مقلب بمؤمل اني وحسوني #متت كدامة ؟ #شصار بعدين ؟#عمار ماهر #تحشيش",
-    "description": "السلام عليكم شلونكم اخباركم يالغاليين نكدر نوصل المقطع #80 الف لايك😍😂😘\nرابط تحميل برنامج http://bit.ly/SnaptubeAMFIraq  ❤️  Snaptube   \nالاشتراك بالمسابقة عبر الفيس بوك بحث بهذة الاسم @snaptubeapp \nاو من الرابط تدخل راسن للمسابقة  http://bit.ly/SnaptubeGift \n(شروط المسابقة) حتى تفوز بموبايل A8 بلص \nطريقة المشاركة هو 👇\n1- تنزيل الفيديو أو الموسيقى الخاص بشهر رمضان باستخدام snaptube.\n2- ثم ترسل التقاط الشاشة اي \"اسكرن شوت\" و@ ثلاث أصدقائك في تعليق بوست النشاط الخاص بتطبيق snaptube علىفيس بوك، \nبعد ذلك من المحتمل أن تفوز بالهاتف 📱أو النقود (فلوس)🤑\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/4YntilL49UA/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/4YntilL49UA/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/4YntilL49UA/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/4YntilL49UA/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/4YntilL49UA/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 18,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "4YntilL49UA"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/TGxAErZ7xKoF4O1OO7H_AP1gciM\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLmVUYTJkN09sTUFj",
-   "snippet": {
-    "publishedAt": "2018-05-12T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "تحشيش 2018 #من امك مريضة وابوك يكول اتزوج الثانية_دك بوكسات تصير #حسنين ماهر #شلون بيكم #3",
-    "description": "هلا شونكم اصدقائي ياربي بخير وزينين اسف جانت عندي امتحانات وكملت ان شاء الله كلكم اتكملون وتنجحون #اذا عجبكم المقطع لاتنسى تتخلي لايك خلي نشوف شكد نوصل لايكات وتسوي شير وتشارك المقطع وية اهلك واصدقائك #وعمار اخوية اليوم ينزل مقطع وية واحد من المتابعيين كلش حلو انتضروا على قناة #AMF وشكرا الكم \n ........\nادعمو الفيديوهات بالمشاركة مع الأهل و الحبايب و الكرايب و الأصدقاء ......\n\n?? شاهد المزيد من المقاطع من هنا : http://www.youtube.com/playlist?list=...\nانستكرام جعفر اخوية : Jaafar_j96\n\n?? قناتي حسنين ماهر كل أسبوع أو أكثر نزل مقطع شاء الله :\n\u200f https://www.youtube.com/channel/UCM35...\n\n?? قناة عمار ماهر أخوية القناة الرئيسيه  ادخل من الرابط :\n\u200fhttps://www.youtube.com/channel/UC66w...\n\n@ قناة عمار ماهر الثانيه ينزل بيه فلوكات و كواليس ادخل على القناة من الرابط :\n\u200f https://www.youtube.com/channel/UCG1P...\n\n#حسنين ماهر ال نجار \n#حسوني الأسدي \n#حنوسي ماهر \n\nشكرا لدعمكم المتواصل يا طيبين ربي يحفظكم من كل سوء و شر يا غاااالين \n\nبرامج التواصل الأجتماعي التابع لي بس ما افتحهن هواي ههههههههههه ....\n& تابعوني على تويتر https://twitter.com/Hassanein0Maher\n& تابعوني على الفيسبوك https://www.facebook.com/profile.php?...\n\nمع السلامة في أمان الله..........",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/eTa2d7OlMAc/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/eTa2d7OlMAc/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/eTa2d7OlMAc/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/eTa2d7OlMAc/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/eTa2d7OlMAc/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 19,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "eTa2d7OlMAc"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/n-BwDFtO6tybEVpZRjxJsNJpCO0\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLkVIQXluTVBLS1g4",
-   "snippet": {
-    "publishedAt": "2018-05-10T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "تحداني ! المتابع مصطفى #منو الي فاز بالتحدي البطل ؟ #احلى اصدقاء عمار ماهر #دعم القنوات",
-    "description": "السلام عليكم شلونكم اصدقائي صحتكم ياربي تكونون بخير مشتاقلكم والله هوواية بس ادري امتحانات واني هم عندي امتحانات وربي يوفقكم والكل ناجحين لاتنسون نكدر نوصل هذة المقطع #70 الف لايك ويارببي كل اصدقاء عمار ماهر يفوزون من كل مكان #شفتوا مقطع حسوني الجديد #احبكم حيييل والله ...❤️😘😁\n\nرابط برنامج طلباتي \nhttps://goo.gl/dzCe7k\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/EHAynMPKKX8/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/EHAynMPKKX8/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/EHAynMPKKX8/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/EHAynMPKKX8/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/EHAynMPKKX8/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 20,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "EHAynMPKKX8"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/S8Jd8F1pdm6a00fXLDlUMM2rVbo\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLjVRSFU3TlBQOEpB",
-   "snippet": {
-    "publishedAt": "2018-05-10T00:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "اشتريت قنفة + جرباية نفخ روعة #شصار وياية بالمطار عجيب ؟ #عمار ماهر",
-    "description": "السلام عليكم شلونكم اخباركم والله مشتاقلكم بس ادري اكثر الطلاب عدهم امتحانات والباقيين شغل راح ارجعلكم بالمقاطع والمقالب والفلوكات بس اخلص امتحانات اخير السنة اندعولي ياربي انجح فدوة لقلبكم والقناة الرئيسية راح ينزل بيها مقطع مفاجئة للاصدقاء المتابعيين الفاجئة هية اني اروح للمتابع ويطلع وياية بمطقع كامل ويضمن المقطع طلعة كاملة ونلعب سوة وناكل شي رووعة ومميز وبدعم من طلباتي من ينزل المقطع تعرفون الفكرة شلون (: وفديتكم #احبكم حيل والله \n\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nقناه احمد نورمان صديقي\nhttps://youtu.be/UcISvwYAPtk\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/5QHU7NPP8JA/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/5QHU7NPP8JA/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/5QHU7NPP8JA/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/5QHU7NPP8JA/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/5QHU7NPP8JA/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 21,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "5QHU7NPP8JA"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/5-fDBcKKbu2LLA_HT5eCG2-vfEQ\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLklXUFpRTG9kcDRF",
-   "snippet": {
-    "publishedAt": "2018-05-03T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "تكدر تتزوج اربعة ؟ #تحشيش 2018 #شصار بالحجي ؟/ 18+ للكبار فقط #عمار ماهر",
-    "description": "السلام عليكم شلونكم حلقة اولى من البرنامج الكوميدي #ماكو ضوجة راح تخربون ضحك #طبعا اكو مقاطع معرضناها لان اسفين نعوضكم بالقادم 😂😂 اهم شي الحجي يرجع سلامات للبيت بس الصراحة حلقة ممتعة صارت يار بتعجبكم ❤️\n#انتضروا الحلقة القادمة شنو راح يكون سؤالها لاتنسون تدعمون المقطع #وشكرا \n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/IWPZQLodp4E/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/IWPZQLodp4E/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/IWPZQLodp4E/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/IWPZQLodp4E/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/IWPZQLodp4E/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 22,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "IWPZQLodp4E"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/8PcyTHJO_2bkuq1DAQw4azF1QHs\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLnd1SUEtNU1qa3NF",
-   "snippet": {
-    "publishedAt": "2018-05-01T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "لبست دشداشة بالحفلة التنكرية #شسويت لمصطفى ؟ #عمار ماهر #فلوك نارر🔥",
-    "description": "السلام عليكم شلونكم اصدقائي ياربي عجبكم المقطع طبعا اني كتلكم كل اليوتيوبر اعتبرهم اصدقائي بس اكو يستاهلون الصداقة واكو لا ... عندي مبادرة احتمال اجمع كل اليوتيوبر العراقي ونكعد سوة يعني مو كلهم الي اكدر علية حتى ولو قسم منهم هاي المبادرة كلش حلوة وراح تفيد اليوتيوب العراقي بصورة عامة وترفع من الترابط وربي يسهلها احب الخير للكل والله واتمنة نكدر نقدملكم شي اجمل من هذة الي ينقدمة بس ضروفنا متسمح #ومبرووووك التخرج الية ولكل واحد يتخرج وياربي يوم الي الكم 😑😂😂😂#احبكم هواية ولاتنسون الدعم 😘😁😜\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/wuIA-5MjksE/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/wuIA-5MjksE/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/wuIA-5MjksE/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/wuIA-5MjksE/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/wuIA-5MjksE/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 23,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "wuIA-5MjksE"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/jAOchhucWRU56U9uhoTNC3QWnxw\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLkU0cjhvNjVXRTJB",
-   "snippet": {
-    "publishedAt": "2018-04-30T16:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "تحديات الكرة اني وعمار رهيبة #من الفاز ؟ #العقاب حلو #حسنين ماهر",
-    "description": "هلا شونكم اخباركم ياربي زينين مقطع التحدي اني وعمار كلش تعبنا بي ياربي يعجبكم نكدر نوصل  المقطع #50 الف لايك حتى انزل جزء ثالث وشكرا الكم لاتنسى تنطي رأيك بالمقطع احبكم مع السلامة \n ........\n\nادعمو الفيديوهات بالمشاركة مع الأهل و الحبايب و الكرايب و الأصدقاء ......\n\n?? شاهد المزيد من المقاطع من هنا : http://www.youtube.com/playlist?list=...\nانستكرام جعفر اخوية : Jaafar_j96\n\n?? قناتي حسنين ماهر كل أسبوع أو أكثر نزل مقطع شاء الله :\n\u200f https://www.youtube.com/channel/UCM35...\n\n?? قناة عمار ماهر أخوية القناة الرئيسيه  ادخل من الرابط :\n\u200fhttps://www.youtube.com/channel/UC66w...\n\n@ قناة عمار ماهر الثانيه ينزل بيه فلوكات و كواليس ادخل على القناة من الرابط :\n\u200f https://www.youtube.com/channel/UCG1P...\n\n#حسنين ماهر ال نجار \n#حسوني الأسدي \n#حنوسي ماهر \n\nشكرا لدعمكم المتواصل يا طيبين ربي يحفظكم من كل سوء و شر يا غاااالين \n\nبرامج التواصل الأجتماعي التابع لي بس ما افتحهن هواي ههههههههههه ....\n& تابعوني على تويتر https://twitter.com/Hassanein0Maher\n& تابعوني على الفيسبوك https://www.facebook.com/profile.php?...\n\nمع السلامة في أمان الله..........",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/E4r8o65WE2A/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/E4r8o65WE2A/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/E4r8o65WE2A/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/E4r8o65WE2A/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/E4r8o65WE2A/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 24,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "E4r8o65WE2A"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/K3m9OMKfrHUnnkAyIsLcF9aPo8k\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLmNpWF94LXc0TVlZ",
-   "snippet": {
-    "publishedAt": "2018-04-28T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "اجمل حفلة تخرج بالعراق #معهد الادارة التقني💯 #شسوو الطلاب والطالبات ؟ 😕 #عبودي غسل😂 #عمار ماهرِ👻",
-    "description": "السلام عليكم شلونكم صحتكم اصدقائي ياربي بخير فلوك تخرج معهدنا جان يوم كلش حلو والله وتنوسنا ياربي يوم الي الكم وتتخرجون وتتوضفون بأحسن الوظائف وربي يوفق الجميع احبكم #لاتنسى تخلي لايك وتشارك المقطع حبايبي....😍\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/ciX_x-w4MYY/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/ciX_x-w4MYY/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/ciX_x-w4MYY/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/ciX_x-w4MYY/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/ciX_x-w4MYY/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 25,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "ciX_x-w4MYY"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/tpLWBrSn80wxNhd4fCd6k3InZv4\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLjJLMFB2S002NXZ3",
-   "snippet": {
-    "publishedAt": "2018-04-28T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "رحلة 5 مناطق بالبايسكل #شسويت بالبزونة ؟#مؤمل وحسوني مقطع جديد #عمار ماهر",
-    "description": "السلام عليكم شلونكم اخباركم حبايبي مشتاقلكم ياربي يعجبكم الفلوك وشنو رأيكم بمقطع المقالب مال بارحة ؟ على قناة AMF #نكدر نوصل هذة الفلوك 25 الف لايك ؟ لاتنسى تدعم المقطع وتكتب شنو تحب اصورلكم وية مؤمل وحسوني وهم تريدون بعد مقالب ؟ \n\nمقطع المقالب #تحشيش #انت جلب ملقح عوعو AMF\nhttps://www.youtube.com/watch?v=Xs65l2OdIm4\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/2K0PvKM65vw/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/2K0PvKM65vw/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/2K0PvKM65vw/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/2K0PvKM65vw/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/2K0PvKM65vw/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 26,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "2K0PvKM65vw"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/pOM1EW3wFH09plHYCD7sQt2WKuw\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLllOZnhQOXFRSGJN",
-   "snippet": {
-    "publishedAt": "2018-04-28T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "مقلب اللابتوب المكسورة بحسوني #شصار بحسوني ؟😤 #تحشيش😂😂 #عمار ماهر",
-    "description": "السلام عليكم شوونكم والله مشتاقلكم يااحلى اصدقاء طبعا اكو بيكم بذاتين مايسئلون -_- ميكولون نسئل على عمار خاف محتاج شي لو صاير شي استغفر الله 😒😂😂💦 واكو لا فدوة لقلبهم يدزولي رسائل ويسئلون علية صدوك اصدقائي اني اكثر شي متواجد بالانستا حسابي جوة موجود الي مضايفني يضيفني بس والله هواية راسلئل بكل مكان وبالفيس مرات موجود المهم ما اطول صارت جريدة 😂😂يارببي عجبكم المقطع والباجر انزل فلوك بالقناة الثانية يخبل بالحفلة التنكرية ورحت لمصطفى هم #لاتنسون نكدر نوصل المقطع 60 الف لايك ؟ طبعا نكدر اكثر احبكم وعندي سؤال وجاوبوا علية بالكومنت شنو تريدون المقطع الجاي وبالنسبة للوخيروك \nاريد اسوي وية مؤمل وحسوني برمضان شنو رأيكم كلكم تحبون اللوخيروك ؟ ..  مح \n\n#حمل تطبيق باز وضيفني حبيبي \nhttp://onelink.to/ammarm\n\n#رابط مسابقة تطبيق باز بسرعة اشتركوا \nhttps://www.baaz.com/post/5ac217327892e545775d0c3c\n\nالسؤال الثاني يخص محمد صلاح \nhttps://www.baaz.com/trending/story/5ad56366438e0a5b30245fe8\n\nالسؤال الثالث سوال الكم حلو \nhttps://www.baaz.com/trending/story/5ade59c5438e0a5b307d9c41\n\n#حسابي انستكرام ضيفوني فديكم \nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/YNfxP9qQHbM/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/YNfxP9qQHbM/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/YNfxP9qQHbM/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/YNfxP9qQHbM/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/YNfxP9qQHbM/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 27,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "YNfxP9qQHbM"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/LzJyFSxg2nQHG_H0ajtgqJYdU9I\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLlhzNjVsMk9kSW00",
-   "snippet": {
-    "publishedAt": "2018-04-20T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "انت جلب ملقح ؟ #تحشيش 2018 #مقالب بالشباب كارثة #عمار ماهر",
-    "description": "السلام عليكم شلونكم اخباركم ياربي بخير وصحة مشتاقلكم هواية والله ياربي عجبكم مقطع المقالب انتضروا القادم نكدر نوصل المقطع #30 الف لايك ؟ فديتكم لاتنسون الحساباتي وتشاركون المقطع ...\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/Xs65l2OdIm4/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/Xs65l2OdIm4/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/Xs65l2OdIm4/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/Xs65l2OdIm4/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/Xs65l2OdIm4/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 28,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "Xs65l2OdIm4"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/hIfjz7dvuWM6W6GQlUxnPUt6VZ8\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLk5uYnhjU29ONHIw",
-   "snippet": {
-    "publishedAt": "2018-04-19T16:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "تحشيش 2018 #من ماتصلي الا بفلوس #مصلحجي #حسنين ماهر #شلون بيكم الحلقة2",
-    "description": "السلام عليكم شلونكم شباب شلون صحتكم ان شاء الله بخير اتمنى المقطع عجبكم \n#عمار باجر ينزل مقطع مقالب بقناتةAMF  والسبت فلوكات بالقناة الخ وشكرا \n\nادعمو الفيديوهات بالمشاركة مع الأهل و الحبايب و الكرايب و الأصدقاء ......\n\n?? شاهد المزيد من المقاطع من هنا : http://www.youtube.com/playlist?list=...\nانستكرام جعفر اخوية : Jaafar_j96\n\n?? قناتي حسنين ماهر كل أسبوع أو أكثر نزل مقطع شاء الله :\n\u200f https://www.youtube.com/channel/UCM35...\n\n?? قناة عمار ماهر أخوية القناة الرئيسيه  ادخل من الرابط :\n\u200fhttps://www.youtube.com/channel/UC66w...\n\n@ قناة عمار ماهر الثانيه ينزل بيه فلوكات و كواليس ادخل على القناة من الرابط :\n\u200f https://www.youtube.com/channel/UCG1P...\n\n#حسنين ماهر ال نجار \n#حسوني الأسدي \n#حنوسي ماهر \n\nشكرا لدعمكم المتواصل يا طيبين ربي يحفظكم من كل سوء و شر يا غاااالين \n\nبرامج التواصل الأجتماعي التابع لي بس ما افتحهن هواي ههههههههههه ....\n& تابعوني على تويتر https://twitter.com/Hassanein0Maher\n& تابعوني على الفيسبوك https://www.facebook.com/profile.php?...\n\nمع السلامة في أمان الله..........",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/NnbxcSoN4r0/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/NnbxcSoN4r0/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/NnbxcSoN4r0/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/NnbxcSoN4r0/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/NnbxcSoN4r0/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 29,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "NnbxcSoN4r0"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/V9WXJIk3jHucHl1jSqcyo46256A\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLlB0eEJrY1c3UUJN",
-   "snippet": {
-    "publishedAt": "2018-04-14T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "اني كفرت بالله ؟ _استغفر الله #اشتغلت بالحديقة ولعبت البزونة #فلوك عالمي💯 #عمار ماهر",
-    "description": "السلام عليكم ياهلا شلونكم صحتكم مشتاقون وبالف صمون 😂😂😂 شكد بايخة _ #طبعا اسف على اسم المقطع بس اضطريت اكتب هيجي بسبب الموضوع ضوجني والله والفلوك هذة شتغلت بي هوواية كلشسهرت لل4 الصبح بس اهم شي يطلع شغل مرتب واحترافي لعيونكم والله.. زين شلون فلم العقاب ؟ عجبكم منو شافة ومنو لا ؟ وانتضروا القادم لاتنسى تضغط لايك وتعلق رأيك بالمقطع وشنو تحب ولا تنسى تسويلي.. 😑 فولو بالانستاشبيك حبيبي  😍😬انتضرك #احبكم هواية والله \n\n#الفلم الاخير (العقاب)\nhttps://www.youtube.com/watch?v=BpT9dw6xBqE&t=41s\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nقناة حسوني اخوية \nhttps://www.youtube.com/watch?v=OUA2oiNwirE&t=6s\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/PtxBkcW7QBM/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/PtxBkcW7QBM/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/PtxBkcW7QBM/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/PtxBkcW7QBM/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/PtxBkcW7QBM/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 30,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "PtxBkcW7QBM"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/ZVTZ5980gE3DMwKuHvHOr8Mknzc\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLkJwVDlkdzZ4QnFF",
-   "snippet": {
-    "publishedAt": "2018-04-13T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "العقاب 🎬 | أول فلم صامت🔕 #انتبه لنفسك ❌ ؟ #عمار ماهر ✨2018 💯",
-    "description": "#الوصف حساباتي + لايك وتعليق ورأيك بالفلم يهمني جدا واذا عندك فكرة او موضوع فلم اطرحها ...نكدر نوصل هذة الفلم 40 الف لايك ؟ اصدقائي \n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/BpT9dw6xBqE/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/BpT9dw6xBqE/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/BpT9dw6xBqE/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/BpT9dw6xBqE/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/BpT9dw6xBqE/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 31,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "BpT9dw6xBqE"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/SoTMkTcVzUzasHbV4oShetpA-JY\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLlYwWW5jWEVXWUlr",
-   "snippet": {
-    "publishedAt": "2018-04-12T16:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "علاقتنة انتهت ~ 💔 مقطع رهيب للشاعر المبدع سرمد السبتي",
-    "description": "تابعوا الشاعر سرمد السبتي عبر الفيس بوك ( سرمد السبتي )\nشاهدوا قصائد الشاعر سرمد السبتي في قناتنا حصريا💝\nيحليوة \" صباح الخير وشلونج  \" تعالي بسرعة يفلانة\nقصيرتي \" صاير ما تحبني \" خجولة \" يا بيضة يا مغرورة \nالسمرة اوف السمرة \" لضوجين \" وين الله \" جفيني شرج يبنية . ضباب وخوف \" الـ 91 \" كل عام حبنا \" التعاسة \" تناقضات \" طقوس \" اشتم هجر \" بوسلياج \" اشكر الله \nليتني ما كنت احبك  \" كل النساوين انطفن . عادي الينسى\nشتة ومادافية احضاني . علاقتنة انتهت\n#القناة_الرسمية_لمحبي_الشاعر_سرمد_السبتي",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/V0YncXEWYIk/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/V0YncXEWYIk/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/V0YncXEWYIk/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/V0YncXEWYIk/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 32,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "V0YncXEWYIk"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/DFWpOMIbyTIaKa3cTUkw5nhGimo\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLkZ0Q2ktczJRclpR",
-   "snippet": {
-    "publishedAt": "2018-04-10T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "حسوني غسل واخيرا #بيش اشتريت القاط الماركة ؟ #عمار ماهر",
-    "description": "ياهلا شلونكم صحتكم ياربي بخير ما كدرت انزل يوم السبت لان الكامرة عطلت وايدي انشكت والبايسكل شكل وميت شغلة هههع بس صورت وراها نزلت هذة الفلوج اهم شي القاط الي يريد يتزوج انطي قاطي -_- وازفه بالبايسكل هم ههههع #طبعا هذة القاط مال صورة مو حلفة التخرج لان خلصت الحفلة (: #روحوا على اخر صورة بالانستا تلكوني اهناك انتضركم #احبكم \n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/FtCi-s2QrZQ/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/FtCi-s2QrZQ/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/FtCi-s2QrZQ/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/FtCi-s2QrZQ/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/FtCi-s2QrZQ/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 33,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "FtCi-s2QrZQ"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/h2bb9DVRJj6b2OmlkmgaYgP0-og\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLi1IMUZ4MzFNMmVn",
-   "snippet": {
-    "publishedAt": "2018-04-05T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "اذا عزمت جماعتك وناسي المحفضة _ شلون تحلها ؟ #تحشيش 2018 #ظواهر اجتماعية #عمار ماهر",
-    "description": "السلام عليكم شلونكم اخباركم طبعا الحمد لله خلصت امتحانات واخيرا ياربي انتو هم تخلصون وتنجحون يارب بقت بس اخير السنة واتخرج 😂😂😍 #احبكم لاتنسى تضغط لايك وتشارك المقطع وراح اصور فلم عن الحب والكذب وانتضروا القادم ولا تنسون حسابي بالانستكرام نوصل لل100 الف صارت قصة -_- 😂😂 بقة 6 الالف صديق ونوصل وشكرا وجزيلا ..\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/-H1Fx31M2eg/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/-H1Fx31M2eg/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/-H1Fx31M2eg/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/-H1Fx31M2eg/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/-H1Fx31M2eg/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 34,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "-H1Fx31M2eg"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/3pq6b3xu06KY6XYUVsRNBH5kRZ0\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLmxSQ2hSZVEwLW93",
-   "snippet": {
-    "publishedAt": "2018-04-05T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "المرور وكف السير علمودي😎 #شلكيت بالطريق ؟ #عمار ماهر",
-    "description": "السلام عليكم شلونكم اخباركم ياربي بخير القناة الرئيسية الاسبوع الجاي انزل بيها مقطع قوي لان امتحانات وماكو تفاعل واني هم الثلاثاء اخلص امتحانات الحمد لله وياربي القادم اجمل اهم شي الجارجر مالتي شفتوها هههع #احبكم لاتنسون الدعم واليوم رايح للمنصور الي يريد يشوفني متواجد ان شاء الله فديتكم (: \n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/lRChReQ0-ow/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/lRChReQ0-ow/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/lRChReQ0-ow/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/lRChReQ0-ow/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/lRChReQ0-ow/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 35,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "lRChReQ0-ow"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/jzTsx-UiJr9uv9obEh9xfZa5uc0\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLnktMUR5bWUtbHdz",
-   "snippet": {
-    "publishedAt": "2018-03-27T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "انا اذا قررت أقرة للامتحان _ شيصير ؟  #تحشيش #عمار ماهر",
-    "description": "هلا شلونكم اخباركم بالامتحانات شلونكم اني الحمد لله اليوم جاوبت بالانكلش توب هههع ياربي يعجبكم المقطع بعد اشتغللكم مقاطع احترافية هيجي متهم المشاهدات أهم شي الناس الي كعد اتابع ناس مثقفة وتستاهل مقاطع متعوبة مو تعبانة مثل الباقيين #لاتنسون الدعم ولايك وانتضروا القادم رأيكمم يهمني #احبكم حيل (: #لاتنسى تسوي فولو بالانستا مالتي مرات اسوي بي بث واسولف وياكم ..\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/y-1Dyme-lws/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/y-1Dyme-lws/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/y-1Dyme-lws/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/y-1Dyme-lws/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/y-1Dyme-lws/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 36,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "y-1Dyme-lws"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/796kITNv7RapZ1CfwIFlFWevhgw\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLk92Vm5JWUFfaUJJ",
-   "snippet": {
-    "publishedAt": "2018-03-26T16:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "طارحت ابو البورش #بيش اشتريك البايسكل ؟ #عمار ماهر",
-    "description": "شلونكم اخباركم ياربي زينين مشتاقلكم اخذت بايسكل حتى اتنوس بي بعد الله عوضني عن الراح -_- ههههع اهم شي تتونس وانسى قهر الدنيا ليش تجمع الفلوس وتروح لشي ميسوة تونس بيهن حبيبي لا تجمع وتضم #احبكم لا تنسون ادعمون المقطع وياربي الكل ناجح بالامتحانات اندعولي باجر امتحان وقت ست ايمان الغضب ...\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/OvVnIYA_iBI/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/OvVnIYA_iBI/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/OvVnIYA_iBI/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/OvVnIYA_iBI/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/OvVnIYA_iBI/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 37,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "OvVnIYA_iBI"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/XDQ-_qc0iQPFbz8x07B3erNZ4Ik\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLk9VQTJvaU53aXJF",
-   "snippet": {
-    "publishedAt": "2018-03-22T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "تحشيش #فرق بين اخوك الشاطر والكسلان #حسنين ماهر",
-    "description": "هلا شونكم اخباركم يارب يعجبكم المقطع هذة سويتة اني واخوية عمار \n ........\n\nادعمو الفيديوهات بالمشاركة مع الأهل و الحبايب و الكرايب و الأصدقاء ......\n\n?? شاهد المزيد من المقاطع من هنا : http://www.youtube.com/playlist?list=...\nانستكرام جعفر اخوية : Jaafar_j96\n\n?? قناتي حسنين ماهر كل أسبوع أو أكثر نزل مقطع شاء الله :\n\u200f https://www.youtube.com/channel/UCM35...\n\n?? قناة عمار ماهر أخوية القناة الرئيسيه  ادخل من الرابط :\n\u200fhttps://www.youtube.com/channel/UC66w...\n\n@ قناة عمار ماهر الثانيه ينزل بيه فلوكات و كواليس ادخل على القناة من الرابط :\n\u200f https://www.youtube.com/channel/UCG1P...\n\n#حسنين ماهر ال نجار \n#حسوني الأسدي \n#حنوسي ماهر \n\nشكرا لدعمكم المتواصل يا طيبين ربي يحفظكم من كل سوء و شر يا غاااالين \n\nبرامج التواصل الأجتماعي التابع لي بس ما افتحهن هواي ههههههههههه ....\n& تابعوني على تويتر https://twitter.com/Hassanein0Maher\n& تابعوني على الفيسبوك https://www.facebook.com/profile.php?...\n\nمع السلامة في أمان الله..........",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/OUA2oiNwirE/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/OUA2oiNwirE/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/OUA2oiNwirE/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/OUA2oiNwirE/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/OUA2oiNwirE/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 38,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "OUA2oiNwirE"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/bYLXIHXRuV8vaWcOwB9ifvVvI8Y\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLjhMWmlaUDdaeGNV",
-   "snippet": {
-    "publishedAt": "2018-03-22T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "تحشيش# من تتمرض ويجون خطار وأمك موجودة # شسوة عمار ؟",
-    "description": "السلام عليكم شلونكم صحتكم ياربي زينين طبعا نزلت المقطع وصار خلل وحذفتة وهسة نزلتة من جديد والباجر فلوك يخبل على القناة الثانية ومقطع جديد على هاي القناة لاتنسون الدعم ولايكات وصول مليون لايك -_- هههع ويعجبكم المقطع \n#بدربك لايك وشير وسوي تاك لصديقك لوصديقتج  الجوعي ????\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/8LZiZP7ZxcU/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/8LZiZP7ZxcU/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/8LZiZP7ZxcU/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/8LZiZP7ZxcU/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/8LZiZP7ZxcU/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 39,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "8LZiZP7ZxcU"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/4h2EaXEIq8W2mGxQaF-Hkez8QyI\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLlFxWnlOOFp4NXBV",
-   "snippet": {
-    "publishedAt": "2018-03-21T00:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "راح ابيع البزونة #ليش ؟ #شلون صورت تحديات ؟ #عمار ماهر",
-    "description": "السلام عليكم شلونكم اخباركم اسف حالتي النفسية تعبانة ومشاكل وضروف المهم انتو بخير (: فلوك بسيط وراح انزللكم مقطع الباجر ان شاء الله على قناة AMF ياربي يعجبكم والقادم اجمل لاتنسون تدعمون المقطع #احبكم  #ملاحضة ترة مابعتها البزونة بعدها ما اكدر ابيعها احبها اتعلقت بيها  ):\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/QqZyN8Zx5pU/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/QqZyN8Zx5pU/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/QqZyN8Zx5pU/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/QqZyN8Zx5pU/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/QqZyN8Zx5pU/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 40,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "QqZyN8Zx5pU"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/b9TQoBfun-8Mt2EGJmvZpmKVh_Y\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLkpVa2hCVWFjajdz",
-   "snippet": {
-    "publishedAt": "2018-03-14T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "اقوة تحدي بين عراقي وسعودي #جبتها بطل المي _ 30 متر #عمار ماهر",
-    "description": "السلام عليكم شلونكم صحتكم ياربي بخير ويعجبكم المقطع #\n#اريد منكم تكتبون #اصدقاء عمار ماهر تحركون الكومناتت بمقطع فارس انتضركم يلا \nوتحدي نوصل المقطع #60 الف لايككككك فديتكم يالغاليين وعكب باجر انزللكم مقطع تحشيش ولا تنسون الدعم وتنطون تحديات بالطوبة اكتبوا بالكومنت #احبكم كلش \n\nمقطع فارس الحميد  فلم روعة\nhttps://www.youtube.com/watch?v=XQnCuZ351Rc&feature=share\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/JUkhBUacj7s/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/JUkhBUacj7s/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/JUkhBUacj7s/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/JUkhBUacj7s/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/JUkhBUacj7s/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 41,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "JUkhBUacj7s"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/vEAye5QsKIz1JSlj_e48NFfLExk\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLjFzV2J3LW5ibzVZ",
-   "snippet": {
-    "publishedAt": "2018-03-14T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "دارك يالاخضر الجزء الأول",
-    "description": "تم رفع الحظر مبروووك\n\nhttps://youtu.be/7tHwFav4i1A\n••••••••••••••••••••••••••\n\nفي هذا الفيديو (الجزء الاول) من فيديو #دارك_يالاخضر وهو عبارة عن بادرة رئيس هيئة الرياضة آل شيخ لرفع الحظر عن الملاعب العراقيه وطلبه من رئيس الاتحاد السعودي د. عزت لإقامة مباراة ودية للمنتخب السعودي مع شقيقه العراقي في أرض العراق وذلك في إطار استعدادات منتخبنا لنهائيات كأس العالم 2018 وقد رافق منتخبنا وفد اعلامي رياضي سعودي قام بتغطية الحدث التاريخي.",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/1sWbw-nbo5Y/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/1sWbw-nbo5Y/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/1sWbw-nbo5Y/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/1sWbw-nbo5Y/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/1sWbw-nbo5Y/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 42,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "1sWbw-nbo5Y"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/DgqOz1D78ie4L711s5o4hRDTIMo\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLjdLbDNhcG8xOVd3",
-   "snippet": {
-    "publishedAt": "2018-03-13T16:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "ردة فعل يوتيوبر عراقي على لاعب كورة سعودي فارس الحميد #شنو سوة ؟ شي عجيب!",
-    "description": "السلام عليكم هلاووو يالغاليين شلونكم صحتكم \n_ مقطع فارس الحميد الجديد \nhttps://www.youtube.com/watch?v=8YW2sri1wvU&feature=share\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nتلكرام _https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...\n\nالعراق , السعودية, تحديات . مقالب . اهداف الدوري العراقي . اهداف الدوري السعودي \n,تحشيش عراقي . استهبال . وناسة . اضحك من قلبك . شي عجيب . مواقف مضحكة \nمواقف مؤلمة . تحديات يوتيوبر . شصار الهم . وش صار . شكد . اجمل الاهداف \n. مواهب رائعة .عمار ماهر . فارس الحميد #تحديات مجنونة",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/7Kl3apo19Ww/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/7Kl3apo19Ww/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/7Kl3apo19Ww/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/7Kl3apo19Ww/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/7Kl3apo19Ww/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 43,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "7Kl3apo19Ww"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/urrEHYvNxUBRku1dApHXJ_HlRFA\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLlVpNjFvNmFIRm1J",
-   "snippet": {
-    "publishedAt": "2018-03-09T16:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "حسوني دز الجهال وخربطوا غرفة عمار #تحشيش #حسنين ماهر",
-    "description": "هلو شلونكم صحتكم ياربي زينين اسف على التأخر بالنشر لان دوام مكعد اكدر اصور ان شاء الله يعجبكم المقطع وشكرا سوو لايك حتى انشر بعد \n ........\nادعمو الفيديوهات بالمشاركة مع الأهل و الحبايب و الكرايب و الأصدقاء ......\n\n?? شاهد المزيد من المقاطع من هنا : http://www.youtube.com/playlist?list=...\nانستكرام جعفر اخوية : Jaafar_j96\n\n?? قناتي حسنين ماهر كل أسبوع أو أكثر نزل مقطع شاء الله :\n\u200f https://www.youtube.com/channel/UCM35...\n\n?? قناة عمار ماهر أخوية القناة الرئيسيه  ادخل من الرابط :\n\u200fhttps://www.youtube.com/channel/UC66w...\n\n@ قناة عمار ماهر الثانيه ينزل بيه فلوكات و كواليس ادخل على القناة من الرابط :\n\u200f https://www.youtube.com/channel/UCG1P...\n\n#حسنين ماهر ال نجار \n#حسوني الأسدي \n#حنوسي ماهر \n\nشكرا لدعمكم المتواصل يا طيبين ربي يحفظكم من كل سوء و شر يا غاااالين \n\nبرامج التواصل الأجتماعي التابع لي بس ما افتحهن هواي ههههههههههه ....\n& تابعوني على تويتر https://twitter.com/Hassanein0Maher\n& تابعوني على الفيسبوك https://www.facebook.com/profile.php?...\n\nمع السلامة في أمان الله..........",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/Ui61o6aHFmI/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/Ui61o6aHFmI/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/Ui61o6aHFmI/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/Ui61o6aHFmI/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/Ui61o6aHFmI/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 44,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "Ui61o6aHFmI"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/t3mjtuVeX1za9IfkZwnEyRol-uE\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLnZRWGFwY1hYVTVF",
-   "snippet": {
-    "publishedAt": "2018-03-09T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "وداعا الشتاء واجة الصيف _ راح يشعل ابهاتنا #عمار ماهر",
-    "description": "السلام عليكم شلونكم صحتكم ياربي بخير شو ماكو طبعا الدوام والمعهد كلش متعبني مكعد الحك اصور بس انتضروا مقطع مقالب يخبل بالقناة ِAMF قريبا ..#احبكم .لاتسنون الدعم وخاصتا فولو بالانستا خلي نوصل لل100 الف صديق تحديي\n\nحسابي بالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/vQXapcXXU5E/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/vQXapcXXU5E/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/vQXapcXXU5E/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/vQXapcXXU5E/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/vQXapcXXU5E/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 45,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "vQXapcXXU5E"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/e14s_QfVu3nnBRIJ_NLB6dQIGNA\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLkZ6bjJFZXA0N2Fv",
-   "snippet": {
-    "publishedAt": "2018-03-09T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "شلون جان استقبالي ؟ #فخامة || عمار ماهر #دارك_يالاخضر _أخوان ❤️",
-    "description": "ياهلا شلوونكم صحتكم ولكم طبعا تمرضت والله هههع بس شوية صرت احسن شكرا لكل من سئل علية ... جذب محد سئل -_- هههع المهم الروحة صارت بسررعة والله وما لحكنة كلش بس جانت لعبة تخبل ويوم من العمر والله هلا باخوتنا السعوديين وماكو فرق والنبي ويارب يرفع الحضر عن وطني الغالي .. شفتوا المقطع مال دراسة على قناتي الرئيسية ؟؟ #احبكم حيل لاتنسون الدعم وصلوا المقطع 20 الف لايك احبكم (:\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/Fzn2Eep47ao/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/Fzn2Eep47ao/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/Fzn2Eep47ao/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/Fzn2Eep47ao/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/Fzn2Eep47ao/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 46,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "Fzn2Eep47ao"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/xh4xMtlpbWiAXro4oECgAJ4F69E\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLk1hV2Rsd0hrZER3",
-   "snippet": {
-    "publishedAt": "2018-03-09T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "مقالب 2018 _ بكيفي# سايقي الخاص #تحشيش #عمار ماهر",
-    "description": "السلام عليكم ياهلا شلونكم صحتكم ياربي بخير ويارب يعجبكم مقطع المقالب لان الصراحة شيب راسي على ما كمل تلث ايام بس مشي هههع لعيونكم تستاهلون التعب اهم شي الاخلاص بالعمل مو مهم المشاهدات اعرف الناس الذوق الي تستاهل التعب لاتنسون ادعمون المقطع وصلوا #50 الف لايك حتى انزل بعد مقالب قووية لعيونكم #بكيفي \nاحبكم ولاتنسون التحدي على الانستا حتى نوصل لل100 الف #صديق فديتكم \n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/MaWdlwHkdDw/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/MaWdlwHkdDw/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/MaWdlwHkdDw/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/MaWdlwHkdDw/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/MaWdlwHkdDw/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 47,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "MaWdlwHkdDw"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/wKXPXidmjSxBc2e6x1DmErsn5xY\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLkQ5UzZkT3MtaUVv",
-   "snippet": {
-    "publishedAt": "2018-03-03T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "تحشيش# عمار يقري مومل الغبي  || شنو المادة ؟ #عمار ماهر",
-    "description": "السلام عليكم شلونكم صحتكم يالغاليين مشتاقلكم هوواية والله بس التهيت وصارت السفرة ورجعت وهسة كلش مريض كوة كملت المقطع لعيونكم ياربي يعجبكم ولو بسيط لاتنسون حساباتي بالوصف مبقة شي ونوصل #الانستا لل100 الف صديق #احبكم\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/D9S6dOs-iEo/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/D9S6dOs-iEo/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/D9S6dOs-iEo/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/D9S6dOs-iEo/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/D9S6dOs-iEo/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 48,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "D9S6dOs-iEo"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Nu-DbPL1vvKBZXoZXvWTfKreI28\"",
-   "id": "TEw2Nnd0R05lTWpyRU5pVjlWS1dUalRnLkp4ZXZvX0RUbktF",
-   "snippet": {
-    "publishedAt": "2018-03-03T08:00:00.000Z",
-    "channelId": "UC66wtGNeMjrENiV9VKWTjTg",
-    "title": "لعبت بزونتي بالحديقة _ شنو سميتها ؟؟ #عمار ماهر",
-    "description": "هلا شونكم اخباركم يا اصدقائي الغاليين مشتاقيين شفتوا اسم البزونة  ههههع\nاصدقائي طبعا راح نروح للبصرة بلعبة العراق والسعودية ان شاء الله نكدر نشوف الاصدقاء اهناك والله مشتاق اشوفكم مو بس تعليقات احبكم حيل \n\nتلكرام قناة عمار ماهر_https://telegram.me/AMMARMAHERAMF\n\nسناب  : Amfilma\n\nللأعلان على قناتي \nAMFAMF200@gmail.com\n\nAmmar_AMF _  حسابي باليوناو (احجي وياية صوت وصورة) حبي \nhttps://www.younow.com/Ammar_AMF\n\nبيج عمار ماهر _ https://www.facebook.com/AmmarMaherAMF/\n\nفيس شخصي _ https://www.facebook.com/ammar.alasady.5\n\nانستكرام جعفر اخوية : Jaafar_j96\n\nالانستكرام : AMMAR_MAHER_FILM\nhttps://www.instagram.com/ammar_maher_film/\n\nايميل للمراسلة _AMMARMAHERAMF200@Gmail.com\n\nصندوق البريد الخاص\nAMMAR MAHER ABDULSAHIB\nIRAQ - BAGHDAD - KADHIMIYA\nKADHIMIYA POST OFFICE p.o.box 9120\n 12009  الرمز البريدي \n\nقناة  AM F  الرئيسية\nhttps://www.youtube.com/channel/UC66wtGNeMjrENiV9VKWTjTg/vi\ndeos\n\nحمل تطبيق AM-F  للكوميديا والتحشيش العراقي \nhttp://up.top4top.net/downloadf-116h7r21-rar.html\n\n(قناة عمار الثانية ZOOM)\nhttps://www.youtube.com/user/Dms8253/...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/Jxevo_DTnKE/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/Jxevo_DTnKE/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/Jxevo_DTnKE/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/Jxevo_DTnKE/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/Jxevo_DTnKE/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "AM F للكوميديا والتحشيش العراقي",
-    "playlistId": "LL66wtGNeMjrENiV9VKWTjTg",
-    "position": 49,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "Jxevo_DTnKE"
-    }
-   }
-  }
- ]
-}
