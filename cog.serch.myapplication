@@ -1,0 +1,101 @@
+{
+  "euro": [
+    {
+      "polo": "https://raw.githubusercontent.com/atifff/mosika/master/Privacy%20Policy",
+      "poloPRO": "3940256099942544",
+      "nain1": "1033173712",
+      "nain2": "1033173712",
+      "nain3": "1033173712",
+      "nain4": "1033173712",
+      "bain1": "6300978111",
+      "bain2": "6300978111"
+    }
+  ],
+  "obPhoto": [
+    {
+      "photo": "http://getwallpapers.com/wallpaper/full/2/1/e/7501.jpg"
+    },
+    {
+      "photo": "https://www.50-best.com/images/phone_wallpapers_and_backgrounds/snowflakes.jpg"
+    },
+    {
+      "photo": "http://cheapmichaelkorshandbags.com.co/wp-content/uploads/2018/07/Phone-Wallpapers.jpg"
+    },
+    {
+      "photo": "http://sfwallpaper.com/images/free-phone-wallpaper-sites-17.jpg"
+    },
+    {
+      "photo": "https://wallpaper-gallery.net/images/girly-phone-wallpapers/girly-phone-wallpapers-4.jpg"
+    },
+    {
+      "photo": "http://buffalosnowskiandboard.com/wp-content/uploads/2018/06/bmw-wallpaper-ipad.jpeg"
+    },
+    {
+      "photo": "http://buffalosnowskiandboard.com/wp-content/uploads/2018/06/bmw-wallpaper-phone-9.jpg"
+    },
+    {
+      "photo": "http://www.autonews.com/apps/pbcsi.dll/storyimage/CA/20170818/OEM03/170819802/AR/0/AR-170819802.jpg"
+    },
+    {
+      "photo": "https://www.androidcrush.com/wp-content/uploads//2015/10/Yellow-Color-HD-Wallpaper-For-AndroidPhone.jpg"
+    },
+    {
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/2/25/US_Navy_041027-N-9500T-001_The_moon_turns_red_and_orange_during_a_total_lunar_eclipse.jpg"
+    },
+    {
+      "photo": "https://wallpaper-house.com/data/out/12/wallpaper2you_525110.jpg"
+    }
+  ],
+  "media": [
+    {
+      "name": "الفاتحة",
+      "uel": "https://server11.mp3quran.net/sds/001.mp3",
+      "imageurl": "https://exp.cdn-hotels.com/hotels/17000000/16250000/16249700/16249642/e93a4362_z.jpg"
+    },
+    {
+      "name": "البقرة",
+      "uel": "https://server11.mp3quran.net/sds/002.mp3",
+      "imageurl": "https://alziadiq8.com/wp-content/uploads/2013/10/3910266_max.jpg"
+    },
+    {
+      "name": "ل عمران",
+      "uel": "https://server11.mp3quran.net/sds/003.mp3",
+      "imageurl": "https://exp.cdn-hotels.com/hotels/17000000/16250000/16249700/16249642/e93a4362_z.jpg"
+    },
+    {
+      "name": "النساء",
+      "uel": "https://server11.mp3quran.net/sds/004.mp3",
+      "imageurl": "https://alziadiq8.com/wp-content/uploads/2013/10/3910266_max.jpg"
+    },
+    {
+      "name": "المائدة",
+      "uel": "https://server11.mp3quran.net/sds/005.mp3",
+      "imageurl": "https://alziadiq8.com/wp-content/uploads/2013/10/3910266_max.jpg"
+    },
+    {
+      "name": "الأنفال",
+      "uel": "https://server11.mp3quran.net/sds/008.mp3",
+      "imageurl": "https://exp.cdn-hotels.com/hotels/17000000/16250000/16249700/16249642/e93a4362_z.jpg"
+    },
+    {
+      "name": "يونس",
+      "uel": "https://server11.mp3quran.net/sds/010.mp3",
+      "imageurl": "https://alziadiq8.com/wp-content/uploads/2013/10/3910266_max.jpg"
+    },
+    {
+      "name": "مريم",
+      "uel": "https://server11.mp3quran.net/sds/019.mp3",
+      "imageurl": "https://exp.cdn-hotels.com/hotels/17000000/16250000/16249700/16249642/e93a4362_z.jpg"
+    },
+    {
+      "name": "الفرقان",
+      "uel": "https://server11.mp3quran.net/sds/025.mp3",
+      "imageurl": "https://alziadiq8.com/wp-content/uploads/2013/10/3910266_max.jpg"
+    },
+    {
+      "name": "النّمل",
+      "uel": "https://server11.mp3quran.net/sds/027.mp3",
+      "imageurl": "https://exp.cdn-hotels.com/hotels/17000000/16250000/16249700/16249642/e93a4362_z.jpg"
+    }
+  ]
+}
